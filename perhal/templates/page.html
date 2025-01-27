@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Al-Qur'an Halaman {{ page_number }}</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.8;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            height: 100vh;
+            padding-top: 20px;
+        }
+        .container {
+            width: 80%;
+            max-width: 1000px;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+            margin-top: 20px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+            font-size: 1.8em;
+            color: #555;
+            margin-top: 20px;
+        }
+        .ayat {
+            margin-bottom: 25px;
+            font-size: 1.3em;
+            line-height: 1.6;
+            color: #333;
+        }
+        .ayat-number {
+            font-weight: bold;
+            color: #444;
+            margin-right: 10px;
+        }
+        .word {
+            display: inline-block;
+            position: relative;
+            margin: 0 8px;
+            padding: 5px 8px;
+            background-color: #f0f8ff;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            font-size: 1.2em;
+        }
+        .word:hover {
+            background-color: #add8e6;
+            transform: scale(1.1);
+        }
+        .word:hover .tooltip {
+            display: block;
+        }
+        .tooltip {
+            display: none;
+            position: absolute;
+            bottom: 35px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: rgba(0, 0, 0, 0.8);
+            color: #fff;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-size: 1.2em;
+            font-weight: bold;
+            white-space: nowrap;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+        }
+        .pagination {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .pagination button,
+        .pagination input {
+            padding: 10px 20px;
+            font-size: 1.2em;
+            margin: 0 10px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            background-color: #f0f8ff;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .pagination button:hover,
+        .pagination input:hover {
+            background-color: #add8e6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Halaman {{ page_number }}</h1>
+
+        {% for (surat, ayat), data in verses.items() %}
+            <p class="ayat">
+                <span class="ayat-number">{{ ayat }}.</span>
+                {% for word in data.words %}
+                    <span class="word">
+                        {{ word.id }}
+                        <span class="tooltip">{{ word.ar }}</span>
+                    </span>
+                {% endfor %}
+            </p>
+        {% endfor %}
+
+        <!-- Pagination controls -->
+        <div class="pagination">
+            <button onclick="navigatePage('prev')">Prev</button>
+            <input type="number" id="page-input" value="{{ page_number }}" min="1" max="604" onchange="navigateToPage()">
+            <button onclick="navigatePage('next')">Next</button>
+        </div>
+    </div>
+
+    <script>
+        function navigatePage(direction) {
+            let currentPage = parseInt(document.getElementById('page-input').value);
+            if (direction === 'prev' && currentPage > 1) {
+                currentPage--;
+            } else if (direction === 'next' && currentPage < 604) {
+                currentPage++;
+            }
+            document.getElementById('page-input').value = currentPage;
+            // You can add code here to load the new page dynamically or reload the page
+            window.location.href = '/page/' + currentPage;
+        }
+
+        function navigateToPage() {
+            let page = parseInt(document.getElementById('page-input').value);
+            if (page >= 1 && page <= 604) {
+                window.location.href = '/page/' + page;
+            } else {
+                alert('Nomor halaman tidak valid!');
+            }
+        }
+    </script>
+</body>
+</html>
+
