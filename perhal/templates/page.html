@@ -52,17 +52,15 @@
             margin-right: 10px;
         }
         .ayat:nth-child(odd) {
-                    background-color: #f9f9f9; /* Warna untuk baris ganjil */
-                    padding: 10px;
-                    border-radius: 8px;
-                }
-
-                .ayat:nth-child(even) {
-                    background-color: #eaf2f8; /* Warna untuk baris genap */
-                    padding: 10px;
-                    border-radius: 8px;
-                }
-
+            background-color: #f9f9f9;
+            padding: 10px;
+            border-radius: 8px;
+        }
+        .ayat:nth-child(even) {
+            background-color: #eaf2f8;
+            padding: 10px;
+            border-radius: 8px;
+        }
         .word {
             display: inline-block;
             position: relative;
@@ -133,12 +131,68 @@
         .view-option a:hover {
             background-color: #45a049;
         }
+
+        /* Media Queries for Responsiveness */
+        @media screen and (max-width: 768px) {
+            .container {
+                width: 90%;
+                padding: 15px;
+            }
+            h1 {
+                font-size: 2em;
+            }
+            h2 {
+                font-size: 1.4em;
+            }
+            .ayat {
+                font-size: 1.2em;
+            }
+            .word {
+                font-size: 1.2em;
+            }
+            .pagination button,
+            .pagination input {
+                font-size: 1em;
+                padding: 8px 16px;
+            }
+        }
+
+        @media screen and (max-width: 480px) {
+            .container {
+                width: 95%;
+                padding: 10px;
+            }
+            h1 {
+                font-size: 1.8em;
+            }
+            h2 {
+                font-size: 1.2em;
+            }
+            .ayat {
+                font-size: 1em;
+            }
+            .word {
+                font-size: 1em;
+            }
+            .pagination button,
+            .pagination input {
+                font-size: 0.9em;
+                padding: 6px 12px;
+            }
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Halaman {{ page_number }}</h1>
         <h2>Juz {{juz}} : {{nomor}}</h2>
+        <!-- Tombol navigasi -->
+        <div class="pagination">
+            <button onclick="navigatePage({{ page_number - 1 }})" {% if page_number <= 1 %}disabled{% endif %}>Prev</button>
+            <button onclick="navigateJuz('prev')">Prev Juz</button>
+            <button onclick="navigateJuz('next')">Next Juz</button>
+            <button onclick="navigatePage({{ page_number + 1 }})" {% if page_number >= 604 %}disabled{% endif %}>Next</button>
+        </div>
 
         {% for (surat, ayat), data in verses.items() %}
             <p class="ayat">
@@ -149,23 +203,26 @@
                         <span class="tooltip">{{ word.ar }}</span>
                     </span>
                 {% endfor %}
+                <audio id="audio-{{ surat }}-{{ ayat }}" src="https://everyayah.com/data/Hudhaify_128kbps/{{ '%03d'|format(surat) }}{{ '%03d'|format(ayat) }}.mp3">
+                    Your browser does not support the audio element.
+                </audio>
+                <button onclick="playAudio({{ surat }}, {{ ayat }})">Play</button>
             </p>
         {% endfor %}
 
-        <!-- Pagination controls -->
         <div class="pagination">
             <button onclick="navigatePage('prev')">Prev</button>
             <input type="number" id="page-input" value="{{ page_number }}" min="1" max="604" onchange="navigateToPage()">
             <button onclick="navigatePage('next')">Next</button>
         </div>
-         <!-- View Quran image option -->
-         <div class="view-option">
+
+        <div class="view-option">
             <a href="https://media.qurankemenag.net/khat2/QK_{{ '%03d'|format(page_number) }}.webp" target="_blank">
                 Lihat Tampilan Mushaf
             </a>
         </div>
     </div>
-
+    <!-- navigasi bawah -->
     <script>
         function navigatePage(direction) {
             let currentPage = parseInt(document.getElementById('page-input').value);
@@ -175,7 +232,6 @@
                 currentPage++;
             }
             document.getElementById('page-input').value = currentPage;
-            // You can add code here to load the new page dynamically or reload the page
             window.location.href = '/page/' + currentPage;
         }
 
@@ -188,6 +244,39 @@
             }
         }
     </script>
+    <!-- navigasi tombol play-->
+    <script>
+        function playAudio(surat, ayat) {
+            var audio = document.getElementById('audio-' + surat + '-' + ayat);
+            audio.play();
+        }
+    </script>
+    <!-- navigasi juz nomor-->
+    <script>
+        function navigatePage(page) {
+            window.location.href = `/page/${page}`;
+        }
+    
+        function navigateJuz(direction) {
+            let currentJuz = {{ juz }};
+            let targetJuz = direction === 'prev' ? currentJuz - 1 : currentJuz + 1;
+            if (targetJuz < 1 || targetJuz > 30) return;
+    
+            // Meminta data halaman awal untuk Juz dari endpoint JSON
+            fetch(`/api/juz/${targetJuz}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.start_page) {
+                        window.location.href = `/page/${data.start_page}`;
+                    } else {
+                        alert('Invalid Juz number');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('Terjadi kesalahan saat mengambil data Juz.');
+                });
+        }
+    </script>
 </body>
 </html>
-

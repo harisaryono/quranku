@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template,redirect, url_for
 import json
 
 app = Flask(__name__)
@@ -78,6 +78,39 @@ def show_page(page_number):
     verses = get_page_data(page_number)
     juz,nomor=convert_page_to_juz(page_number)
     return render_template('page.html', page_number=page_number, verses=verses,juz=juz,nomor=nomor)
+
+# Fungsi rentang Juz ke halaman
+def get_start_page_for_juz(juz):
+    juz_ranges = {
+        1: (1, 21), 2: (22, 41), 3: (42, 61), 4: (62, 81), 5: (82, 101),
+        6: (102, 121), 7: (122, 141), 8: (142, 161), 9: (162, 181), 10: (182, 201),
+        11: (202, 221), 12: (222, 241), 13: (242, 261), 14: (262, 281), 15: (282, 301),
+        16: (302, 321), 17: (322, 341), 18: (342, 361), 19: (362, 381), 20: (382, 401),
+        21: (402, 421), 22: (422, 441), 23: (442, 461), 24: (462, 481), 25: (482, 501),
+        26: (502, 521), 27: (522, 541), 28: (542, 561), 29: (562, 581), 30: (582, 604)
+    }
+
+    if juz in juz_ranges:
+        return juz_ranges[juz][0]  # Halaman awal Juz
+    return None
+
+# Endpoint untuk Juz tertentu
+@app.route('/juz/<int:juz>')
+def redirect_to_juz(juz):
+    start_page = get_start_page_for_juz(juz)
+    if start_page:
+        return redirect(url_for('show_page', page_number=start_page))
+    else:
+        return f"Juz {juz} tidak valid", 404
+
+#untuk mencari halaman awal bila diminta juz
+@app.route('/api/juz/<int:juz>')
+def get_juz_start_page(juz):
+    start_page = get_start_page_for_juz(juz)
+    if start_page:
+        return {"start_page": start_page}, 200
+    else:
+        return {"error": "Invalid Juz number"}, 404    
 
 if __name__ == '__main__':
     app.run(debug=True)
