@@ -73,6 +73,12 @@
             font-size: 1.4em;
             font-family: 'Noto Naskh Arabic', 'Amiri', serif;
         }
+        .word:nth-child(odd) {
+            background-color: #ffffff; /* Warna latar belakang untuk word ganjil */
+        }
+        .word:nth-child(even) {
+            background-color: #dceffb; /* Warna latar belakang untuk word genap */
+        }
         .word:hover {
             background-color: #add8e6;
             transform: scale(1.1);
@@ -210,10 +216,11 @@
             </p>
         {% endfor %}
 
+        <!-- navigasi bawah -->
         <div class="pagination">
-            <button onclick="navigatePage('prev')">Prev</button>
+            <button onclick="navigatePageByDirection('prev')">Prev</button>
             <input type="number" id="page-input" value="{{ page_number }}" min="1" max="604" onchange="navigateToPage()">
-            <button onclick="navigatePage('next')">Next</button>
+            <button onclick="navigatePageByDirection('next')">Next</button>
         </div>
 
         <div class="view-option">
@@ -224,7 +231,7 @@
     </div>
     <!-- navigasi bawah -->
     <script>
-        function navigatePage(direction) {
+        function navigatePageByDirection(direction) {
             let currentPage = parseInt(document.getElementById('page-input').value);
             if (direction === 'prev' && currentPage > 1) {
                 currentPage--;
@@ -234,7 +241,7 @@
             document.getElementById('page-input').value = currentPage;
             window.location.href = '/page/' + currentPage;
         }
-
+    
         function navigateToPage() {
             let page = parseInt(document.getElementById('page-input').value);
             if (page >= 1 && page <= 604) {
