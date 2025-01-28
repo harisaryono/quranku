@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Al-Qur'an Halaman {{ page_number }}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri&family=Noto+Naskh+Arabic:wght@400;600&display=swap" rel="stylesheet">
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -50,16 +51,29 @@
             color: #444;
             margin-right: 10px;
         }
+        .ayat:nth-child(odd) {
+                    background-color: #f9f9f9; /* Warna untuk baris ganjil */
+                    padding: 10px;
+                    border-radius: 8px;
+                }
+
+                .ayat:nth-child(even) {
+                    background-color: #eaf2f8; /* Warna untuk baris genap */
+                    padding: 10px;
+                    border-radius: 8px;
+                }
+
         .word {
             display: inline-block;
             position: relative;
             margin: 0 8px;
-            padding: 5px 8px;
-            background-color: #f0f8ff;
+            padding: 5px 12px;
+            background-color: #f7ecf2;
             border-radius: 8px;
             cursor: pointer;
             transition: background-color 0.3s ease, transform 0.2s ease;
-            font-size: 1.2em;
+            font-size: 1.4em;
+            font-family: 'Noto Naskh Arabic', 'Amiri', serif;
         }
         .word:hover {
             background-color: #add8e6;
@@ -82,6 +96,7 @@
             font-weight: bold;
             white-space: nowrap;
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+            font-family: 'Noto Naskh Arabic', 'Amiri', serif;
         }
         .pagination {
             text-align: center;
@@ -102,11 +117,28 @@
         .pagination input:hover {
             background-color: #add8e6;
         }
+        .view-option {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .view-option a {
+            text-decoration: none;
+            color: white;
+            background-color: #4caf50;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 1.2em;
+            transition: background-color 0.3s ease;
+        }
+        .view-option a:hover {
+            background-color: #45a049;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Halaman {{ page_number }}</h1>
+        <h2>Juz {{juz}} : {{nomor}}</h2>
 
         {% for (surat, ayat), data in verses.items() %}
             <p class="ayat">
@@ -125,6 +157,12 @@
             <button onclick="navigatePage('prev')">Prev</button>
             <input type="number" id="page-input" value="{{ page_number }}" min="1" max="604" onchange="navigateToPage()">
             <button onclick="navigatePage('next')">Next</button>
+        </div>
+         <!-- View Quran image option -->
+         <div class="view-option">
+            <a href="https://media.qurankemenag.net/khat2/QK_{{ '%03d'|format(page_number) }}.webp" target="_blank">
+                Lihat Tampilan Mushaf
+            </a>
         </div>
     </div>
 
