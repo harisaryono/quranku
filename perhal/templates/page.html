@@ -5,237 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Al-Qur'an Halaman {{ page_number }}</title>
     <link href="https://fonts.googleapis.com/css2?family=Amiri&family=Noto+Naskh+Arabic:wght@400;600&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.8;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            height: 100vh;
-            padding-top: 20px;
-        }
-        .container {
-            width: 80%;
-            max-width: 1000px;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-            border-radius: 10px;
-            overflow: hidden;
-            margin-top: 20px;
-        }
-        h1 {
-            text-align: center;
-            font-size: 2.5em;
-            color: #333;
-            margin-bottom: 20px;
-        }
-        h2 {
-            text-align: center;
-            font-size: 1.8em;
-            color: #555;
-            margin-top: 20px;
-        }
-        .ayat {
-            margin-bottom: 25px;
-            font-size: 1.3em;
-            line-height: 1.6;
-            color: #333;
-        }
-        .ayat-number {
-            font-weight: bold;
-            color: #444;
-            margin-right: 10px;
-        }
-        .ayat:nth-child(odd) {
-            background-color: #f9f9f9;
-            padding: 10px;
-            border-radius: 8px;
-        }
-        .ayat:nth-child(even) {
-            background-color: #eaf2f8;
-            padding: 10px;
-            border-radius: 8px;
-        }
-        .word {
-            display: inline-block;
-            position: relative;
-            margin: 0 8px;
-            padding: 5px 12px;
-            background-color: #f7ecf2;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            font-size: 1.4em;
-            font-family: 'Noto Naskh Arabic', 'Amiri', serif;
-        }
-        .word:nth-child(odd) {
-            background-color: #ffffff; /* Warna latar belakang untuk word ganjil */
-        }
-        .word:nth-child(even) {
-            background-color: #dceffb; /* Warna latar belakang untuk word genap */
-        }
-        .word:hover {
-            background-color: #add8e6;
-            transform: scale(1.1);
-        }
-        .word:hover .tooltip {
-            display: block;
-        }
-        .tooltip {
-            display: none;
-            position: absolute;
-            bottom: 35px;
-            left: 50%;
-            transform: translateX(-50%);
-            background-color: rgba(37, 38, 35, 0.8);
-            color: #fff;
-            padding: 12px 20px;
-            border-radius: 8px;
-            font-size: 1.2em;
-            font-weight: bold;
-            white-space: nowrap;
-            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
-            font-family: 'Noto Naskh Arabic', 'Amiri', serif;
-        }
-        /*hilangkan garis bawah untuk link di tooltip*/
-        .tooltip a {
-            color: inherit; /* Menghapus warna biru */
-            text-decoration: none; /* Menghapus garis bawah */
-        }
-        .pagination {
-            text-align: center;
-            margin-top: 30px;
-        }
-        .pagination button,
-        .pagination input {
-            padding: 10px 20px;
-            font-size: 1.2em;
-            margin: 0 10px;
-            border-radius: 5px;
-            border: 1px solid #ddd;
-            background-color: #f0f8ff;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
-        .pagination button:hover,
-        .pagination input:hover {
-            background-color: #add8e6;
-        }
-        .view-option {
-            text-align: center;
-            margin-top: 20px;
-        }
-        .view-option a {
-            text-decoration: none;
-            color: white;
-            background-color: #4caf50;
-            padding: 10px 20px;
-            border-radius: 5px;
-            font-size: 1.2em;
-            transition: background-color 0.3s ease;
-        }
-        .view-option a:hover {
-            background-color: #45a049;
-        }
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
 
-        /* Menyusun font untuk nama surat */
-        .surat-nama {
-            font-family: 'Noto Naskh Arabic', 'Amiri', serif;
-            font-size: 2.5em;
-            font-weight: bold;
-            color: #2c3e50;
-            text-align: center;
-            margin-top: 20px;
-            margin-bottom: 15px;
-            padding: 10px;
-            background-color: #ecf0f1;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        /* Tambahkan efek hover */
-        .surat-nama:hover {
-            background-color: #bdc3c7;
-            color: #34495e;
-            cursor: pointer;
-            transform: scale(1.05);
-            transition: all 0.3s ease-in-out;
-        }
-
-        /* Untuk memastikan tampilan mobile-friendly */
-        @media (max-width: 768px) {
-            .surat-nama {
-                font-size: 20px;
-                padding: 8px;
-            }
-        }
-
-
-        /* Media Queries for Responsiveness */
-        @media screen and (max-width: 768px) {
-            .container {
-                width: 90%;
-                padding: 15px;
-            }
-            h1 {
-                font-size: 2em;
-            }
-            h2 {
-                font-size: 1.4em;
-            }
-            .ayat {
-                font-size: 1.2em;
-            }
-            .word {
-                font-size: 1.2em;
-            }
-            .pagination button,
-            .pagination input {
-                font-size: 1em;
-                padding: 8px 16px;
-            }
-        }
-
-        @media screen and (max-width: 480px) {
-            .container {
-                width: 95%;
-                padding: 10px;
-            }
-            h1 {
-                font-size: 1.8em;
-            }
-            h2 {
-                font-size: 1.2em;
-            }
-            .ayat {
-                font-size: 1em;
-            }
-            .word {
-                font-size: 1em;
-            }
-            .pagination button,
-            .pagination input {
-                font-size: 0.9em;
-                padding: 6px 12px;
-            }
-        }
-    </style>
 </head>
 <body>
     <div class="container">
-        <h1>Halaman {{ page_number }}</h1>
-        <h2>Juz {{juz}} : {{nomor}}</h2>
+        <!--<h1>Halaman {{ page_number }}</h1>-->
+        <div id="juz-value" data-juz="{{ juz }}"></div>
+        <h2>Juz {{ juz }}:{{ nomor }} 
+            <img src="{{ url_for('static', filename='img/sep.webp') }}">  
+            <span class="highlight-surah">سورة {{ nama_surat1 }}</span>  
+            <img src="{{ url_for('static', filename='img/sep.webp') }}">  
+            hal {{ page_number }}
+        </h2>
         <!-- Tombol navigasi -->
         <div class="pagination">
-            <button onclick="navigatePage({{ page_number - 1 }})" {% if page_number <= 1 %}disabled{% endif %}>Prev</button>
+            <button onclick="navigatePage({{ page_number - 1 }})" {% if page_number <= 1 %}disabled{% endif %}>&laquo;  Prev</button>
             <button onclick="navigateJuz('prev')">Prev Juz</button>
             <button onclick="navigateJuz('next')">Next Juz</button>
-            <button onclick="navigatePage({{ page_number + 1 }})" {% if page_number >= 604 %}disabled{% endif %}>Next</button>
+            <button onclick="navigatePage({{ page_number + 1 }})" {% if page_number >= 604 %}disabled{% endif %}>Next  &raquo; </button>
         </div>
 
         {% for (surat, ayat), data in verses.items() %}
@@ -244,9 +33,9 @@
                 <div class="surat-nama"> {{surat}}. سورة {{ data.nama_surat }}</div>
             {% endif %}
             <p class="ayat">
-                <span class="ayat-number">{{ ayat }}.</span>
+                <span class="ayat-number" id="{{ayat}}">{{ ayat }}.</span>
                 {% for word in data.words %}
-                    <span class="word">
+                    <span class="word" >
                         {% if word.kode == 1 %}
                             {{ word.id | capitalize }}
                         {% else %}
@@ -255,7 +44,8 @@
                         <span class="tooltip"><a href="/edit/{{page_number}}/{{surat}}_{{ayat}}/{{word.kode}}">{{ word.ar }}</a></span>
                     </span>
                 {% endfor %}
-                <audio id="audio-{{ surat }}-{{ ayat }}" src="https://everyayah.com/data/Hudhaify_128kbps/{{ '%03d'|format(surat) }}{{ '%03d'|format(ayat) }}.mp3">
+                <!--Hudhaify_128kbps-->
+                <audio id="audio-{{ surat }}-{{ ayat }}" src="https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/{{ '%03d'|format(surat) }}{{ '%03d'|format(ayat) }}.mp3">
                     Your browser does not support the audio element.
                 </audio>
                 <button onclick="playAudio({{ surat }}, {{ ayat }})">Play</button>
@@ -273,63 +63,14 @@
             <a href="https://media.qurankemenag.net/khat2/QK_{{ '%03d'|format(page_number) }}.webp" target="_blank">
                 Lihat Tampilan Mushaf
             </a>
+            <!--https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/PageMp3s/Page002.mp3 -->
+            <audio id="Perpage-{{ page_number }}" src="https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/PageMp3s/Page{{ '%03d'|format(page_number) }}.mp3">
+                Your browser does not support the audio element.
+        </audio>
+        <button onclick="PerpageAudio({{ page_number }})">Play Page</button>
         </div>
     </div>
     <!-- navigasi bawah -->
-    <script>
-        function navigatePageByDirection(direction) {
-            let currentPage = parseInt(document.getElementById('page-input').value);
-            if (direction === 'prev' && currentPage > 1) {
-                currentPage--;
-            } else if (direction === 'next' && currentPage < 604) {
-                currentPage++;
-            }
-            document.getElementById('page-input').value = currentPage;
-            window.location.href = '/page/' + currentPage;
-        }
     
-        function navigateToPage() {
-            let page = parseInt(document.getElementById('page-input').value);
-            if (page >= 1 && page <= 604) {
-                window.location.href = '/page/' + page;
-            } else {
-                alert('Nomor halaman tidak valid!');
-            }
-        }
-    </script>
-    <!-- navigasi tombol play-->
-    <script>
-        function playAudio(surat, ayat) {
-            var audio = document.getElementById('audio-' + surat + '-' + ayat);
-            audio.play();
-        }
-    </script>
-    <!-- navigasi juz nomor-->
-    <script>
-        function navigatePage(page) {
-            window.location.href = `/page/${page}`;
-        }
-    
-        function navigateJuz(direction) {
-            let currentJuz = {{ juz }};
-            let targetJuz = direction === 'prev' ? currentJuz - 1 : currentJuz + 1;
-            if (targetJuz < 1 || targetJuz > 30) return;
-    
-            // Meminta data halaman awal untuk Juz dari endpoint JSON
-            fetch(`/api/juz/${targetJuz}`)
-                .then(response => response.json())
-                .then(data => {
-                    if (data.start_page) {
-                        window.location.href = `/page/${data.start_page}`;
-                    } else {
-                        alert('Invalid Juz number');
-                    }
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                    alert('Terjadi kesalahan saat mengambil data Juz.');
-                });
-        }
-    </script>
 </body>
 </html>

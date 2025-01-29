@@ -1,7 +1,7 @@
 from flask import Flask, render_template,redirect, url_for, request
 import json
 
-app = Flask(__name__)
+app = Flask(__name__,static_folder='static')
 
 JSON_FILE = 'quran_data.json'
 
@@ -87,8 +87,12 @@ def get_page_data(page_number):
 @app.route('/page/<int:page_number>')
 def show_page(page_number):
     verses = get_page_data(page_number)
+    # Ambil `nama_surat` dari ayat pertama jika ada data
+    nama_surat = next(iter(verses.values()))['nama_surat'] if verses else None
+
     juz,nomor=convert_page_to_juz(page_number)
-    return render_template('page.html', page_number=page_number, verses=verses,juz=juz,nomor=nomor)
+
+    return render_template('page.html', page_number=page_number, verses=verses,juz=juz,nomor=nomor,nama_surat1=nama_surat)
 
 # Fungsi rentang Juz ke halaman
 def get_start_page_for_juz(juz):
@@ -155,6 +159,7 @@ def edit_word(hal,surat_ayat, word_code):
     data = load_quran_data()
     word_to_edit = None
     halaman = hal
+    ayat = surat_ayat.split("_")[1]  # Mengambil bagian setelah "_"
 
     # Cari pasangan surat_ayat
     for page in data.values():
@@ -175,10 +180,10 @@ def edit_word(hal,surat_ayat, word_code):
         word_to_edit['id'] = request.form['id']
         word_to_edit['en'] = request.form['en']
         save_quran_data(data)
-        print(halaman)
-        return redirect(f'/page/{halaman}')  # Redirect ke halaman asal
+        #print(halaman)
+        return redirect(f'/page/{halaman}#{ayat}')  # Redirect ke halaman asal
 
-    return render_template('edit_word.html', word=word_to_edit, surat_ayat=surat_ayat,  halaman=halaman)
+    return render_template('edit_word.html', word=word_to_edit, surat_ayat=surat_ayat,  halaman=halaman,ayat=ayat)
 
 
 if __name__ == '__main__':
