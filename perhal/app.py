@@ -112,6 +112,33 @@ def get_juz_start_page(juz):
     else:
         return {"error": "Invalid Juz number"}, 404    
 
+# Endpoint untuk Surat dan Ayat dengan default ayat = 1
+@app.route('/surah/<int:surah>/', defaults={'ayah': 1})
+@app.route('/surah/<int:surah>/ayah/<int:ayah>')
+def redirect_to_verse(surah, ayah):
+    # Menentukan halaman berdasarkan surat dan ayat
+    page_number = get_page_number_for_verse(surah, ayah)
+    if page_number:
+        return redirect(url_for('show_page', page_number=page_number))
+    else:
+        return f"Surah {surah} dan Ayah {ayah} tidak ditemukan", 404
+
+# Fungsi untuk mencari halaman berdasarkan surah dan ayah
+def get_page_number_for_verse(surah, ayah):
+    # Baca data dari file JSON
+    json_file_path = 'quran_data.json'
+    with open(json_file_path, 'r', encoding='utf-8') as json_file:
+        data = json.load(json_file)
+
+    # Cari surat dan ayat
+    for page_number, page_data in data.items():
+        for verse_key, verse_data in page_data.items():
+            verse_surah, verse_ayah = map(int, verse_key.split('_'))
+            if verse_surah == surah and verse_ayah == ayah:
+                return int(page_number)
+    return None
+
+
 if __name__ == '__main__':
     app.run(debug=True)
 
