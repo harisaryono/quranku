@@ -185,6 +185,9 @@ def edit_word(hal,surat_ayat, word_code):
 
     return render_template('edit_word.html', word=word_to_edit, surat_ayat=surat_ayat,  halaman=halaman,ayat=ayat)
 
+@app.route('/')
+def index():
+    return render_template('index.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
