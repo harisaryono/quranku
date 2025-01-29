@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Kata</title>
+</head>
+<body>
+    <h2>Edit Kata - {{ surat_ayat }}</h2>
+    <form method="post">
+        <label>Arab:</label>
+        <input type="text" name="ar" value="{{ word.ar }}" required><br>
+        
+        <label>Terjemahan Indonesia:</label>
+        <input type="text" name="id" value="{{ word.id }}" required><br>
+        
+        <label>Terjemahan Inggris:</label>
+        <input type="text" name="en" value="{{ word.en }}" required><br>
+
+        <button type="submit">Simpan</button>
+    </form>
+    <a href="/page/{{halaman}}">Kembali</a>
+</body>
+</html>

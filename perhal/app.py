@@ -1,7 +1,18 @@
-from flask import Flask, render_template,redirect, url_for
+from flask import Flask, render_template,redirect, url_for, request
 import json
 
 app = Flask(__name__)
+
+JSON_FILE = 'quran_data.json'
+
+def load_quran_data():
+    with open(JSON_FILE, 'r', encoding='utf-8') as file:
+        return json.load(file)
+
+def save_quran_data(data):
+    with open(JSON_FILE, 'w', encoding='utf-8') as file:
+        json.dump(data, file, ensure_ascii=False, indent=4)
+
 
 def convert_page_to_juz(page_number):
     # Menentukan rentang halaman per juz
@@ -137,6 +148,37 @@ def get_page_number_for_verse(surah, ayah):
             if verse_surah == surah and verse_ayah == ayah:
                 return int(page_number)
     return None
+
+#editing data
+@app.route('/edit/<int:hal>/<surat_ayat>/<int:word_code>', methods=['GET', 'POST'])
+def edit_word(hal,surat_ayat, word_code):
+    data = load_quran_data()
+    word_to_edit = None
+    halaman = hal
+
+    # Cari pasangan surat_ayat
+    for page in data.values():
+        if surat_ayat in page:
+            # Cari kata berdasarkan kode
+            for word in page[surat_ayat]['words']:
+                if word['kode'] == word_code:
+                    word_to_edit = word
+                    break
+            
+
+    if not word_to_edit:
+        return "Kata tidak ditemukan!", 404
+
+    if request.method == 'POST':
+        # Update data berdasarkan input pengguna
+        word_to_edit['ar'] = request.form['ar']
+        word_to_edit['id'] = request.form['id']
+        word_to_edit['en'] = request.form['en']
+        save_quran_data(data)
+        print(halaman)
+        return redirect(f'/page/{halaman}')  # Redirect ke halaman asal
+
+    return render_template('edit_word.html', word=word_to_edit, surat_ayat=surat_ayat,  halaman=halaman)
 
 
 if __name__ == '__main__':

@@ -92,7 +92,7 @@
             bottom: 35px;
             left: 50%;
             transform: translateX(-50%);
-            background-color: rgba(0, 0, 0, 0.8);
+            background-color: rgba(37, 38, 35, 0.8);
             color: #fff;
             padding: 12px 20px;
             border-radius: 8px;
@@ -101,6 +101,11 @@
             white-space: nowrap;
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
             font-family: 'Noto Naskh Arabic', 'Amiri', serif;
+        }
+        /*hilangkan garis bawah untuk link di tooltip*/
+        .tooltip a {
+            color: inherit; /* Menghapus warna biru */
+            text-decoration: none; /* Menghapus garis bawah */
         }
         .pagination {
             text-align: center;
@@ -140,8 +145,8 @@
 
         /* Menyusun font untuk nama surat */
         .surat-nama {
-            font-family: 'Arial', sans-serif;
-            font-size: 24px;
+            font-family: 'Noto Naskh Arabic', 'Amiri', serif;
+            font-size: 2.5em;
             font-weight: bold;
             color: #2c3e50;
             text-align: center;
@@ -236,14 +241,18 @@
         {% for (surat, ayat), data in verses.items() %}
             {% if ayat == 1 %}
                 <!-- Tampilkan nama surat hanya untuk ayat pertama -->
-                <div class=""surat-nama">سورة {{ data.nama_surat }}</div>
+                <div class="surat-nama"> {{surat}}. سورة {{ data.nama_surat }}</div>
             {% endif %}
             <p class="ayat">
                 <span class="ayat-number">{{ ayat }}.</span>
                 {% for word in data.words %}
                     <span class="word">
-                        {{ word.id }}
-                        <span class="tooltip">{{ word.ar }}</span>
+                        {% if word.kode == 1 %}
+                            {{ word.id | capitalize }}
+                        {% else %}
+                            {{ word.id }}
+                        {% endif %}
+                        <span class="tooltip"><a href="/edit/{{page_number}}/{{surat}}_{{ayat}}/{{word.kode}}">{{ word.ar }}</a></span>
                     </span>
                 {% endfor %}
                 <audio id="audio-{{ surat }}-{{ ayat }}" src="https://everyayah.com/data/Hudhaify_128kbps/{{ '%03d'|format(surat) }}{{ '%03d'|format(ayat) }}.mp3">
