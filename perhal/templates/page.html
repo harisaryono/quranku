@@ -25,35 +25,40 @@
             <button onclick="navigateJuz('prev')">Prev Juz</button>
             <button onclick="navigateJuz('next')">Next Juz</button>
             <button onclick="navigatePage({{ page_number + 1 }})" {% if page_number >= 604 %}disabled{% endif %}>Next  &raquo; </button>
+            <select id="displayMode" onchange="toggleWordDisplay()">
+                <option value="id-ar" selected>ID (Tooltip: AR)</option>
+                <option value="ar-id">AR (Tooltip: ID)</option>
+            </select>
         </div>
 
         {% for (surat, ayat), data in verses.items() %}
             {% if ayat == 1 %}
                 <!-- Tampilkan nama surat hanya untuk ayat pertama -->
-                <div class="surat-nama"> {{surat}}. سورة {{ data.nama_surat }}</div>
+                <div class="surat-nama"> {{ surat }}. سورة {{ data.nama_surat }}</div>
             {% endif %}
+
             <p class="ayat">
-                <span class="ayat-number" id="{{surat}}_{{ayat}}">{{ ayat }}.</span>
+                <span class="ayat-number" id="{{ surat }}_{{ ayat }}">{{ ayat }}.</span>
+                
                 {% for word in data.words %}
-                    <span class="word" >
-                        {% if word.kode == 1 %}
-                            {{ word.id | capitalize }}
-                        {% else %}
-                            {{ word.id }}
-                        {% endif %}
+                    <span class="word quran-word" data-id="{{ word.id }}" data-ar="{{ word.ar }}">
+                        <span class="word-text">{{ word.id }}</span>  <!-- Default ID -->
+                        
                         <span class="tooltip">
                             {% if authorized_user %}
-                            <a href="/edit/{{page_number}}/{{surat}}_{{ayat}}/{{word.kode}}">
-                                {{ word.ar }}
-                            </a>
+                                <a href="/edit/{{ page_number }}/{{ surat }}_{{ ayat }}/{{ word.kode }}">
+                                    <span class="tooltip-text">{{ word.ar }}</span> <!-- Default Tooltip AR -->
+                                </a>
                             {% else %}
-                                {{ word.ar }}
+                                <span class="tooltip-text">{{ word.ar }}</span>
                             {% endif %}
                         </span>
                     </span>
                 {% endfor %}
-                <!--Hudhaify_128kbps-->
-                <audio id="audio-{{ surat }}-{{ ayat }}" src="https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/{{ '%03d'|format(surat) }}{{ '%03d'|format(ayat) }}.mp3">
+
+                <!-- Audio -->
+                <audio id="audio-{{ surat }}-{{ ayat }}" 
+                    src="https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/{{ '%03d'|format(surat) }}{{ '%03d'|format(ayat) }}.mp3">
                     Your browser does not support the audio element.
                 </audio>
                 <button onclick="playAudio({{ surat }}, {{ ayat }})">Play</button>
@@ -79,6 +84,28 @@
         </div>
     </div>
     <!-- navigasi bawah -->
+    <script>
+        function toggleWordDisplay() {
+            let mode = document.getElementById("displayMode").value;
+            let words = document.querySelectorAll(".quran-word");
+    
+            words.forEach(word => {
+                let idText = word.getAttribute("data-id");
+                let arText = word.getAttribute("data-ar");
+    
+                if (mode === "id-ar") {
+                    word.querySelector(".word-text").textContent = idText;   // ID sebagai teks utama
+                    word.querySelector(".tooltip-text").textContent = arText; // AR sebagai tooltip
+                } else {
+                    word.querySelector(".word-text").textContent = arText;   // AR sebagai teks utama
+                    word.querySelector(".tooltip-text").textContent = idText; // ID sebagai tooltip
+                }
+            });
+        }
+    
+        // Set default ke "id-ar" saat halaman dimuat
+        document.addEventListener("DOMContentLoaded", toggleWordDisplay);
+    </script>
     
 </body>
 </html>

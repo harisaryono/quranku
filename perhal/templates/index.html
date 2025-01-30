@@ -20,10 +20,17 @@
 
         async function handleSurahSearch(event) {
             event.preventDefault();
-            let surah = document.querySelector("input[name='surah']").value;
+            let surah = document.querySelector("select[name='surah']").value;
             let ayah = document.querySelector("input[name='ayah']").value;
+            
             if (!surah || !ayah) return;
             
+            let maxAyah = surahData.find(s => s.number == surah)?.ayahCount || 1;
+            if (ayah < 1 || ayah > maxAyah) {
+                alert(`Ayat tidak valid! Pilih antara 1 - ${maxAyah}`);
+                return;
+            }
+
             let response = await fetch(`/api/surah/${surah}/ayah/${ayah}`);
             let data = await response.json();
             if (data.page) {
@@ -38,6 +45,82 @@
                 window.location.href = `/page/${page}`;
             }
         }
+    
+        const surahData = [
+            { number: 1, name: "Al-Fatihah", ayahCount: 7 },
+            { number: 2, name: "Al-Baqarah", ayahCount: 286 },
+            { number: 3, name: "Ali 'Imran", ayahCount: 200 },
+            { number: 4, name: "An-Nisa'", ayahCount: 176 },
+            { number: 5, name: "Al-Ma'idah", ayahCount: 120 },
+            { number: 6, name: "Al-An'am", ayahCount: 165 },
+            { number: 7, name: "Al-A'raf", ayahCount: 206 },
+            { number: 8, name: "Al-Anfal", ayahCount: 75 },
+            { number: 9, name: "At-Tawbah", ayahCount: 129 },
+            { number: 10, name: "Yunus", ayahCount: 109 },
+            { number: 11, name: "Hud", ayahCount: 123 },
+            { number: 12, name: "Yusuf", ayahCount: 111 },
+            { number: 13, name: "Ar-Ra'd", ayahCount: 43 },
+            { number: 14, name: "Ibrahim", ayahCount: 52 },
+            { number: 15, name: "Al-Hijr", ayahCount: 99 },
+            { number: 16, name: "An-Nahl", ayahCount: 128 },
+            { number: 17, name: "Al-Isra'", ayahCount: 111 },
+            { number: 18, name: "Al-Kahf", ayahCount: 110 },
+            { number: 19, name: "Maryam", ayahCount: 98 },
+            { number: 20, name: "Ta-Ha", ayahCount: 135 },
+            { number: 21, name: "Al-Anbiya'", ayahCount: 112 },
+            { number: 22, name: "Al-Hajj", ayahCount: 78 },
+            { number: 23, name: "Al-Mu'minun", ayahCount: 118 },
+            { number: 24, name: "An-Nur", ayahCount: 64 },
+            { number: 25, name: "Al-Furqan", ayahCount: 77 },
+            { number: 26, name: "Asy-Syu'ara'", ayahCount: 227 },
+            { number: 27, name: "An-Naml", ayahCount: 93 },
+            { number: 28, name: "Al-Qasas", ayahCount: 88 },
+            { number: 29, name: "Al-Ankabut", ayahCount: 69 },
+            { number: 30, name: "Ar-Rum", ayahCount: 60 },
+            { number: 31, name: "Luqman", ayahCount: 34 },
+            { number: 32, name: "As-Sajdah", ayahCount: 30 },
+            { number: 33, name: "Al-Ahzab", ayahCount: 73 },
+            { number: 34, name: "Saba'", ayahCount: 54 },
+            { number: 35, name: "Fatir", ayahCount: 45 },
+            { number: 36, name: "Ya-Sin", ayahCount: 83 },
+            { number: 37, name: "As-Saffat", ayahCount: 182 },
+            { number: 38, name: "Sad", ayahCount: 88 },
+            { number: 39, name: "Az-Zumar", ayahCount: 75 },
+            { number: 40, name: "Ghafir", ayahCount: 85 },
+            { number: 41, name: "Fussilat", ayahCount: 54 },
+            { number: 42, name: "Asy-Syura", ayahCount: 53 },
+            { number: 43, name: "Az-Zukhruf", ayahCount: 89 },
+            { number: 44, name: "Ad-Dukhan", ayahCount: 59 },
+            { number: 45, name: "Al-Jasiyah", ayahCount: 37 },
+            { number: 46, name: "Al-Ahqaf", ayahCount: 35 },
+            { number: 47, name: "Muhammad", ayahCount: 38 },
+            { number: 48, name: "Al-Fath", ayahCount: 29 },
+            { number: 49, name: "Al-Hujurat", ayahCount: 18 },
+            { number: 50, name: "Qaf", ayahCount: 45 },
+        ];
+    
+        function populateSurahDropdown() {
+            let surahSelect = document.querySelector("select[name='surah']");
+            surahData.forEach(surah => {
+                let option = document.createElement("option");
+                option.value = surah.number;
+                option.textContent = `${surah.number}. ${surah.name}`;
+                surahSelect.appendChild(option);
+            });
+        }
+    
+        function updateAyahLimit() {
+            let surahNumber = document.querySelector("select[name='surah']").value;
+            let ayahInput = document.querySelector("input[name='ayah']");
+            let maxAyah = surahData.find(s => s.number == surahNumber)?.ayahCount || 1;
+            ayahInput.max = maxAyah;
+            ayahInput.placeholder = `Ayat (1-${maxAyah})`;
+        }
+    
+        document.addEventListener("DOMContentLoaded", function() {
+            populateSurahDropdown();
+            document.querySelector("select[name='surah']").addEventListener("change", updateAyahLimit);
+        });
     </script>
 </head>
 <body>
@@ -65,7 +148,9 @@
         <div class="menu-box">
             <div class="menu-title">2. Cari Surah dan Ayat</div>
             <form onsubmit="handleSurahSearch(event)" class="inline-form-group">
-                <input type="number" name="surah" placeholder="Surah" min="1" max="114" required>
+                <select name="surah" required>
+                    <option value="">Pilih Surah</option>
+                </select>
                 <input type="number" name="ayah" placeholder="Ayat" min="1" required>
                 <button type="submit">Lihat</button>
             </form>
