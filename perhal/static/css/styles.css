@@ -1,0 +1,237 @@
+        html {
+        scroll-behavior: smooth;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.8;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            height: 100vh;
+            padding-top: 20px;
+        }
+        .container {
+            width: 80%;
+            max-width: 1000px;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+            margin-top: 20px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+            font-size: 1.8em;
+            color: #555;
+            margin-top: 20px;
+        }
+        h2 img {
+            width: 30px; /* Sesuaikan ukuran sesuai kebutuhan */
+            height: auto; /* Mempertahankan rasio aspek */
+            vertical-align: middle; /* Agar sejajar dengan teks */
+        }
+
+        .highlight-surah {
+            background-color: #f4c542; /* Warna kuning keemasan */
+            color: #fff; /* Warna teks putih */
+            padding: 5px 10px; /* Ruang di dalam kotak */
+            border-radius: 8px; /* Membuat sudut membulat */
+            font-weight: bold; /* Membuat teks lebih tebal */
+            font-family: 'Noto Naskh Arabic', 'Amiri', serif;
+            display: inline-block; /* Agar tetap dalam satu baris */
+        }
+        .ayat {
+            margin-bottom: 25px;
+            font-size: 1.3em;
+            line-height: 1.6;
+            color: #333;
+        }
+        .ayat-number {
+            font-weight: bold;
+            color: #444;
+            margin-right: 10px;
+        }
+        .ayat:nth-child(odd) {
+            background-color: #f9f9f9;
+            padding: 10px;
+            border-radius: 8px;
+        }
+        .ayat:nth-child(even) {
+            background-color: #eaf2f8;
+            padding: 10px;
+            border-radius: 8px;
+        }
+        .word {
+            display: inline-block;
+            position: relative;
+            margin: 0 8px;
+            padding: 5px 12px;
+            background-color: #f7ecf2;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            font-size: 1.4em;
+            font-family: 'Noto Naskh Arabic', 'Amiri', serif;
+        }
+        .word:nth-child(odd) {
+            background-color: #ffffff; /* Warna latar belakang untuk word ganjil */
+        }
+        .word:nth-child(even) {
+            background-color: #dceffb; /* Warna latar belakang untuk word genap */
+        }
+        .word:hover {
+            background-color: #add8e6;
+            transform: scale(1.1);
+        }
+        .word:hover .tooltip {
+            display: block;
+        }
+        .tooltip {
+            display: none;
+            position: absolute;
+            bottom: 35px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: rgba(37, 38, 35, 0.8);
+            color: #fff;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-size: 1.2em;
+            font-weight: bold;
+            white-space: nowrap;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+            font-family: 'Noto Naskh Arabic', 'Amiri', serif;
+        }
+        /*hilangkan garis bawah untuk link di tooltip*/
+        .tooltip a {
+            color: inherit; /* Menghapus warna biru */
+            text-decoration: none; /* Menghapus garis bawah */
+        }
+        .pagination {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .pagination button,
+        .pagination input {
+            padding: 10px 20px;
+            font-size: 1.2em;
+            margin: 0 10px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            background-color: #f0f8ff;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .pagination button:hover,
+        .pagination input:hover {
+            background-color: #add8e6;
+        }
+        .view-option {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .view-option a {
+            text-decoration: none;
+            color: white;
+            background-color: #4caf50;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 1.2em;
+            transition: background-color 0.3s ease;
+        }
+        .view-option a:hover {
+            background-color: #45a049;
+        }
+
+        /* Menyusun font untuk nama surat */
+        .surat-nama {
+            font-family: 'Noto Naskh Arabic', 'Amiri', serif;
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #2c3e50;
+            text-align: center;
+            margin-top: 20px;
+            margin-bottom: 15px;
+            padding: 10px;
+            background-color: #ecf0f1;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Tambahkan efek hover */
+        .surat-nama:hover {
+            background-color: #bdc3c7;
+            color: #34495e;
+            cursor: pointer;
+            transform: scale(1.05);
+            transition: all 0.3s ease-in-out;
+        }
+
+        /* Untuk memastikan tampilan mobile-friendly */
+        @media (max-width: 768px) {
+            .surat-nama {
+                font-size: 20px;
+                padding: 8px;
+            }
+        }
+
+
+        /* Media Queries for Responsiveness */
+        @media screen and (max-width: 768px) {
+            .container {
+                width: 90%;
+                padding: 15px;
+            }
+            h1 {
+                font-size: 2em;
+            }
+            h2 {
+                font-size: 1.4em;
+            }
+            .ayat {
+                font-size: 1.2em;
+            }
+            .word {
+                font-size: 1.2em;
+            }
+            .pagination button,
+            .pagination input {
+                font-size: 1em;
+                padding: 8px 16px;
+            }
+        }
+
+        @media screen and (max-width: 480px) {
+            .container {
+                width: 95%;
+                padding: 10px;
+            }
+            h1 {
+                font-size: 1.8em;
+            }
+            h2 {
+                font-size: 1.2em;
+            }
+            .ayat {
+                font-size: 1em;
+            }
+            .word {
+                font-size: 1em;
+            }
+            .pagination button,
+            .pagination input {
+                font-size: 0.9em;
+                padding: 6px 12px;
+            }
+        }
+

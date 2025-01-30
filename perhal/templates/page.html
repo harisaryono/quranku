@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Al-Qur'an Halaman {{ page_number }}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri&family=Noto+Naskh+Arabic:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+
+</head>
+<body>
+    <div class="container">
+        <!--<h1>Halaman {{ page_number }}</h1>-->
+        <div id="juz-value" data-juz="{{ juz }}"></div>
+        <h2>Juz {{ juz }}:{{ nomor }} 
+            <img src="{{ url_for('static', filename='img/sep.webp') }}">  
+            <span class="highlight-surah">سورة {{ nama_surat1 }}</span>  
+            <img src="{{ url_for('static', filename='img/sep.webp') }}">  
+            hal {{ page_number }}
+        </h2>
+        <!-- Tombol navigasi -->
+        <div class="pagination">
+            <button onclick="navigatePage({{ page_number - 1 }})" {% if page_number <= 1 %}disabled{% endif %}>&laquo;  Prev</button>
+            <button onclick="navigateJuz('prev')">Prev Juz</button>
+            <button onclick="navigateJuz('next')">Next Juz</button>
+            <button onclick="navigatePage({{ page_number + 1 }})" {% if page_number >= 604 %}disabled{% endif %}>Next  &raquo; </button>
+        </div>
+
+        {% for (surat, ayat), data in verses.items() %}
+            {% if ayat == 1 %}
+                <!-- Tampilkan nama surat hanya untuk ayat pertama -->
+                <div class="surat-nama"> {{surat}}. سورة {{ data.nama_surat }}</div>
+            {% endif %}
+            <p class="ayat">
+                <span class="ayat-number" id="{{ayat}}">{{ ayat }}.</span>
+                {% for word in data.words %}
+                    <span class="word" >
+                        {% if word.kode == 1 %}
+                            {{ word.id | capitalize }}
+                        {% else %}
+                            {{ word.id }}
+                        {% endif %}
+                        <span class="tooltip"><a href="/edit/{{page_number}}/{{surat}}_{{ayat}}/{{word.kode}}">{{ word.ar }}</a></span>
+                    </span>
+                {% endfor %}
+                <!--Hudhaify_128kbps-->
+                <audio id="audio-{{ surat }}-{{ ayat }}" src="https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/{{ '%03d'|format(surat) }}{{ '%03d'|format(ayat) }}.mp3">
+                    Your browser does not support the audio element.
+                </audio>
+                <button onclick="playAudio({{ surat }}, {{ ayat }})">Play</button>
+            </p>
+        {% endfor %}
+
+        <!-- navigasi bawah -->
+        <div class="pagination">
+            <button onclick="navigatePageByDirection('prev')">Prev</button>
+            <input type="number" id="page-input" value="{{ page_number }}" min="1" max="604" onchange="navigateToPage()">
+            <button onclick="navigatePageByDirection('next')">Next</button>
+        </div>
+
+        <div class="view-option">
+            <a href="https://media.qurankemenag.net/khat2/QK_{{ '%03d'|format(page_number) }}.webp" target="_blank">
+                Lihat Tampilan Mushaf
+            </a>
+            <!--https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/PageMp3s/Page002.mp3 -->
+            <audio id="Perpage-{{ page_number }}" src="https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/PageMp3s/Page{{ '%03d'|format(page_number) }}.mp3">
+                Your browser does not support the audio element.
+        </audio>
+        <button onclick="PerpageAudio({{ page_number }})">Play Page</button>
+        </div>
+    </div>
+    <!-- navigasi bawah -->
+    
+</body>
+</html>
