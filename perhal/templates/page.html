@@ -33,7 +33,7 @@
                 <div class="surat-nama"> {{surat}}. سورة {{ data.nama_surat }}</div>
             {% endif %}
             <p class="ayat">
-                <span class="ayat-number" id="{{ayat}}">{{ ayat }}.</span>
+                <span class="ayat-number" id="{{surat}}_{{ayat}}">{{ ayat }}.</span>
                 {% for word in data.words %}
                     <span class="word" >
                         {% if word.kode == 1 %}
@@ -41,7 +41,15 @@
                         {% else %}
                             {{ word.id }}
                         {% endif %}
-                        <span class="tooltip"><a href="/edit/{{page_number}}/{{surat}}_{{ayat}}/{{word.kode}}">{{ word.ar }}</a></span>
+                        <span class="tooltip">
+                            {% if authorized_user %}
+                            <a href="/edit/{{page_number}}/{{surat}}_{{ayat}}/{{word.kode}}">
+                                {{ word.ar }}
+                            </a>
+                            {% else %}
+                                {{ word.ar }}
+                            {% endif %}
+                        </span>
                     </span>
                 {% endfor %}
                 <!--Hudhaify_128kbps-->

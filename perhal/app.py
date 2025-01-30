@@ -1,7 +1,15 @@
-from flask import Flask, render_template,redirect, url_for, request
+from flask import Flask, render_template,redirect, url_for, request,jsonify, session
 import json
 
 app = Flask(__name__,static_folder='static')
+
+app.secret_key = "kunci_rahasia_aman"  # Ganti dengan kunci yang lebih aman
+app.config["SESSION_TYPE"] = "filesystem"
+
+# Contoh user hardcoded (sebaiknya gunakan database)
+USER_CREDENTIALS = {
+    "admin": "password123"
+}
 
 JSON_FILE = 'quran_data.json'
 
@@ -13,42 +21,21 @@ def save_quran_data(data):
     with open(JSON_FILE, 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
-
-def convert_page_to_juz(page_number):
-    # Menentukan rentang halaman per juz
-    juz_ranges = {
-        1: (1, 21),
-        2: (22, 41),
-        3: (42, 61),
-        4: (62, 81),
-        5: (82, 101),
-        6: (102, 121),
-        7: (122, 141),
-        8: (142, 161),
-        9: (162, 181),
-        10: (182, 201),
-        11: (202, 221),
-        12: (222, 241),
-        13: (242, 261),
-        14: (262, 281),
-        15: (282, 301),
-        16: (302, 321),
-        17: (322, 341),
-        18: (342, 361),
-        19: (362, 381),
-        20: (382, 401),
-        21: (402, 421),
-        22: (422, 441),
-        23: (442, 461),
-        24: (462, 481),
-        25: (482, 501),
-        26: (502, 521),
-        27: (522, 541),
-        28: (542, 561),
-        29: (562, 581),
-        30: (582, 604)
+juz_ranges = {
+        1: (1, 21), 2: (22, 41), 3: (42, 61), 4: (62, 81), 5: (82, 101),
+        6: (102, 121), 7: (122, 141), 8: (142, 161), 9: (162, 181), 10: (182, 201),
+        11: (202, 221), 12: (222, 241), 13: (242, 261), 14: (262, 281), 15: (282, 301),
+        16: (302, 321), 17: (322, 341), 18: (342, 361), 19: (362, 381), 20: (382, 401),
+        21: (402, 421), 22: (422, 441), 23: (442, 461), 24: (462, 481), 25: (482, 501),
+        26: (502, 521), 27: (522, 541), 28: (542, 561), 29: (562, 581), 30: (582, 604)
     }
 
+def get_start_page_for_juz(juz):
+    global juz_ranges
+    return juz_ranges.get(juz, (None, None))[0]
+
+def convert_page_to_juz(page_number):
+    global juz_ranges
     # Menentukan juz berdasarkan halaman
     for juz, (start_page, end_page) in juz_ranges.items():
         if start_page <= page_number <= end_page:
@@ -92,22 +79,11 @@ def show_page(page_number):
 
     juz,nomor=convert_page_to_juz(page_number)
 
-    return render_template('page.html', page_number=page_number, verses=verses,juz=juz,nomor=nomor,nama_surat1=nama_surat)
+    # Mengecek apakah user sudah login
+    authorized_user = 'user' in session
 
-# Fungsi rentang Juz ke halaman
-def get_start_page_for_juz(juz):
-    juz_ranges = {
-        1: (1, 21), 2: (22, 41), 3: (42, 61), 4: (62, 81), 5: (82, 101),
-        6: (102, 121), 7: (122, 141), 8: (142, 161), 9: (162, 181), 10: (182, 201),
-        11: (202, 221), 12: (222, 241), 13: (242, 261), 14: (262, 281), 15: (282, 301),
-        16: (302, 321), 17: (322, 341), 18: (342, 361), 19: (362, 381), 20: (382, 401),
-        21: (402, 421), 22: (422, 441), 23: (442, 461), 24: (462, 481), 25: (482, 501),
-        26: (502, 521), 27: (522, 541), 28: (542, 561), 29: (562, 581), 30: (582, 604)
-    }
+    return render_template('page.html', page_number=page_number, verses=verses,juz=juz,nomor=nomor,nama_surat1=nama_surat, authorized_user=authorized_user)
 
-    if juz in juz_ranges:
-        return juz_ranges[juz][0]  # Halaman awal Juz
-    return None
 
 # Endpoint untuk Juz tertentu
 @app.route('/juz/<int:juz>')
@@ -120,12 +96,24 @@ def redirect_to_juz(juz):
 
 #untuk mencari halaman awal bila diminta juz
 @app.route('/api/juz/<int:juz>')
-def get_juz_start_page(juz):
+def api_juz(juz):
     start_page = get_start_page_for_juz(juz)
-    if start_page:
-        return {"start_page": start_page}, 200
-    else:
-        return {"error": "Invalid Juz number"}, 404    
+    return jsonify({"start_page": start_page}) if start_page else jsonify({"error": "Invalid Juz"}), 404
+ 
+def get_page_number_for_verse(surah, ayah):
+    data = load_quran_data()
+    for page_number, page_data in data.items():
+        for verse_key in page_data.keys():
+            verse_surah, verse_ayah = map(int, verse_key.split('_'))
+            if verse_surah == surah and verse_ayah == ayah:
+                return int(page_number)
+    return None
+
+@app.route('/api/surah/<int:surah>/ayah/<int:ayah>')
+def api_surah(surah, ayah):
+    page = get_page_number_for_verse(surah, ayah)
+    return jsonify({"page": page}) if page else jsonify({"error": "Ayat tidak ditemukan"}), 404
+
 
 # Endpoint untuk Surat dan Ayat dengan default ayat = 1
 @app.route('/surah/<int:surah>/', defaults={'ayah': 1})
@@ -156,6 +144,11 @@ def get_page_number_for_verse(surah, ayah):
 #editing data
 @app.route('/edit/<int:hal>/<surat_ayat>/<int:word_code>', methods=['GET', 'POST'])
 def edit_word(hal,surat_ayat, word_code):
+
+    # Mengecek apakah user sudah login
+    if 'user' not in session:
+        return redirect(url_for('login', next=request.url))  # Redirect ke halaman login jika belum login
+
     data = load_quran_data()
     word_to_edit = None
     halaman = hal
@@ -185,6 +178,25 @@ def edit_word(hal,surat_ayat, word_code):
 
     return render_template('edit_word.html', word=word_to_edit, surat_ayat=surat_ayat,  halaman=halaman,ayat=ayat)
 
+# ***************login dan logout *****************
+@app.route('/login', methods=['GET', 'POST'])
+def login():
+    if request.method == 'POST':
+        username = request.form.get('username')
+        password = request.form.get('password')
+        
+        if username in USER_CREDENTIALS and USER_CREDENTIALS[username] == password:
+            session['user'] = username  # Simpan user di session
+            return redirect(request.args.get('next') or url_for('index'))  # Redirect ke halaman yang sebelumnya diakses
+        
+    return render_template('login.html')
+
+@app.route('/logout')
+def logout():
+    session.pop('user', None)  # Hapus session user
+    return redirect(url_for('index'))  # Redirect ke halaman utama
+
+#***********************************index***********************
 @app.route('/')
 def index():
     return render_template('index.html')

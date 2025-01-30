@@ -4,114 +4,41 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quranku - Beranda</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            margin: 0;
-            padding: 0;
-            background: #f0f4f8;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            min-height: 100vh;
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/index.css') }}">
+    <script>
+        async function handleJuzSearch(event) {
+            event.preventDefault();
+            let juz = document.querySelector("select[name='juz']").value;
+            if (!juz) return;
+            
+            let response = await fetch(`/api/juz/${juz}`);
+            let data = await response.json();
+            if (data.start_page) {
+                window.location.href = `/page/${data.start_page}`;
+            }
         }
 
-        .container {
-            width: 80%;
-            max-width: 600px;
-            margin: 2rem auto;
-            padding: 2rem;
-            background: white;
-            border-radius: 15px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        async function handleSurahSearch(event) {
+            event.preventDefault();
+            let surah = document.querySelector("input[name='surah']").value;
+            let ayah = document.querySelector("input[name='ayah']").value;
+            if (!surah || !ayah) return;
+            
+            let response = await fetch(`/api/surah/${surah}/ayah/${ayah}`);
+            let data = await response.json();
+            if (data.page) {
+                window.location.href = `/page/${data.page}#${surah}_${ayah}`;
+            }
         }
 
-        .logo {
-            text-align: center;
-            margin-bottom: 2rem;
+        function handlePageSearch(event) {
+            event.preventDefault();
+            let page = document.querySelector("input[name='page']").value;
+            if (page >= 1 && page <= 604) {
+                window.location.href = `/page/${page}`;
+            }
         }
-
-        .logo img {
-            max-width: 150px;
-        }
-
-        h1 {
-            text-align: center;
-            color: #2c3e50;
-            margin-bottom: 2rem;
-            font-size: 1.5rem;
-        }
-
-        .menu-box {
-            background: #f8f9fa;
-            padding: 1.5rem;
-            border-radius: 10px;
-            margin-bottom: 1.5rem;
-        }
-
-        .menu-title {
-            color: #3498db;
-            margin-bottom: 1rem;
-            font-size: 1.1rem;
-        }
-
-        .form-group {
-            margin-bottom: 1rem;
-        }
-
-        select, input {
-            width: 100%;
-            padding: 0.8rem;
-            border: 1px solid #bdc3c7;
-            border-radius: 5px;
-            font-size: 1rem;
-            margin-bottom: 0.5rem;
-        }
-
-        button {
-            background: #3498db;
-            color: white;
-            border: none;
-            padding: 0.8rem 1.5rem;
-            border-radius: 5px;
-            cursor: pointer;
-            width: 100%;
-            font-size: 1rem;
-            transition: background 0.3s;
-        }
-
-        button:hover {
-            background: #2980b9;
-        }
-         /* Tambahkan CSS ini */
-    .inline-form-group {
-        display: flex;
-        gap: 0.5rem;
-        align-items: center;
-    }
-    
-    .inline-form-group input,
-    .inline-form-group select {
-        flex: 1;
-        margin-bottom: 0;
-    }
-    
-    .inline-form-group button {
-        flex-shrink: 0;
-        width: auto;
-        padding: 0.8rem 1.5rem;
-    }
-
-    /* Media query untuk mobile */
-    @media (max-width: 480px) {
-        .inline-form-group {
-            flex-wrap: wrap;
-        }
-        .inline-form-group > * {
-            flex: 1 1 100%;
-        }
-    }
-    </style>
+    </script>
 </head>
 <body>
     <div class="container">
@@ -123,14 +50,13 @@
         <!-- Menu 1: Pilih Juz -->
         <div class="menu-box">
             <div class="menu-title">1. Cari Berdasarkan Juz</div>
-            <form action="/" method="GET" class="inline-form-group">
+            <form onsubmit="handleJuzSearch(event)" class="inline-form-group">
                 <select name="juz" required>
                     <option value="">Pilih Juz</option>
                     {% for juz in range(1, 31) %}
                         <option value="{{ juz }}">Juz {{ juz }}</option>
                     {% endfor %}
                 </select>
-                <input type="number" name="nomor" placeholder="Nomor dalam Juz" min="1" required>
                 <button type="submit">Lihat</button>
             </form>
         </div>
@@ -138,7 +64,7 @@
         <!-- Menu 2: Cari Surah -->
         <div class="menu-box">
             <div class="menu-title">2. Cari Surah dan Ayat</div>
-            <form action="/" method="GET" class="inline-form-group">
+            <form onsubmit="handleSurahSearch(event)" class="inline-form-group">
                 <input type="number" name="surah" placeholder="Surah" min="1" max="114" required>
                 <input type="number" name="ayah" placeholder="Ayat" min="1" required>
                 <button type="submit">Lihat</button>
@@ -148,12 +74,11 @@
         <!-- Menu 3: Cari Halaman -->
         <div class="menu-box">
             <div class="menu-title">3. Cari Berdasarkan Halaman</div>
-            <form action="/page/{{page}}" method="GET" class="inline-form-group">
+            <form onsubmit="handlePageSearch(event)" class="inline-form-group">
                 <input type="number" name="page" placeholder="Halaman (1-604)" min="1" max="604" required>
                 <button type="submit">Lihat</button>
             </form>
         </div>
-
     </div>
 </body>
 </html>
