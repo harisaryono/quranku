@@ -7,6 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Amiri&family=Noto+Naskh+Arabic:wght@400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
     <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+    
 
 </head>
 <body>
@@ -15,7 +16,7 @@
         <div id="juz-value" data-juz="{{ juz }}"></div>
         <h2>Juz {{ juz }}:{{ nomor }} 
             <img src="{{ url_for('static', filename='img/sep.webp') }}">  
-            <span class="highlight-surah">سورة {{ nama_surat1 }}</span>  
+            <span class="highlight-surah"> {{nomor_surat}}. سورة {{ nama_surat1 }}</span>  
             <img src="{{ url_for('static', filename='img/sep.webp') }}">  
             hal {{ page_number }}
         </h2>
@@ -37,7 +38,7 @@
                 <div class="surat-nama"> {{ surat }}. سورة {{ data.nama_surat }}</div>
             {% endif %}
 
-            <p class="ayat">
+            <p class="ayat {{ 'rtl' if is_arabic_mode else '' }}">
                 <span class="ayat-number" id="{{ surat }}_{{ ayat }}">{{ ayat }}.</span>
                 
                 {% for word in data.words %}
@@ -85,26 +86,97 @@
     </div>
     <!-- navigasi bawah -->
     <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            let displayMode = document.getElementById("displayMode");
+            let words = document.querySelectorAll(".quran-word");
+            let container = document.querySelector(".container");
+
+            // 1. Ambil mode tampilan dari localStorage
+            let savedMode = localStorage.getItem("displayMode");
+            if (savedMode) {
+                displayMode.value = savedMode;
+            }
+
+            // 2. Pastikan tampilan sesuai dengan pilihan user
+            toggleWordDisplay();
+            toggleLanguageMode(); // 🔹 Tambahkan ini untuk memastikan RTL tetap aktif saat halaman dimuat
+
+            // 3. Simpan pilihan user di localStorage saat berubah
+            displayMode.addEventListener("change", function () {
+                localStorage.setItem("displayMode", displayMode.value);
+                toggleWordDisplay();
+                toggleLanguageMode(); // 🔹 Tambahkan ini agar perubahan mode langsung berpengaruh
+            });
+
+            // 4. Atur tooltip agar tetap dalam container
+            words.forEach(word => {
+                word.addEventListener("mouseenter", function () {
+                    let tooltip = word.querySelector(".tooltip");
+                    let container = document.querySelector(".container");
+
+                    if (tooltip && container) {
+                        // Tunggu satu frame sebelum menghitung posisi tooltip
+                        requestAnimationFrame(() => {
+                            let wordRect = word.getBoundingClientRect();
+                            let containerRect = container.getBoundingClientRect();
+                            let tooltipRect = tooltip.getBoundingClientRect();
+
+                            // Reset posisi tooltip ke tengah elemen
+                            tooltip.style.left = "50%";
+                            tooltip.style.transform = "translateX(-50%)";
+
+                            // Jika tooltip melebihi batas kiri container
+                            if (tooltipRect.left < containerRect.left) {
+                                tooltip.style.left = "0";
+                                tooltip.style.transform = "translateX(0)";
+                            }
+
+                            // Jika tooltip melebihi batas kanan container
+                            if (tooltipRect.right > containerRect.right) {
+                                tooltip.style.left = "100%";
+                                tooltip.style.transform = "translateX(-100%)";
+                            }
+                        });
+                    }
+                });
+            });
+        });
+
+        // Fungsi untuk mengubah tampilan teks & tooltip
         function toggleWordDisplay() {
             let mode = document.getElementById("displayMode").value;
             let words = document.querySelectorAll(".quran-word");
-    
+
+            // Tambahkan atau hapus kelas 'ar-id-mode' pada body
+            document.body.classList.toggle('ar-id-mode', mode === "ar-id");
+
             words.forEach(word => {
                 let idText = word.getAttribute("data-id");
                 let arText = word.getAttribute("data-ar");
-    
+                let tooltip = word.querySelector(".tooltip-text");
+
                 if (mode === "id-ar") {
-                    word.querySelector(".word-text").textContent = idText;   // ID sebagai teks utama
-                    word.querySelector(".tooltip-text").textContent = arText; // AR sebagai tooltip
+                    word.querySelector(".word-text").textContent = idText; // ID sebagai teks utama
+                    tooltip.textContent = arText; // AR sebagai tooltip
+                    tooltip.classList.add('tooltip-ar');
+                    tooltip.classList.remove('tooltip-id');
                 } else {
-                    word.querySelector(".word-text").textContent = arText;   // AR sebagai teks utama
-                    word.querySelector(".tooltip-text").textContent = idText; // ID sebagai tooltip
+                    word.querySelector(".word-text").textContent = arText; // AR sebagai teks utama
+                    tooltip.textContent = idText; // ID sebagai tooltip
+                    tooltip.classList.add('tooltip-id');
+                    tooltip.classList.remove('tooltip-ar');
                 }
             });
         }
-    
-        // Set default ke "id-ar" saat halaman dimuat
-        document.addEventListener("DOMContentLoaded", toggleWordDisplay);
+
+        // Fungsi untuk mode tampilan RTL/LTR
+        function toggleLanguageMode() {
+            document.querySelectorAll('.ayat').forEach(ayat => {
+                ayat.classList.toggle('rtl', document.getElementById("displayMode").value === "ar-id");
+            });
+        }
+
+
     </script>
     
 </body>

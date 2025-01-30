@@ -75,14 +75,22 @@ def get_page_data(page_number):
 def show_page(page_number):
     verses = get_page_data(page_number)
     # Ambil `nama_surat` dari ayat pertama jika ada data
-    nama_surat = next(iter(verses.values()))['nama_surat'] if verses else None
+    
+    # Ambil `nama_surat` dan `nomor_surat` dari ayat pertama jika ada data
+    first_key = next(iter(verses)) if verses else None
+    nama_surat = verses[first_key]['nama_surat'] if first_key else None
+    nomor_surat = first_key[0] if first_key else None  # Ambil surah_number dari key pertama
+
+    
 
     juz,nomor=convert_page_to_juz(page_number)
 
     # Mengecek apakah user sudah login
     authorized_user = 'user' in session
 
-    return render_template('page.html', page_number=page_number, verses=verses,juz=juz,nomor=nomor,nama_surat1=nama_surat, authorized_user=authorized_user)
+    return render_template('page.html', page_number=page_number, 
+                           verses=verses,juz=juz,nomor=nomor,nama_surat1=nama_surat, 
+                           nomor_surat=nomor_surat,authorized_user=authorized_user)
 
 
 # Endpoint untuk Juz tertentu
