@@ -1,0 +1,2504 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "22:1": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 1,
+                    "page": 332,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 285,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "yaayyuha||al-nasu||ittaqu||rabbakum||inna||zalzalata||al-sa'ati||shayon||azimun",
+                    "line": "3||3||3||3||3||3||3||3||3",
+                    "end": "١",
+                    "end_line": 3,
+                    "id": "wahai||manusia||bertawakallah kamu||Tuhan kalian||sesungguhnya||kegoncangan||hari kiamat||sesuatu||yang besar",
+                    "ar": "يَٰٓأَيُّهَا||ٱلنَّاسُ||ٱتَّقُواْ||رَبَّكُمۡۚ||إِنَّ||زَلۡزَلَةَ||ٱلسَّاعَةِ||شَيۡءٌ||عَظِيمٞ",
+                    "en": "O (mankind)||(O) mankind||Fear||your Lord||Indeed||(the) convulsion||(of) the Hour||(is) a thing||great"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yaaa'ayyuhan naasut taqoo Rabbakum; inna zalzalatas Saa'ati shai'un 'azeem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:2": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 2,
+                    "page": 332,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 285,
+                    "words": 22
+                },
+                "words": {
+                    "transliteration": "yawma||tarawnaha||tadhhalu||kullu||mur'di'atin||amma||arda'at||watada'u||kullu||dhati||hamlin||hamlaha||watara||al-nasa||sukara||wama||hum||bisukara||walakinna||adhaba||al-lahi||shadidun",
+                    "line": "4||4||4||4||4||4||4||4||4||5||5||5||5||5||5||5||5||5||6||6||6||6",
+                    "end": "٢",
+                    "end_line": 6,
+                    "id": "pada hari||kamu melihatnya||tidak ingat/lupa||tiap-tiap/semua||wanita yang menyusui anak||dari apa (anak)||disusukannya||dan meletakkan/gugurlah||tiap-tiap/semua||yang mempunyai||kandungan (mengandung)||kandungannya||dan kamu melihat||manusia||mabuk||dan/padahal||mereka tidak||dengan mabuk||akan tetapi||azab||Allah||sangat keras",
+                    "ar": "يَوۡمَ||تَرَوۡنَهَا||تَذۡهَلُ||كُلُّ||مُرۡضِعَةٍ||عَمَّآ||أَرۡضَعَتۡ||وَتَضَعُ||كُلُّ||ذَاتِ||حَمۡلٍ||حَمۡلَهَا||وَتَرَى||ٱلنَّاسَ||سُكَٰرَىٰ||وَمَا||هُم||بِسُكَٰرَىٰ||وَلَٰكِنَّ||عَذَابَ||ٱللَّهِ||شَدِيدٞ",
+                    "en": "(The) Day||you will see it||will forget||every||nursing mother||that which||she was nursing||and will deliver||every||pregnant woman||pregnant woman||her load||and you will see||[the] mankind||intoxicated||while not||they||(are) intoxicated||but||(the) punishment||(of) Allah||(will be) severe"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yawma tarawnahaa tazhalu kullu murdi'atin 'ammaaa arda'at Wa-tada'u kullu zaati hamlin hamlahaa Wa-taran naasa sukaaraa Wa-maa hum bisukaaraa Wa-lakinna 'azaabal laahi shadeed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:3": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 3,
+                    "page": 332,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 285,
+                    "words": 12
+                },
+                "words": {
+                    "transliteration": "wamina||al-nasi||man||yujadilu||fi||al-lahi||bighayri||il'min||wayattabi'u||kulla||shaytanin||maridin",
+                    "line": "6||6||6||6||6||6||7||7||7||7||7||7",
+                    "end": "٣",
+                    "end_line": 7,
+                    "id": "dan diantara||manusia||orang||ia membantah||dalam/tentang||Allah||dengan tidak/tanpa||ilmu pengetahuan||dan ia mengikuti||setiap/semua||syaitan||sangat jahat",
+                    "ar": "وَمِنَ||ٱلنَّاسِ||مَن||يُجَٰدِلُ||فِي||ٱللَّهِ||بِغَيۡرِ||عِلۡمٖ||وَيَتَّبِعُ||كُلَّ||شَيۡطَٰنٖ||مَّرِيدٖ",
+                    "en": "And among||the mankind||(is he) who||disputes||concerning||Allah||without||knowledge||and follows||every||devil||rebellious"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-minan naasi maien yujaadilu fil laahi bighairi ilminw Wa-yattabi'u kullaa shaitaanim mareed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:4": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 4,
+                    "page": 332,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 285,
+                    "words": 11
+                },
+                "words": {
+                    "transliteration": "kutiba||alayhi||annahu||man||tawallahu||fa-annahu||yudilluhu||wayahdihi||ila||adhabi||al-sa'iri",
+                    "line": "7||7||7||8||8||8||8||8||8||8||8",
+                    "end": "٤",
+                    "end_line": 8,
+                    "id": "telah ditetapkan||atasnya||bahwa sesungguhnya||barang siapa||berkawan dengannya||mereka sesungguhnya dia||dia menyesatkannya||dan dia memimpinnya||kepada||azab||nyala api/neraka",
+                    "ar": "كُتِبَ||عَلَيۡهِ||أَنَّهُۥ||مَن||تَوَلَّاهُ||فَأَنَّهُۥ||يُضِلُّهُۥ||وَيَهۡدِيهِ||إِلَىٰ||عَذَابِ||ٱلسَّعِيرِ",
+                    "en": "It has been decreed||for him||that he||who||befriends him||then indeed he||will misguide him||and will guide him||to||(the) punishment||(of) the Blaze"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Kutiba alaihi annahoo man tawallaahu fa-annahoo yudilluhoo Wa-yahdeehi ilaa azaabis sa'eer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:5": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 5,
+                    "page": 332,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 285,
+                    "words": 69
+                },
+                "words": {
+                    "transliteration": "yaayyuha||al-nasu||in||kuntum||fi||raybin||mina||al-ba'thi||fa-inna||khalaqnakum||min||turabin||thumma||min||nut'fatin||thumma||min||alaqatin||thumma||min||mud'ghatin||mukhallaqatin||waghayri||mukhallaqatin||linubayyina||lakum||wanuqirru||fi||al-arhami||ma||nashau||ila||ajalin||musamman||thumma||nukh'rijukum||tif'lan||thumma||litablughu||ashuddakum||waminkum||man||yutawaffa||waminkum||man||yuraddu||ila||ardhali||al-'umuri||likayla||ya'lama||min||ba'di||il'min||shayan||watara||al-arda||hamidatan||fa-idha||anzalna||alayha||al-maa||ih'tazzat||warabat||wa-anbatat||min||kulli||zawjin||bahijin",
+                    "line": "9||9||9||9||9||9||9||9||9||9||10||10||10||10||10||10||10||10||10||10||10||11||11||11||11||11||11||11||11||11||11||12||12||12||12||12||12||12||12||12||13||13||13||13||13||13||13||13||13||13||14||14||14||14||14||14||14||14||14||14||14||15||15||15||15||15||15||15||15",
+                    "end": "٥",
+                    "end_line": 15,
+                    "id": "wahai||manusia||jika||kalian adalah||dalam||keraguan||dari/tentang||kebangkitan||maka sesungguhnya Kami||Kami telah menciptakan kamu||dari||tanah||kemudian||dari||setetes mani||kemudian||dari||segumpal darah||kemudian||dari||sepotong daging||(sempurna) kejadiannya||dan tidak||(sempurna) kejadiannya||Karena Kami hendak menjelaskannya||bagi kalian||dan Kami tetapkan||dalam||rahim||apa yang||Kami kehendaki||sampai||waktu||ditentukan||kemudian||Kami keluarkan kamu||anak kecil (bayi)||kemudian||agar kamu sampai||sangatmu/kedewasaan||dan diantara kamu||orang||diwafatkan ia||dan diantara kamu||orang||dikembalikan (dipanjangkan)||sampai||hina (pikun)||umur||supaya/hingga tidak||ia mengetahui||dari||sesudah||mengetahui||sesuatu/sedikitpun||dan kamu lihat||bumi||kering||maka apabila||Kami turunkan||atasnya||air||ia bergerak/hidup||dan suburlah ia||dan ia menumbuhkan||dari||tiap-tiap/macam-macam||jodoh/jenis||indah",
+                    "ar": "يَٰٓأَيُّهَا||ٱلنَّاسُ||إِن||كُنتُمۡ||فِي||رَيۡبٖ||مِّنَ||ٱلۡبَعۡثِ||فَإِنَّا||خَلَقۡنَٰكُم||مِّن||تُرَابٖ||ثُمَّ||مِن||نُّطۡفَةٖ||ثُمَّ||مِنۡ||عَلَقَةٖ||ثُمَّ||مِن||مُّضۡغَةٖ||مُّخَلَّقَةٖ||وَغَيۡرِ||مُخَلَّقَةٖ||لِّنُبَيِّنَ||لَكُمۡۚ||وَنُقِرُّ||فِي||ٱلۡأَرۡحَامِ||مَا||نَشَآءُ||إِلَىٰٓ||أَجَلٖ||مُّسَمّٗى||ثُمَّ||نُخۡرِجُكُمۡ||طِفۡلٗا||ثُمَّ||لِتَبۡلُغُوٓاْ||أَشُدَّكُمۡۖ||وَمِنكُم||مَّن||يُتَوَفَّىٰ||وَمِنكُم||مَّن||يُرَدُّ||إِلَىٰٓ||أَرۡذَلِ||ٱلۡعُمُرِ||لِكَيۡلَا||يَعۡلَمَ||مِنۢ||بَعۡدِ||عِلۡمٖ||شَيۡـٔٗاۚ||وَتَرَى||ٱلۡأَرۡضَ||هَامِدَةٗ||فَإِذَآ||أَنزَلۡنَا||عَلَيۡهَا||ٱلۡمَآءَ||ٱهۡتَزَّتۡ||وَرَبَتۡ||وَأَنۢبَتَتۡ||مِن||كُلِّ||زَوۡجِۭ||بَهِيجٖ",
+                    "en": "O mankind||O mankind||If||you are||in||doubt||about||the Resurrection||then indeed, We||We created you||from||dust||then||from||a semen-drop||then||from||a clinging substance||then||from||an embryonic lump||formed||and unformed||and unformed||that We may make clear||to you||And We cause to remain||in||the wombs||what||We will||for||a term||appointed||then||We bring you out||(as) a child||[then]||that you may reach||[your] maturity||And among you||(is he) who||dies||and among you||(is he) who||is returned||to||the most abject||age||so that not||he knows||after||after||having known||anything||And you see||the earth||barren||then when||We send down||on it||water||it gets stirred||and it swells||and grows||of||every||kind||beautiful"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yaaa-ayyuhan naasu in kuntum fee raibin minal ba'thi fa-innaa khalaqnaakum min turaabin thumma min nutfatin thumma min alaqatin thumma min mudghatin mukhallaqatinw Wa-ghairi mukhallaqatin linubaiyina lakum; Wa-nuqirru fil arhaami maa nashaaa'u ilaaa ajalin musamman thumma nukhrijukum tiflan thumma litablughooo ashuddakum Wa-minkum mai yutawaffa Wa-minkum mai yuraddu ilaaa arzalil umuri likailaa ya'lama min ba'di ilmin shai'aa; Wa-taral arda haamidatan fa-izaaa anzalnaa alaihal maaa'ah tazzat Wa-rabat Wa-ambatat min kulli zawjin baheej"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:6": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 6,
+                    "page": 333,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 285,
+                    "words": 13
+                },
+                "words": {
+                    "transliteration": "dhalika||bi-anna||al-laha||huwa||al-haqu||wa-annahu||yuh'yi||al-mawta||wa-annahu||ala||kulli||shayin||qadirun",
+                    "line": "1||1||1||1||1||1||1||1||1||1||1||1||2",
+                    "end": "٦",
+                    "end_line": 2,
+                    "id": "demikian itu||bahwasanya||Allah||Dia||yang hak||dan bahwasanya Dia||Dia menghidupkan||yang mati||dan bahwasanya Dia||atas||segala||sesuatu||Maha Kuasa",
+                    "ar": "ذَٰلِكَ||بِأَنَّ||ٱللَّهَ||هُوَ||ٱلۡحَقُّ||وَأَنَّهُۥ||يُحۡيِ||ٱلۡمَوۡتَىٰ||وَأَنَّهُۥ||عَلَىٰ||كُلِّ||شَيۡءٖ||قَدِيرٞ",
+                    "en": "That||(is) because||Allah||He||(is) the Truth||And that He||[He] gives life||(to) the dead||and that He||(is) over||every||thing||All-Powerful"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Zaalika bi-annal laaha Huwal haqqu Wa-annahoo yuhyil mawtaa Wa-annahoo 'alaa kulli shai'in Qadeer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:7": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 7,
+                    "page": 333,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 285,
+                    "words": 12
+                },
+                "words": {
+                    "transliteration": "wa-anna||al-sa'ata||atiyatun||la||rayba||fiha||wa-anna||al-laha||yab'athu||man||fi||al-quburi",
+                    "line": "2||2||2||2||2||2||2||2||2||2||2||3",
+                    "end": "٧",
+                    "end_line": 3,
+                    "id": "dan sesungguhnya||kiamat||datang||tidak ada||keraguan||didalamnya/padanya||dan sesungguhnya||Allah||Dia membangkitkan||orang||dalam||kubur",
+                    "ar": "وَأَنَّ||ٱلسَّاعَةَ||ءَاتِيَةٞ||لَّا||رَيۡبَ||فِيهَا||وَأَنَّ||ٱللَّهَ||يَبۡعَثُ||مَن||فِي||ٱلۡقُبُورِ",
+                    "en": "And that||the Hour||will come||(there is) no||doubt||about it||and that||Allah||will resurrect||(those) who||(are) in||the graves"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-annas Saa'ata aatiyatul laa raiba feeha Wa-annal laaha yab'asu man fil quboor"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:8": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 8,
+                    "page": 333,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 285,
+                    "words": 13
+                },
+                "words": {
+                    "transliteration": "wamina||al-nasi||man||yujadilu||fi||al-lahi||bighayri||il'min||wala||hudan||wala||kitabin||munirin",
+                    "line": "3||3||3||3||3||3||3||3||3||3||4||4||4",
+                    "end": "٨",
+                    "end_line": 4,
+                    "id": "dan diantara||manusia||orang||ia membantah||dalam/tentang||Allah||dengan tidak/tanpa||ilmu pengetahuan||dan tidak/tanpa||petunjuk||dan tidak/tanpa||kitab||bercahaya/terang",
+                    "ar": "وَمِنَ||ٱلنَّاسِ||مَن||يُجَٰدِلُ||فِي||ٱللَّهِ||بِغَيۡرِ||عِلۡمٖ||وَلَا||هُدٗى||وَلَا||كِتَٰبٖ||مُّنِيرٖ",
+                    "en": "And among||mankind||(is he) who||disputes||concerning||Allah||without||any knowledge||and not||any guidance||and not||a Book||enlightening"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-minan naasi maien yujaadilu fil laahi bighairi ilminw Wa-laa hudanw Wa-laa Kitaabim Muneer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:9": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 9,
+                    "page": 333,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 285,
+                    "words": 15
+                },
+                "words": {
+                    "transliteration": "thaniya||it'fihi||liyudilla||an||sabili||al-lahi||lahu||fi||al-dun'ya||khiz'yun||wanudhiquhu||yawma||al-qiyamati||adhaba||al-hariqi",
+                    "line": "4||4||4||4||4||4||4||4||5||5||5||5||5||5||5",
+                    "end": "٩",
+                    "end_line": 5,
+                    "id": "bengkok/palingkan||lambungnya||untuk menyesatkan||dari||jalan||Allah||baginya||di||dunia||kehinaan||dan Kami akan merasakan kepadanya||hari||kiamat||azab||yang membakar",
+                    "ar": "ثَانِيَ||عِطۡفِهِۦ||لِيُضِلَّ||عَن||سَبِيلِ||ٱللَّهِۖ||لَهُۥ||فِي||ٱلدُّنۡيَا||خِزۡيٞۖ||وَنُذِيقُهُۥ||يَوۡمَ||ٱلۡقِيَٰمَةِ||عَذَابَ||ٱلۡحَرِيقِ",
+                    "en": "Twisting||his neck||to mislead||from||(the) way||(of) Allah||For him||in||the world||(is) disgrace||and We will make him taste||(on the) Day||(of) Resurrection||(the) punishment||(of) the Burning Fire"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Saaniya itfihee liyudilla 'an sabeelil laahi lahoo fid dunyaa khizyunw Wa-nuzeequhoo Yawmal Qiyaamati azaabal hareeq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:10": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 10,
+                    "page": 333,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 285,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "dhalika||bima||qaddamat||yadaka||wa-anna||al-laha||laysa||bizallamin||lil'abidi",
+                    "line": "5||6||6||6||6||6||6||6||6",
+                    "end": "١٠",
+                    "end_line": 6,
+                    "id": "demikian itu||dengan apa/sebab||diperbuat||kedua tangannya||dan sesungguhnya||Allah||bukan||dengan penganiaya||bagi/pada hamba-hamba-Nya",
+                    "ar": "ذَٰلِكَ||بِمَا||قَدَّمَتۡ||يَدَاكَ||وَأَنَّ||ٱللَّهَ||لَيۡسَ||بِظَلَّٰمٖ||لِّلۡعَبِيدِ",
+                    "en": "That||(is) for what||have sent forth||your hands||and that||Allah||is not||unjust||to His slaves"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Zaalika bimaa qaddamat yadaaka Wa-annal laaha laisa bizallaamil lil'abeed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:11": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 11,
+                    "page": 333,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 286,
+                    "words": 25
+                },
+                "words": {
+                    "transliteration": "wamina||al-nasi||man||ya'budu||al-laha||ala||harfin||fa-in||asabahu||khayrun||it'ma-anna||bihi||wa-in||asabathu||fit'natun||inqalaba||ala||wajhihi||khasira||al-dun'ya||wal-akhirata||dhalika||huwa||al-khus'ranu||al-mubinu",
+                    "line": "6||6||7||7||7||7||7||7||7||7||7||7||7||8||8||8||8||8||8||8||8||8||9||9||9",
+                    "end": "١١",
+                    "end_line": 9,
+                    "id": "dan diantara||manusia||orang||ia menyembah||Allah||atas||tepi||maka jika||menimpanya/memperoleh||kebaikan||tenteramlah ia||dengannya||dan jika||menimpanya||fitnah/bencana||berbaliklah ia||atas||mukanya||rugilah ia||di dunia||dan akhirat||demikian itu||ia/itulah||kerugian||yang nyata",
+                    "ar": "وَمِنَ||ٱلنَّاسِ||مَن||يَعۡبُدُ||ٱللَّهَ||عَلَىٰ||حَرۡفٖۖ||فَإِنۡ||أَصَابَهُۥ||خَيۡرٌ||ٱطۡمَأَنَّ||بِهِۦۖ||وَإِنۡ||أَصَابَتۡهُ||فِتۡنَةٌ||ٱنقَلَبَ||عَلَىٰ||وَجۡهِهِۦ||خَسِرَ||ٱلدُّنۡيَا||وَٱلۡأٓخِرَةَۚ||ذَٰلِكَ||هُوَ||ٱلۡخُسۡرَانُ||ٱلۡمُبِينُ",
+                    "en": "And among||the mankind||(is he) who||worships||Allah||on||an edge||And if||befalls him||good||he is content||with it||and if||befalls him||a trial||he turns||on||his face||He has lost||the world||and the Hereafter||That||[it]||(is) the loss||clear"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-minan naasi maien ya'budul laaha 'alaa harfin fa-in asaabahoo khairunit maanna bihee Wa-in asaabat-hu fitnatunin qalaba 'alaa wajhihee khasirad dunyaa wal-aakhirah; zaalika huwal khusraanul mubeen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:12": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 12,
+                    "page": 333,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 286,
+                    "words": 14
+                },
+                "words": {
+                    "transliteration": "yad'u||min||duni||al-lahi||ma||la||yadurruhu||wama||la||yanfa'uhu||dhalika||huwa||al-dalalu||al-ba'idu",
+                    "line": "9||9||9||9||9||9||9||10||10||10||10||10||10||10",
+                    "end": "١٢",
+                    "end_line": 10,
+                    "id": "ia menyeru||dari||selain||Allah||apa/sesuatu||yang tidak||memberi mudarat kepadanya||dan apa/sesuatu||yang tidak||memberi manfaat kepadanya||demikian itu||ia/itu||kesesatan||yang jauh",
+                    "ar": "يَدۡعُواْ||مِن||دُونِ||ٱللَّهِ||مَا||لَا||يَضُرُّهُۥ||وَمَا||لَا||يَنفَعُهُۥۚ||ذَٰلِكَ||هُوَ||ٱلضَّلَٰلُ||ٱلۡبَعِيدُ",
+                    "en": "He calls||besides||besides||Allah||what||not||harms him||and what||not||benefits him||That||[it]||(is) the straying||far away"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yad'oo min doonil laahi maa laa yadurruhoo Wa-maa laa yanfa'uh' zaalika huwad dalaalul ba'ed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:13": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 13,
+                    "page": 333,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 286,
+                    "words": 10
+                },
+                "words": {
+                    "transliteration": "yad'u||laman||darruhu||aqrabu||min||naf'ihi||labi'sa||al-mawla||walabi'sa||al-'ashiru",
+                    "line": "10||10||11||11||11||11||11||11||11||11",
+                    "end": "١٣",
+                    "end_line": 11,
+                    "id": "ia menyeru||pada sesuatu||mudaratnya||lebih dekat||dari||manfaatnya||sungguh sejahat-jahat||penolong||dan sungguh sejahat-jahat||kawan",
+                    "ar": "يَدۡعُواْ||لَمَن||ضَرُّهُۥٓ||أَقۡرَبُ||مِن||نَّفۡعِهِۦۚ||لَبِئۡسَ||ٱلۡمَوۡلَىٰ||وَلَبِئۡسَ||ٱلۡعَشِيرُ",
+                    "en": "He calls||(one) who||his harm||(is) closer||than||his benefit||Surely an evil||protector||and surely an evil||friend!"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yad'oo laman darruhooo aqrabu min naf'ih; labi'sal mawlaa Wa-labi'sal 'asheer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:14": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 14,
+                    "page": 333,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 286,
+                    "words": 17
+                },
+                "words": {
+                    "transliteration": "inna||al-laha||yud'khilu||alladhina||amanu||wa'amilu||al-salihati||jannatin||tajri||min||tahtiha||al-anharu||inna||al-laha||yaf 'alu||ma||yuridu",
+                    "line": "12||12||12||12||12||12||12||12||13||13||13||13||13||13||13||13||13",
+                    "end": "١٤",
+                    "end_line": 13,
+                    "id": "sesungguhnya||Allah||Dia memasukkan||orang-orang yang||beriman||dan mengerjakan||kebajikan/amal saleh||surga-surga||mengalir||dari||bawahnya||sungai-sungai||sesungguhnya||Allah||Dia berbuat||apa||Dia kehendaki",
+                    "ar": "إِنَّ||ٱللَّهَ||يُدۡخِلُ||ٱلَّذِينَ||ءَامَنُواْ||وَعَمِلُواْ||ٱلصَّٰلِحَٰتِ||جَنَّٰتٖ||تَجۡرِي||مِن||تَحۡتِهَا||ٱلۡأَنۡهَٰرُۚ||إِنَّ||ٱللَّهَ||يَفۡعَلُ||مَا||يُرِيدُ",
+                    "en": "Indeed||Allah||will admit||those who||believe||and do||the righteous deeds||(to) Gardens||flow||from||underneath it||the rivers||Indeed||Allah||does||what||He intends"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innal laaha yudkhilul lazeena aamanoo Wa-'amilus saalihaati jannaatin tajree min tahtihal anhaar; innal laaha yaf'alu maa yureed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:15": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 15,
+                    "page": 333,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 286,
+                    "words": 22
+                },
+                "words": {
+                    "transliteration": "man||kana||yazunnu||an||lan||yansurahu||al-lahu||fi||al-dun'ya||wal-akhirati||falyamdud||bisababin||ila||al-samai||thumma||l'yaqta'||falyanzur||hal||yudh'hibanna||kayduhu||ma||yaghizu",
+                    "line": "13||13||14||14||14||14||14||14||14||14||14||14||14||15||15||15||15||15||15||15||15||15",
+                    "end": "١٥",
+                    "end_line": 15,
+                    "id": "barangsiapa||adalah||ia menyangka||bahwa||tidak||menolongnya||Allah||di||dunia||dan di akhirat||maka hendaklah ia merentangkan||dengan jalan/hubungan||ke||langit||kemudian||hendaklah ia melalui||maka hendaklah ia memperhatikan||apakah||dapat menghilangkan||tipu dayanya||apa yang||menerbitkan marah",
+                    "ar": "مَن||كَانَ||يَظُنُّ||أَن||لَّن||يَنصُرَهُ||ٱللَّهُ||فِي||ٱلدُّنۡيَا||وَٱلۡأٓخِرَةِ||فَلۡيَمۡدُدۡ||بِسَبَبٍ||إِلَى||ٱلسَّمَآءِ||ثُمَّ||لۡيَقۡطَعۡ||فَلۡيَنظُرۡ||هَلۡ||يُذۡهِبَنَّ||كَيۡدُهُۥ||مَا||يَغِيظُ",
+                    "en": "Whoever||[is]||thinks||that||not||Allah will help him||Allah will help him||in||the world||and the Hereafter||then let him extend||a rope||to||the sky||then||let him cut off||then let him see||whether||will remove||his plan||what||enrages"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Man kaana yazunnu al laien yansurahul laahu fid dunyaa wal-aakhirati fal-yamdud bisababin ilas samaaa'i summal yaqta' falyanzur hal yuzhibanna kaiduhoo maa yagheez"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:16": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 16,
+                    "page": 334,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 286,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "wakadhalika||anzalnahu||ayatin||bayyinatin||wa-anna||al-laha||yahdi||man||yuridu",
+                    "line": "1||1||1||1||1||1||1||1||1",
+                    "end": "١٦",
+                    "end_line": 1,
+                    "id": "dan demikianlah||Kami telah menurunkannya||ayat-ayat/keterangan||yang nyata||dan sesungguhnya||Allah||memberi petunjuk||siapa||Dia kehendaki",
+                    "ar": "وَكَذَٰلِكَ||أَنزَلۡنَٰهُ||ءَايَٰتِۭ||بَيِّنَٰتٖ||وَأَنَّ||ٱللَّهَ||يَهۡدِي||مَن||يُرِيدُ",
+                    "en": "And thus||We sent it down||(as) clear Verses||(as) clear Verses||and that||Allah||guides||whom||He intends"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-kazaalika anzalnaahu aayaatim baiyinaatinw Wa-annal laaha yahdee mai yureed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:17": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 17,
+                    "page": 334,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 286,
+                    "words": 22
+                },
+                "words": {
+                    "transliteration": "inna||alladhina||amanu||wa-alladhina||hadu||wal-sabiina||wal-nasara||wal-majusa||wa-alladhina||ashraku||inna||al-laha||yafsilu||baynahum||yawma||al-qiyamati||inna||al-laha||ala||kulli||shayin||shahidun",
+                    "line": "2||2||2||2||2||2||2||3||3||3||3||3||3||3||3||4||4||4||4||4||4||4",
+                    "end": "١٧",
+                    "end_line": 4,
+                    "id": "sesungguhnya||orang-orang yang||(mereka) mu'min||dan orang-orang yang||(mereka) Yahudi||dan orang-orang Shabi-in||dan orang-orang Nasrani||dan orang-orang Majusi||dan orang-orang yang||(mereka) musyrik||sesungguhnya||Allah||Dia memisahkan||diantara mereka||hari||kiamat||sesungguhnya||Allah||atas||segala||sesuatu||menyaksikan",
+                    "ar": "إِنَّ||ٱلَّذِينَ||ءَامَنُواْ||وَٱلَّذِينَ||هَادُواْ||وَٱلصَّٰبِـِٔينَ||وَٱلنَّصَٰرَىٰ||وَٱلۡمَجُوسَ||وَٱلَّذِينَ||أَشۡرَكُوٓاْ||إِنَّ||ٱللَّهَ||يَفۡصِلُ||بَيۡنَهُمۡ||يَوۡمَ||ٱلۡقِيَٰمَةِۚ||إِنَّ||ٱللَّهَ||عَلَىٰ||كُلِّ||شَيۡءٖ||شَهِيدٌ",
+                    "en": "Indeed||those who||have believed||and those who||were Jews||and the Sabians||and the Christians||and the Majus||and those who||(are) polytheists||indeed||Allah||will judge||between them||(on) the Day||(of) the Resurrection||Indeed||Allah||over||every||thing||(is) a Witness"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innal lazeena aamanoo wallazeena haadoo was-saabi'eena wan-nasaaraa wal-Majoosa wallazeena ashrakooo innal laaha yafsilu bainahum yawmal qiyaamah; innal laaha 'alaa kulli shai'in shaheed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:18": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 18,
+                    "page": 334,
+                    "juz": 17,
+                    "hizb": 133,
+                    "manzil": 4,
+                    "ruku": 286,
+                    "words": 37
+                },
+                "words": {
+                    "transliteration": "alam||tara||anna||al-laha||yasjudu||lahu||man||fi||al-samawati||waman||fi||al-ardi||wal-shamsu||wal-qamaru||wal-nujumu||wal-jibalu||wal-shajaru||wal-dawabu||wakathirun||mina||al-nasi||wakathirun||haqqa||alayhi||al-'adhabu||waman||yuhini||al-lahu||fama||lahu||min||muk'rimin||inna||al-laha||yaf 'alu||ma||yashau",
+                    "line": "4||4||4||4||5||5||5||5||5||5||5||5||5||6||6||6||6||6||6||6||7||7||7||7||7||7||7||7||7||7||7||8||8||8||8||8||8",
+                    "end": "١٨",
+                    "end_line": 8,
+                    "id": "tidaklah||kamu ketahui||bahwasanya||Allah||bersujud||kepada-Nya||orang/apa||di||langit(jamak)||dan orang/apa||di||bumi||dan matahari||dan bulan||dan bintang-bintang||dan gunung-gunung||dan pohon-pohon||dan binatang melata||dan kebanyakan||dari||manusia||dan kebanyakan||haq/kebenaran/ketetapan yang telah pasti||atasnya||azab||dan barang siapa||menghinakan||Allah||maka tidak||baginya||dari||kemuliaan||sesungguhnya||Allah||Dia berbuat||apa||Dia kehendaki",
+                    "ar": "أَلَمۡ||تَرَ||أَنَّ||ٱللَّهَ||يَسۡجُدُۤ||لَهُۥۤ||مَن||فِي||ٱلسَّمَٰوَٰتِ||وَمَن||فِي||ٱلۡأَرۡضِ||وَٱلشَّمۡسُ||وَٱلۡقَمَرُ||وَٱلنُّجُومُ||وَٱلۡجِبَالُ||وَٱلشَّجَرُ||وَٱلدَّوَآبُّ||وَكَثِيرٞ||مِّنَ||ٱلنَّاسِۖ||وَكَثِيرٌ||حَقَّ||عَلَيۡهِ||ٱلۡعَذَابُۗ||وَمَن||يُهِنِ||ٱللَّهُ||فَمَا||لَهُۥ||مِن||مُّكۡرِمٍۚ||إِنَّ||ٱللَّهَ||يَفۡعَلُ||مَا||يَشَآءُ۩",
+                    "en": "Do not||you see||that||Allah||prostrates||to Him||whoever||(is) in||the heavens||and whoever||(is) in||the earth||and the sun||and the moon||and the stars||and the mountains||and the trees||and the moving creatures||and many||of||the people||But many||(is) justly due||on him||the punishment||And whoever||Allah humiliates||Allah humiliates||then not||for him||any||bestower of honor||Indeed||Allah||does||what||He wills"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Alam tara annal laaha yasjudu lahoo man fis samaawaati Wa-man fil ardi wash-shamsu walqamaru wan-nu-joomu wal-jibaalu wash-shajaru wad-dawaaabbu Wa-kaseerum minan naasi Wa-kaseerun haqqa alaihil 'azaab; Wa-maien yuhinil laahu famaa lahoo mim mukrim; innal laaha yaf'alu maa yashaaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:19": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 19,
+                    "page": 334,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 286,
+                    "words": 17
+                },
+                "words": {
+                    "transliteration": "hadhani||khasmani||ikh'tasamu||fi||rabbihim||fa-alladhina||kafaru||qutti'at||lahum||thiyabun||min||narin||yusabbu||min||fawqi||ruusihimu||al-hamimu",
+                    "line": "8||8||9||9||9||9||9||9||9||9||10||10||10||10||10||10||10",
+                    "end": "١٩",
+                    "end_line": 10,
+                    "id": "inilah (dua) golongan||keduanya saling bertengkar||mereka bertengkar||dalam/tentang||Tuhan mereka||maka orang-orang yang||kafir/ingkar||dipotongkan/dibuatkan||untuk mereka||pakaian||dari||api neraka||disiramkan||dari||atas||kepala mereka||air mendidih",
+                    "ar": "۞هَٰذَانِ||خَصۡمَانِ||ٱخۡتَصَمُواْ||فِي||رَبِّهِمۡۖ||فَٱلَّذِينَ||كَفَرُواْ||قُطِّعَتۡ||لَهُمۡ||ثِيَابٞ||مِّن||نَّارٖ||يُصَبُّ||مِن||فَوۡقِ||رُءُوسِهِمُ||ٱلۡحَمِيمُ",
+                    "en": "These two||opponents||dispute||concerning||their Lord||But those who||disbelieved||will be cut out||for them||garments||of||fire||Will be poured||over||over||their heads||[the] scalding water"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Haazaani khasmaanikh tasamoo fee Rabbihim fal-lazeena kafaroo qutti'at lahum siyaabum min naar; yusabbu min fawqi ru'oosihimul hameem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:20": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 20,
+                    "page": 334,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 286,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "yus'haru||bihi||ma||fi||butunihim||wal-juludu",
+                    "line": "10||10||11||11||11||11",
+                    "end": "٢٠",
+                    "end_line": 11,
+                    "id": "dihancurluluhkan||dengannya (air mendidih)||apa||dalam||perut mereka||dan kulit-kulit",
+                    "ar": "يُصۡهَرُ||بِهِۦ||مَا||فِي||بُطُونِهِمۡ||وَٱلۡجُلُودُ",
+                    "en": "Will be melted||with it||what||(is) in||their bellies||and the skins"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yusharu bihee maa fee butoonihim waljulood"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:21": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 21,
+                    "page": 334,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 286,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "walahum||maqami'u||min||hadidin",
+                    "line": "11||11||11||11",
+                    "end": "٢١",
+                    "end_line": 11,
+                    "id": "dan untuk mereka||cambuk-cambuk||dari||besi",
+                    "ar": "وَلَهُم||مَّقَٰمِعُ||مِنۡ||حَدِيدٖ",
+                    "en": "And for them||(are) hooked rods||of||iron"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-lahum maqaami'u min hadeed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:22": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 22,
+                    "page": 334,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 286,
+                    "words": 12
+                },
+                "words": {
+                    "transliteration": "kullama||aradu||an||yakhruju||min'ha||min||ghammin||u'idu||fiha||wadhuqu||adhaba||al-hariqi",
+                    "line": "11||12||12||12||12||12||12||12||12||12||12||13",
+                    "end": "٢٢",
+                    "end_line": 13,
+                    "id": "setiap kali||mereka hendak||(bahwa)||mereka keluar||dari padanya||dari/lantaran||kesengsaraan||mereka dikembalikan||kedalamnya||dan rasakanlah||azab||yang membakar",
+                    "ar": "كُلَّمَآ||أَرَادُوٓاْ||أَن||يَخۡرُجُواْ||مِنۡهَا||مِنۡ||غَمٍّ||أُعِيدُواْ||فِيهَا||وَذُوقُواْ||عَذَابَ||ٱلۡحَرِيقِ",
+                    "en": "Every time||they want||to||come out||from it||from||anguish||they will be returned||therein||Taste||(the) punishment||(of) the Burning Fire!"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Kullamaa araadooo any yakhrujoo minhaa min ghammin u'eedoo feeha Wa-zooqoo 'azaabal hareeq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:23": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 23,
+                    "page": 334,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 287,
+                    "words": 22
+                },
+                "words": {
+                    "transliteration": "inna||al-laha||yud'khilu||alladhina||amanu||wa'amilu||al-salihati||jannatin||tajri||min||tahtiha||al-anharu||yuhallawna||fiha||min||asawira||min||dhahabin||walu'lu-an||walibasuhum||fiha||harirun",
+                    "line": "13||13||13||13||13||13||13||14||14||14||14||14||14||14||14||15||15||15||15||15||15||15",
+                    "end": "٢٣",
+                    "end_line": 15,
+                    "id": "sesungguhnya||Allah||akan memasukkan||orang-orang yang||beriman||dan mereka beramal||kebajikan/saleh||surga-surga||mengalir||dari||bawahnya||sungai-sungai||mereka diberi perhiasan||didalamnya||dari||gelang-gelang||dari||emas||dan mutiara||dan pakaian mereka||didalamnya||sutera",
+                    "ar": "إِنَّ||ٱللَّهَ||يُدۡخِلُ||ٱلَّذِينَ||ءَامَنُواْ||وَعَمِلُواْ||ٱلصَّٰلِحَٰتِ||جَنَّٰتٖ||تَجۡرِي||مِن||تَحۡتِهَا||ٱلۡأَنۡهَٰرُ||يُحَلَّوۡنَ||فِيهَا||مِنۡ||أَسَاوِرَ||مِن||ذَهَبٖ||وَلُؤۡلُؤٗاۖ||وَلِبَاسُهُمۡ||فِيهَا||حَرِيرٞ",
+                    "en": "Indeed||Allah||will admit||those who||believe||and do||the righteous deeds||(to) Gardens||flow||from||underneath it||the rivers||They will be adorned||therein||with||bracelets||of||gold||and pearl||and their garments||therein||(will be of) silk"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innal laaha yudkhilul lazeena aamanoo Wa-'amilus saalihaati jannaatin tajree min tahtihal anhaaru yuhallawna feehaa min asaawira min zahabinw Wa-lu'lu'aa; Wa-libaasuhum feehaa hareer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:24": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 24,
+                    "page": 335,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 287,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "wahudu||ila||al-tayibi||mina||al-qawli||wahudu||ila||sirati||al-hamidi",
+                    "line": "1||1||1||1||1||1||1||1||1",
+                    "end": "٢٤",
+                    "end_line": 1,
+                    "id": "dan mereka diberi petunjuk/dipimpin||kepada||yang baik||dari||perkataan/ucapan||dan mereka diberi petunjuk||kepada||jalan||terpuji",
+                    "ar": "وَهُدُوٓاْ||إِلَى||ٱلطَّيِّبِ||مِنَ||ٱلۡقَوۡلِ||وَهُدُوٓاْ||إِلَىٰ||صِرَٰطِ||ٱلۡحَمِيدِ",
+                    "en": "And they were guided||to||the good||of||the speech||and they were guided||to||(the) path||(of) the Praiseworthy"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-hudooo ilat taiyibi minal qawli Wa-hudooo ilaaa siraatil hameed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:25": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 25,
+                    "page": 335,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 287,
+                    "words": 25
+                },
+                "words": {
+                    "transliteration": "inna||alladhina||kafaru||wayasudduna||an||sabili||al-lahi||wal-masjidi||al-harami||alladhi||ja'alnahu||lilnnasi||sawaan||al-'akifu||fihi||wal-badi||waman||yurid||fihi||bi-il'hadin||bizul'min||nudhiq'hu||min||adhabin||alimin",
+                    "line": "2||2||2||2||2||2||2||2||3||3||3||3||3||3||3||3||4||4||4||4||4||4||4||4||4",
+                    "end": "٢٥",
+                    "end_line": 4,
+                    "id": "sesungguhnya||orang-orang yang||kafir/ingkar||dan mereka menghalang-halangi||dari||jalan||Allah||dan Masjidil||Haram||yang||telah Kami jadikannya||untuk manusia||sama/bersama||bertekun/menetap||didalamnya||dan datang berkunjung||dan barangsiapa||menghendaki/bermaksud||didalamnya||melakukan kejahatan||dengan/secara zalim||Kami rasakan kepadanya||dari||azab||yang pedih",
+                    "ar": "إِنَّ||ٱلَّذِينَ||كَفَرُواْ||وَيَصُدُّونَ||عَن||سَبِيلِ||ٱللَّهِ||وَٱلۡمَسۡجِدِ||ٱلۡحَرَامِ||ٱلَّذِي||جَعَلۡنَٰهُ||لِلنَّاسِ||سَوَآءً||ٱلۡعَٰكِفُ||فِيهِ||وَٱلۡبَادِۚ||وَمَن||يُرِدۡ||فِيهِ||بِإِلۡحَادِۭ||بِظُلۡمٖ||نُّذِقۡهُ||مِنۡ||عَذَابٍ||أَلِيمٖ",
+                    "en": "Indeed||those who||disbelieved||and hinder||from||(the) way||(of) Allah||and Al-Masjid Al-Haraam||and Al-Masjid Al-Haraam||which||We made it||for the mankind||equal||(are) the resident||therein||and the visitor||and whoever||intends||therein||of deviation||(or) wrongdoing||We will make him taste||of||a punishment||painful"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innal lazeena kafaroo Wa-yasuddoona 'an sabeelil laahi wal-Masjidil Haraamil lazee ja'alnaahu linnaasi sawaaa'anil aakifu feehi walbaad; Wa-maien yurid feehi bi-ilhaadim bizulmin nuziqhu min azaabin aleem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:26": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 26,
+                    "page": 335,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 288,
+                    "words": 16
+                },
+                "words": {
+                    "transliteration": "wa-idh||bawwana||li-ib'rahima||makana||al-bayti||an||la||tush'rik||bi||shayan||watahhir||baytiya||lilttaifina||wal-qaimina||wal-ruka'i||al-sujudi",
+                    "line": "5||5||5||5||5||5||5||5||6||6||6||6||6||6||6||7",
+                    "end": "٢٦",
+                    "end_line": 7,
+                    "id": "dan ketika||Kami memberi tempat||kepada Ibrahim||tempat||rumah/Baitullah||bahwa||janganlah||kamu mempersekutukan||dengan Aku||segala sesuatu||dan sucikanlah||rumah-Ku||bagi orang-orang yang tawaf||dan orang-orang yang berdiri/beribadat||dan orang-orang yang ruku'||orang-orang yang sujud",
+                    "ar": "وَإِذۡ||بَوَّأۡنَا||لِإِبۡرَٰهِيمَ||مَكَانَ||ٱلۡبَيۡتِ||أَن||لَّا||تُشۡرِكۡ||بِي||شَيۡـٔٗا||وَطَهِّرۡ||بَيۡتِيَ||لِلطَّآئِفِينَ||وَٱلۡقَآئِمِينَ||وَٱلرُّكَّعِ||ٱلسُّجُودِ",
+                    "en": "And when||We assigned||to Ibrahim||(the) site||(of) the House||That||(do) not||associate||with Me||anything||and purify||My House||for those who circumambulate||and those who stand||and those who bow||(and) those who prostrate"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-iz bawwaanaa li-ibraaheema makaanal Baiti al laa tushrik bee shai'anw Wa-tahhir Baitiya litaaa'ifeena walqaaa'-imeena warrukka-'is sujood"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:27": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 27,
+                    "page": 335,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 288,
+                    "words": 14
+                },
+                "words": {
+                    "transliteration": "wa-adhin||fi||al-nasi||bil-haji||yatuka||rijalan||wa'ala||kulli||damirin||yatina||min||kulli||fajjin||amiqin",
+                    "line": "7||7||7||7||7||7||7||8||8||8||8||8||8||8",
+                    "end": "٢٧",
+                    "end_line": 8,
+                    "id": "dan serulah||kepada||manusia||untuk mengerjakan haji||mereka akan datang kepadamu||berjalan kaki||dan atas||tiap-tiap (mengendarai)||onta kurus||mereka datang||dari||tiap-tiap/segenap||jalan/penjuru||dalam/jauh",
+                    "ar": "وَأَذِّن||فِي||ٱلنَّاسِ||بِٱلۡحَجِّ||يَأۡتُوكَ||رِجَالٗا||وَعَلَىٰ||كُلِّ||ضَامِرٖ||يَأۡتِينَ||مِن||كُلِّ||فَجٍّ||عَمِيقٖ",
+                    "en": "And proclaim||to||[the] mankind||[of] the Pilgrimage||they will come to you||(on) foot||and on||every||lean camel||they will come||from||every||mountain highway||distant"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-azzin fin naasi bil-Hajji yaatooka rijaalanw Wa-'alaa kulli daamirien yaateena min kulli fajjin 'ameeq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:28": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 28,
+                    "page": 335,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 288,
+                    "words": 20
+                },
+                "words": {
+                    "transliteration": "liyashhadu||manafi'a||lahum||wayadhkuru||is'ma||al-lahi||fi||ayyamin||ma'lumatin||ala||ma||razaqahum||min||bahimati||al-an'ami||fakulu||min'ha||wa-at'imu||al-baisa||al-faqira",
+                    "line": "8||9||9||9||9||9||9||9||9||10||10||10||10||10||10||10||10||11||11||11",
+                    "end": "٢٨",
+                    "end_line": 11,
+                    "id": "supaya mereka menyaksikan||berbagai manfaat||bagi mereka||dan mereka menyebut||nama||Allah||dalam||beberapa hari||telah ditentukan||atas||apa (rezeki)||Dia memberi rezeki kepada mereka||dari||binatang||ternak||maka makanlah||dari padanya||dan beri makanlah||orang-orang yang sengsara||orang-orang yang fakir",
+                    "ar": "لِّيَشۡهَدُواْ||مَنَٰفِعَ||لَهُمۡ||وَيَذۡكُرُواْ||ٱسۡمَ||ٱللَّهِ||فِيٓ||أَيَّامٖ||مَّعۡلُومَٰتٍ||عَلَىٰ||مَا||رَزَقَهُم||مِّنۢ||بَهِيمَةِ||ٱلۡأَنۡعَٰمِۖ||فَكُلُواْ||مِنۡهَا||وَأَطۡعِمُواْ||ٱلۡبَآئِسَ||ٱلۡفَقِيرَ",
+                    "en": "That they may witness||benefits||for them||and mention||(the) name||(of) Allah||on||days||known||over||what||He has provided them||of||(the) beast||(of) cattle||So eat||of them||and feed||the miserable||the poor"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Li-yashhadoo manaafi'a lahum Wa-yazkurus mal laahi feee ayyaamim ma'loomaatin 'alaa maa razaqahum mim baheematil an'aami fakuloo minhaa Wa-at'imul baaa'isal faqeer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:29": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 29,
+                    "page": 335,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 288,
+                    "words": 8
+                },
+                "words": {
+                    "transliteration": "thumma||l'yaqdu||tafathahum||walyufu||nudhurahum||walyattawwafu||bil-bayti||al-'atiqi",
+                    "line": "11||11||11||12||12||12||12||12",
+                    "end": "٢٩",
+                    "end_line": 12,
+                    "id": "kemudian||hendaklah mereka menghilangkan||kotoran mereka||dan hendaklah mereka menyempurnakan||nadzar mereka||dan hendaklah mereka bertawaf||di rumah||kuno/tua",
+                    "ar": "ثُمَّ||لۡيَقۡضُواْ||تَفَثَهُمۡ||وَلۡيُوفُواْ||نُذُورَهُمۡ||وَلۡيَطَّوَّفُواْ||بِٱلۡبَيۡتِ||ٱلۡعَتِيقِ",
+                    "en": "Then||let them complete||their prescribed duties||and fulfil||their vows||and circumambulate||the House||[the] Ancient"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Summal yaqdoo tafasahum wal-yoofoo nuzoorahum wal-yattawwafoo bil-Baitil 'Ateeq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:30": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 30,
+                    "page": 335,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 288,
+                    "words": 24
+                },
+                "words": {
+                    "transliteration": "dhalika||waman||yu'azzim||hurumati||al-lahi||fahuwa||khayrun||lahu||inda||rabbihi||wa-uhillat||lakumu||al-an'amu||illa||ma||yut'la||alaykum||fa-ij'tanibu||al-rij'sa||mina||al-awthani||wa-ij'tanibu||qawla||al-zuri",
+                    "line": "13||13||13||13||13||13||13||13||13||14||14||14||14||14||14||14||14||15||15||15||15||15||15||15",
+                    "end": "٣٠",
+                    "end_line": 15,
+                    "id": "demikianlah||dan barangsiapa||memuliakan/menghormati||larangan/peraturan||Allah||maka dia/itu||lebih baik||baginya||di sisi||Tuhannya||dan dihalalkan||bagi kalian||binatang ternak||kecuali||apa yang||dibacakan/diterangkan||atas kalian||maka jauhilah||kekotoran/kenajisan||dari||berhala-berhala||dan jauhilah||perkataan||dusta",
+                    "ar": "ذَٰلِكَۖ||وَمَن||يُعَظِّمۡ||حُرُمَٰتِ||ٱللَّهِ||فَهُوَ||خَيۡرٞ||لَّهُۥ||عِندَ||رَبِّهِۦۗ||وَأُحِلَّتۡ||لَكُمُ||ٱلۡأَنۡعَٰمُ||إِلَّا||مَا||يُتۡلَىٰ||عَلَيۡكُمۡۖ||فَٱجۡتَنِبُواْ||ٱلرِّجۡسَ||مِنَ||ٱلۡأَوۡثَٰنِ||وَٱجۡتَنِبُواْ||قَوۡلَ||ٱلزُّورِ",
+                    "en": "That||and whoever||honors||(the) sacred rites||(of) Allah||then it||(is) best||for him||near||his Lord||And are made lawful||to you||the cattle||except||what||is recited||to you||So avoid||the abomination||of||the idols||and avoid||(the) word||false"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Zaalika Wa-maien yu'azzim hurumaatil laahi fahuwa khairul lahoo inda Rabbih; Wa-uhillat lakumul an'aamu illaa maa yutlaa alaikum fajtanibur rijsa minal awsaani wajtaniboo qawlaz zoor"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:31": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 31,
+                    "page": 336,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 288,
+                    "words": 21
+                },
+                "words": {
+                    "transliteration": "hunafaa||lillahi||ghayra||mush'rikina||bihi||waman||yush'rik||bil-lahi||faka-annama||kharra||mina||al-samai||fatakhtafuhu||al-tayru||aw||tahwi||bihi||al-rihu||fi||makanin||sahiqin",
+                    "line": "1||1||1||1||1||1||1||1||1||1||1||2||2||2||2||2||2||2||2||2||2",
+                    "end": "٣١",
+                    "end_line": 2,
+                    "id": "lurus/ikhlas||bagi/kepada Allah||bukan/tidak||mempersekutukan||dengan-Nya/Dia||dan barangsiapa||mempersekutukan||dengan Allah||maka seakan-akan||dia tersungkur/jatuh||dari||langit||maka/lalu menyambarnya||burung||atau||menerbangkan||dengannya/kepadanya||angin||dalam||tempat||jauh",
+                    "ar": "حُنَفَآءَ||لِلَّهِ||غَيۡرَ||مُشۡرِكِينَ||بِهِۦۚ||وَمَن||يُشۡرِكۡ||بِٱللَّهِ||فَكَأَنَّمَا||خَرَّ||مِنَ||ٱلسَّمَآءِ||فَتَخۡطَفُهُ||ٱلطَّيۡرُ||أَوۡ||تَهۡوِي||بِهِ||ٱلرِّيحُ||فِي||مَكَانٖ||سَحِيقٖ",
+                    "en": "Being upright||to Allah||not||associating partners||with Him||And whoever||associates partners||with Allah||then (it is) as though||he had fallen||from||the sky||and (had) snatched him||the birds||or||had blown||him||the wind||to||a place||far off"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Hunafaaa'a lillaahi ghaira mushrikeena bih; Wa-maien yushrik billaahi faka-annamaa kharra minas samaaa'i fatakh-tafuhut tairu aw tahwee bihir reehu fee makaanin saheeq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:32": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 32,
+                    "page": 336,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 288,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "dhalika||waman||yu'azzim||sha'aira||al-lahi||fa-innaha||min||taqwa||al-qulubi",
+                    "line": "3||3||3||3||3||3||3||3||3",
+                    "end": "٣٢",
+                    "end_line": 3,
+                    "id": "demikianlah||dan barangsiapa||memuliakan/menghormati||syi'ar-syi'ar||Allah||maka sesungguhnya itu||dari||ketakwaan||hati",
+                    "ar": "ذَٰلِكَۖ||وَمَن||يُعَظِّمۡ||شَعَٰٓئِرَ||ٱللَّهِ||فَإِنَّهَا||مِن||تَقۡوَى||ٱلۡقُلُوبِ",
+                    "en": "That||and whoever||honors||(the) Symbols||(of) Allah||then indeed it||(is) from||(the) piety||(of) the hearts"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Zaalika Wa-mai yu'azzim sha'aaa'iral laahi fa-innahaa min taqwal quloob"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:33": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 33,
+                    "page": 336,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 288,
+                    "words": 11
+                },
+                "words": {
+                    "transliteration": "lakum||fiha||manafi'u||ila||ajalin||musamman||thumma||mahilluha||ila||al-bayti||al-'atiqi",
+                    "line": "4||4||4||4||4||4||4||4||4||4||5",
+                    "end": "٣٣",
+                    "end_line": 5,
+                    "id": "bagi kalian||padanya||beberapa kemanfaatan||sampai||waktu||telah ditentukan||kemudian||tempatnya||sampai (sekitar)||rumah||kuno/tua",
+                    "ar": "لَكُمۡ||فِيهَا||مَنَٰفِعُ||إِلَىٰٓ||أَجَلٖ||مُّسَمّٗى||ثُمَّ||مَحِلُّهَآ||إِلَى||ٱلۡبَيۡتِ||ٱلۡعَتِيقِ",
+                    "en": "For you||therein||(are) benefits||for||a term||appointed||then||their place of sacrifice||(is) at||the House||the Ancient"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Lakum feehaa manaafi'u ilaaa ajalim musamman summa mahilluhaaa ilal Baitil 'Ateeq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:34": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 34,
+                    "page": 336,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 289,
+                    "words": 20
+                },
+                "words": {
+                    "transliteration": "walikulli||ummatin||ja'alna||mansakan||liyadhkuru||is'ma||al-lahi||ala||ma||razaqahum||min||bahimati||al-an'ami||fa-ilahukum||ilahun||wahidun||falahu||aslimu||wabashiri||al-mukh'bitina",
+                    "line": "5||5||5||5||5||5||5||5||6||6||6||6||6||6||6||6||6||7||7||7",
+                    "end": "٣٤",
+                    "end_line": 7,
+                    "id": "dan bagi tiap-tiap||ummat||Kami telah menjadikan||cara peribadatan||supaya mereka mengingat/menyebut||nama||Allah||atas||apa||Dia rezekikan pada mereka||dari||binatang||ternak||maka Tuhanmu||Tuhan||satu/esa||maka kepada-Nya||berserah dirilah kamu||dan berilah kabar gembira||orang-orang yang tunduk/patuh",
+                    "ar": "وَلِكُلِّ||أُمَّةٖ||جَعَلۡنَا||مَنسَكٗا||لِّيَذۡكُرُواْ||ٱسۡمَ||ٱللَّهِ||عَلَىٰ||مَا||رَزَقَهُم||مِّنۢ||بَهِيمَةِ||ٱلۡأَنۡعَٰمِۗ||فَإِلَٰهُكُمۡ||إِلَٰهٞ||وَٰحِدٞ||فَلَهُۥٓ||أَسۡلِمُواْۗ||وَبَشِّرِ||ٱلۡمُخۡبِتِينَ",
+                    "en": "And for every||nation||We have appointed||a rite||that they may mention||(the) name||(of) Allah||over||what||He (has) provided them||of||(the) beast||(of) cattle||And your God||(is) God||One||so to Him||submit||And give glad tidings||(to) the humble ones"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-likulli ummatin ja'alnaa mansakal liyazkurus mal laahi 'alaa maa razaqahum mim baheematil an'aam; failaahukum ilaahunw Waahidun falahooo aslimoo; Wa-bashshiril mukhbiteen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:35": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 35,
+                    "page": 336,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 289,
+                    "words": 15
+                },
+                "words": {
+                    "transliteration": "alladhina||idha||dhukira||al-lahu||wajilat||qulubuhum||wal-sabirina||ala||ma||asabahum||wal-muqimi||al-salati||wamimma||razaqnahum||yunfiquna",
+                    "line": "7||7||7||7||7||8||8||8||8||8||8||8||9||9||9",
+                    "end": "٣٥",
+                    "end_line": 9,
+                    "id": "orang-orang yang||apabila||disebut||Allah||bergetar||hati mereka||dan orang-orang yang sabar||atas||apa||menimpa mereka||dan orang-orang yang mendirikan||sholat||dan dari apa||telah Kami rezekikan pada mereka||mereka menafkahkan",
+                    "ar": "ٱلَّذِينَ||إِذَا||ذُكِرَ||ٱللَّهُ||وَجِلَتۡ||قُلُوبُهُمۡ||وَٱلصَّٰبِرِينَ||عَلَىٰ||مَآ||أَصَابَهُمۡ||وَٱلۡمُقِيمِي||ٱلصَّلَوٰةِ||وَمِمَّا||رَزَقۡنَٰهُمۡ||يُنفِقُونَ",
+                    "en": "Those||when||is mentioned||Allah||fear||their hearts||and those who are patient||over||whatever||has afflicted them||and those who establish||the prayer||and out of what||We have provided them||they spend"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allazeena izaa zukiral laahu wajilat quloobuhum wassaabireena 'alaa maaa asaabahum walmuqeemis Salaati Wa-mimmaa razaqnaahum yunfiqoon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:36": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 36,
+                    "page": 336,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 289,
+                    "words": 27
+                },
+                "words": {
+                    "transliteration": "wal-bud'na||ja'alnaha||lakum||min||sha'airi||al-lahi||lakum||fiha||khayrun||fa-udh'kuru||is'ma||al-lahi||alayha||sawaffa||fa-idha||wajabat||junubuha||fakulu||min'ha||wa-at'imu||al-qani'a||wal-mu'tara||kadhalika||sakharnaha||lakum||la'allakum||tashkuruna",
+                    "line": "9||9||9||9||9||10||10||10||10||10||10||10||10||10||10||10||11||11||11||11||11||11||11||11||12||12||12",
+                    "end": "٣٦",
+                    "end_line": 12,
+                    "id": "dan onta itu||telah kami jadikan||bagi kalian||dari||syi'ar-syi'ar||Allah||bagi kalian||padanya||kebaikan||maka sebutlah||nama||Allah||atasnya||berbaris||maka apabila||telah roboh||lambungnya (disembelih)||maka makanlah||daripadanya||dan berilah makan||orang yang rela dengan apa yang ada padanya||dan orang yang meminta||demikianlah||Kami tundukannya||bagi kalian||agar kalian||kalian bersyukur",
+                    "ar": "وَٱلۡبُدۡنَ||جَعَلۡنَٰهَا||لَكُم||مِّن||شَعَٰٓئِرِ||ٱللَّهِ||لَكُمۡ||فِيهَا||خَيۡرٞۖ||فَٱذۡكُرُواْ||ٱسۡمَ||ٱللَّهِ||عَلَيۡهَا||صَوَآفَّۖ||فَإِذَا||وَجَبَتۡ||جُنُوبُهَا||فَكُلُواْ||مِنۡهَا||وَأَطۡعِمُواْ||ٱلۡقَانِعَ||وَٱلۡمُعۡتَرَّۚ||كَذَٰلِكَ||سَخَّرۡنَٰهَا||لَكُمۡ||لَعَلَّكُمۡ||تَشۡكُرُونَ",
+                    "en": "And the camels and cattle||We have made them||for you||among||(the) Symbols||(of) Allah||for you||therein||(is) good||So mention||(the) name||(of) Allah||over them||(when) lined up||and when||are down||their sides||then eat||from them||and feed||the needy who do not ask||and the needy who ask||Thus||We have subjected them||to you||so that you may||be grateful"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Walbudna ja'alnaahaa lakum min sha'aaa'iril laahi lakum feehaa khairun fazkurus mal laahi alaihaa sawaaff; fa-izaa wajabat junoobuhaa fakuloo minhaa Wa-at'imul qaani'a walmu'tarr; kazaalika sakhkharnaahaa lakum la'allakum tashkuroon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:37": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 37,
+                    "page": 336,
+                    "juz": 17,
+                    "hizb": 134,
+                    "manzil": 4,
+                    "ruku": 289,
+                    "words": 20
+                },
+                "words": {
+                    "transliteration": "lan||yanala||al-laha||luhumuha||wala||dimauha||walakin||yanaluhu||al-taqwa||minkum||kadhalika||sakharaha||lakum||litukabbiru||al-laha||ala||ma||hadakum||wabashiri||al-muh'sinina",
+                    "line": "12||12||12||12||12||12||13||13||13||13||13||13||13||13||14||14||14||14||14||14",
+                    "end": "٣٧",
+                    "end_line": 14,
+                    "id": "tidak akan||sampai||Allah||dagingnya||dan tidak||darahnya||akan tetapi||akan sampai kepada-Nya||takwa||daripada kamu||demikianlah||Dia menundukkannya||bagi kalian||supaya kamu mengagungkan||Allah||atas||apa||Dia memberi petunjuk kepadamu||dan berilah kabar gembira||orang-orang yang berbuat kebaikan",
+                    "ar": "لَن||يَنَالَ||ٱللَّهَ||لُحُومُهَا||وَلَا||دِمَآؤُهَا||وَلَٰكِن||يَنَالُهُ||ٱلتَّقۡوَىٰ||مِنكُمۡۚ||كَذَٰلِكَ||سَخَّرَهَا||لَكُمۡ||لِتُكَبِّرُواْ||ٱللَّهَ||عَلَىٰ||مَا||هَدَىٰكُمۡۗ||وَبَشِّرِ||ٱلۡمُحۡسِنِينَ",
+                    "en": "Will not||reach||Allah||their meat||and not||their blood||but||reaches Him||the piety||from you||Thus||He subjected them||to you||so that you may magnify||Allah||for||what||He has guided you||And give glad tidings||(to) the good-doers"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Laien yanaalal laaha luhoo-muhaa Wa-laa dimaaa'uhaa Wa-laakiny yanaaluhut taqwaa minkum; kazaalika sakhkharhaa lakum litukabbirul laaha 'alaa ma hadaakum; Wa-bashshiril muhsineen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:38": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 38,
+                    "page": 336,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 289,
+                    "words": 13
+                },
+                "words": {
+                    "transliteration": "inna||al-laha||yudafi'u||ani||alladhina||amanu||inna||al-laha||la||yuhibbu||kulla||khawwanin||kafurin",
+                    "line": "14||14||14||15||15||15||15||15||15||15||15||15||15",
+                    "end": "٣٨",
+                    "end_line": 15,
+                    "id": "sesungguhnya||Allah||Dia membela||dari||orang-orang yang||beriman||sesungguhnya||Allah||tidak||Dia menyukai||tiap-tiap||orang yang berkhianat||orang yang ingkar",
+                    "ar": "۞إِنَّ||ٱللَّهَ||يُدَٰفِعُ||عَنِ||ٱلَّذِينَ||ءَامَنُوٓاْۗ||إِنَّ||ٱللَّهَ||لَا||يُحِبُّ||كُلَّ||خَوَّانٖ||كَفُورٍ",
+                    "en": "Indeed||Allah||defends||defends||those who||believe||Indeed||Allah||(does) not||like||every||treacherous||ungrateful"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innal laaha yudaafi' anil lazeena aamanoo; innal laaha laa yuhibbu kulla khawwaanin kafoor"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:39": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 39,
+                    "page": 337,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 290,
+                    "words": 10
+                },
+                "words": {
+                    "transliteration": "udhina||lilladhina||yuqataluna||bi-annahum||zulimu||wa-inna||al-laha||ala||nasrihim||laqadirun",
+                    "line": "1||1||1||1||1||1||1||1||1||2",
+                    "end": "٣٩",
+                    "end_line": 2,
+                    "id": "telah diizinkan||bagi orang-orang yang||(mereka) diperangi||karena sesungguhnya mereka||mereka dianiaya||dan sesungguhnya||Allah||atas||menolong mereka||sungguh Maha Kuasa",
+                    "ar": "أُذِنَ||لِلَّذِينَ||يُقَٰتَلُونَ||بِأَنَّهُمۡ||ظُلِمُواْۚ||وَإِنَّ||ٱللَّهَ||عَلَىٰ||نَصۡرِهِمۡ||لَقَدِيرٌ",
+                    "en": "Permission is given||to those who||are being fought||because they||were wronged||And indeed||Allah||for||their victory||(is) surely Able"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Uzina lillazeena yuqaataloona bi-annahum zulimoo; Wa-innal laaha 'alaa nasrihim la-Qaderr"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:40": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 40,
+                    "page": 337,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 290,
+                    "words": 35
+                },
+                "words": {
+                    "transliteration": "alladhina||ukh'riju||min||diyarihim||bighayri||haqqin||illa||an||yaqulu||rabbuna||al-lahu||walawla||daf'u||al-lahi||al-nasa||ba'dahum||biba'din||lahuddimat||sawami'u||wabiya'un||wasalawatun||wamasajidu||yudh'karu||fiha||us'mu||al-lahi||kathiran||walayansuranna||al-lahu||man||yansuruhu||inna||al-laha||laqawiyyun||azizun",
+                    "line": "2||2||2||2||2||2||2||2||2||3||3||3||3||3||3||3||3||3||4||4||4||4||4||4||4||4||5||5||5||5||5||5||5||5||6",
+                    "end": "٤٠",
+                    "end_line": 6,
+                    "id": "orang-orang yang||(mereka) diusir||dari||rumah/kampung halaman mereka||dengan tidak/tanpa||kebenaran||melainkan||bahwa||mereka berkata||Tuhan kami||Allah||dan sekiranya tidak||menolak||Allah||manusia||sebagian mereka||dengan sebagian lain||tentu dirobohkan||biara-biara||dan gereja-gereja||dan tempat-tempat sholat||dan masjid-masjid||disebut||didalamnya||nama||Allah||banyak||dan sungguh akan menolong||Allah||orang||ia menolongnya||sesungguhnya||Allah||sungguh Maha Kuat||Maha Perkasa",
+                    "ar": "ٱلَّذِينَ||أُخۡرِجُواْ||مِن||دِيَٰرِهِم||بِغَيۡرِ||حَقٍّ||إِلَّآ||أَن||يَقُولُواْ||رَبُّنَا||ٱللَّهُۗ||وَلَوۡلَا||دَفۡعُ||ٱللَّهِ||ٱلنَّاسَ||بَعۡضَهُم||بِبَعۡضٖ||لَّهُدِّمَتۡ||صَوَٰمِعُ||وَبِيَعٞ||وَصَلَوَٰتٞ||وَمَسَٰجِدُ||يُذۡكَرُ||فِيهَا||ٱسۡمُ||ٱللَّهِ||كَثِيرٗاۗ||وَلَيَنصُرَنَّ||ٱللَّهُ||مَن||يَنصُرُهُۥٓۚ||إِنَّ||ٱللَّهَ||لَقَوِيٌّ||عَزِيزٌ",
+                    "en": "Those who||have been evicted||from||their homes||without||right||except||that||they said||Our Lord||(is) Allah||And if not||Allah checks||Allah checks||the people||some of them||by others||surely (would) have been demolished||monasteries||and churches||and synagogues||and masajid||is mentioned||in it||(the) name of Allah||(the) name of Allah||much||And surely Allah will help||And surely Allah will help||(those) who||help Him||Indeed||Allah||(is) surely All-Strong||All-Mighty"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allazeena ukhrijoo min diyaarihim bighairi haqqin illaaa any yaqooloo rabbunallaah; Wa-law laa daf'ul laahin naasa ba'dahum biba'dil lahuddimat sawaami'u Wa-biya'unw Wa-salawaatunw Wa-masaajidu yuzkaru feehas mul laahi kaseeraa; Wa-layansurannal laahu mai yansuruh; innal laaha la-qawiyyun 'Azeez"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:41": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 41,
+                    "page": 337,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 290,
+                    "words": 17
+                },
+                "words": {
+                    "transliteration": "alladhina||in||makkannahum||fi||al-ardi||aqamu||al-salata||waatawu||al-zakata||wa-amaru||bil-ma'rufi||wanahaw||ani||al-munkari||walillahi||aqibatu||al-umuri",
+                    "line": "6||6||6||6||6||6||6||7||7||7||7||7||7||7||8||8||8",
+                    "end": "٤١",
+                    "end_line": 8,
+                    "id": "orang-orang yang||jika||Kami meneguhkan mereka||di||muka bumi||mereka mendirikan||sholat||dan mereka menunaikan||zakat||dan mereka menyuruh||dengan perbuatan baik||dan mereka mencegah||dari||kemungkaran||dan kepada Allah||akibat/kesudahan||segala urusan",
+                    "ar": "ٱلَّذِينَ||إِن||مَّكَّنَّٰهُمۡ||فِي||ٱلۡأَرۡضِ||أَقَامُواْ||ٱلصَّلَوٰةَ||وَءَاتَوُاْ||ٱلزَّكَوٰةَ||وَأَمَرُواْ||بِٱلۡمَعۡرُوفِ||وَنَهَوۡاْ||عَنِ||ٱلۡمُنكَرِۗ||وَلِلَّهِ||عَٰقِبَةُ||ٱلۡأُمُورِ",
+                    "en": "Those who||if||We establish them||in||the land||they establish||the prayer||and they give||zakah||and they enjoin||the right||and forbid||from||the wrong||And for Allah||(is the) end||(of) the matters"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allazeena im makkan-naahum fil ardi aqaamus Salaata Wa-aatawuz Zakaata Wa-amaroo bilma'roofi Wa-nahaw anil munkar; Wa-lillaahi aaqibatul umoor"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:42": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 42,
+                    "page": 337,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 290,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "wa-in||yukadhibuka||faqad||kadhabat||qablahum||qawmu||nuhin||wa'adun||wathamudu",
+                    "line": "8||8||8||8||9||9||9||9||9",
+                    "end": "٤٢",
+                    "end_line": 9,
+                    "id": "dan jika||mereka mendustakan kamu||maka sesungguhnya||telah mendustakan||sebelum mereka||kaum||Nuh||dan 'Ad||dan Tsamud",
+                    "ar": "وَإِن||يُكَذِّبُوكَ||فَقَدۡ||كَذَّبَتۡ||قَبۡلَهُمۡ||قَوۡمُ||نُوحٖ||وَعَادٞ||وَثَمُودُ",
+                    "en": "And if||they deny you||so verily||denied||before them||(the) people||(of) Nuh||and Aad||and Thamud"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-ien yukazzibooka faqad kazzabat qablahum qawmu Noohinw Wa-Aadunw Wa-Samood"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:43": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 43,
+                    "page": 337,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 290,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "waqawmu||ib'rahima||waqawmu||lutin",
+                    "line": "9||9||9||10",
+                    "end": "٤٣",
+                    "end_line": 10,
+                    "id": "dan kaum||Ibrahim||dan kaum||Luth",
+                    "ar": "وَقَوۡمُ||إِبۡرَٰهِيمَ||وَقَوۡمُ||لُوطٖ",
+                    "en": "And (the) people||(of) Ibrahim||and (the) people||(of) Lut"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-qawmu ibraaheema Wa-qawmu Loot"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:44": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 44,
+                    "page": 337,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 290,
+                    "words": 11
+                },
+                "words": {
+                    "transliteration": "wa-ashabu||madyana||wakudhiba||musa||fa-amlaytu||lil'kafirina||thumma||akhadhtuhum||fakayfa||kana||nakiri",
+                    "line": "10||10||10||10||10||10||11||11||11||11||11",
+                    "end": "٤٤",
+                    "end_line": 11,
+                    "id": "dan penduduk||Madyan||dan telah didustakan||Musa||maka Aku tangguhkan||bagi orang-orang kafir||kemudian||Aku ambil/azab mereka||maka bagaimana||adalah||kebencian-Ku",
+                    "ar": "وَأَصۡحَٰبُ||مَدۡيَنَۖ||وَكُذِّبَ||مُوسَىٰۖ||فَأَمۡلَيۡتُ||لِلۡكَٰفِرِينَ||ثُمَّ||أَخَذۡتُهُمۡۖ||فَكَيۡفَ||كَانَ||نَكِيرِ",
+                    "en": "And the inhabitants||(of) Madyan||And Musa was denied||And Musa was denied||so I granted respite||to the disbelievers||then||I seized them||and how||was||My punishment"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-as-haabu Madyana Wa-kuzziba Moosaa fa-amlaitu lilkaafireena summa akhaztuhum fakaifa kaana nakeer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:45": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 45,
+                    "page": 337,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 290,
+                    "words": 14
+                },
+                "words": {
+                    "transliteration": "faka-ayyin||min||qaryatin||ahlaknaha||wahiya||zalimatun||fahiya||khawiyatun||ala||urushiha||wabi'rin||mu'attalatin||waqasrin||mashidin",
+                    "line": "11||11||11||12||12||12||12||12||12||12||12||13||13||13",
+                    "end": "٤٥",
+                    "end_line": 13,
+                    "id": "maka berapa banyak||dari||kota/negeri||telah Kami binasakan||dan ia (penduduknya)||keadaan zalim||maka ia (rumah-rumah)||roboh||atas||atap-atapnya||dan sumur/telaga||sunyi/ditinggalkan||dan istana||yang tinggi",
+                    "ar": "فَكَأَيِّن||مِّن||قَرۡيَةٍ||أَهۡلَكۡنَٰهَا||وَهِيَ||ظَالِمَةٞ||فَهِيَ||خَاوِيَةٌ||عَلَىٰ||عُرُوشِهَا||وَبِئۡرٖ||مُّعَطَّلَةٖ||وَقَصۡرٖ||مَّشِيدٍ",
+                    "en": "And how many||of||a township||We have destroyed it||while it||was doing wrong||so it||fell||on||its roofs||and well||abandoned||and castle||lofty"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Faka-ayyim min qaryatin ahlaknaahaa Wa-hiya zaalimatun fahiya khaawiyatun 'alaa urooshihaa Wa-bi'rim mu'at-talatinw Wa-qasrim masheed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:46": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 46,
+                    "page": 337,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 290,
+                    "words": 23
+                },
+                "words": {
+                    "transliteration": "afalam||yasiru||fi||al-ardi||fatakuna||lahum||qulubun||ya'qiluna||biha||aw||adhanun||yasma'una||biha||fa-innaha||la||ta'ma||al-absaru||walakin||ta'ma||al-qulubu||allati||fi||al-suduri",
+                    "line": "13||13||13||13||13||14||14||14||14||14||14||14||14||14||15||15||15||15||15||15||15||15||15",
+                    "end": "٤٦",
+                    "end_line": 15,
+                    "id": "maka apakah tidak||mereka berjalan||di||muka bumi||maka adalah||bagi mereka (mempunyai)||hati||mereka memahami||dengannya/dengan itu||atau||telinga||mereka mendengar||dengannya/dengan itu||maka sesungguhnya ia||tidak||buta||pandangan/mata||akan tetapi||buta||hati||yang||di||dalam dada",
+                    "ar": "أَفَلَمۡ||يَسِيرُواْ||فِي||ٱلۡأَرۡضِ||فَتَكُونَ||لَهُمۡ||قُلُوبٞ||يَعۡقِلُونَ||بِهَآ||أَوۡ||ءَاذَانٞ||يَسۡمَعُونَ||بِهَاۖ||فَإِنَّهَا||لَا||تَعۡمَى||ٱلۡأَبۡصَٰرُ||وَلَٰكِن||تَعۡمَى||ٱلۡقُلُوبُ||ٱلَّتِي||فِي||ٱلصُّدُورِ",
+                    "en": "So have not||they traveled||in||the land||and is||for them||hearts||(to) reason||with it||or||ears||(to) hear||with it||For indeed [it]||not||(are) blinded||the eyes||but||(are) blinded||the hearts||which||(are) in||the breasts"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Afalam yaseeroo fil ardi fatakoona lahum quloobuien ya'qiloona bihaaa aw aazaanunien yasma'oona bihaa fa-innahaa laa ta'mal absaaru Wa-laakin ta'mal quloobul latee fis sudoor"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:47": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 47,
+                    "page": 338,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 290,
+                    "words": 14
+                },
+                "words": {
+                    "transliteration": "wayasta'jilunaka||bil-'adhabi||walan||yukh'lifa||al-lahu||wa'dahu||wa-inna||yawman||inda||rabbika||ka-alfi||sanatin||mimma||ta'udduna",
+                    "line": "1||1||1||1||1||1||1||1||2||2||2||2||2||2",
+                    "end": "٤٧",
+                    "end_line": 2,
+                    "id": "dan mereka minta disegerakan kepadamu||dengan azab||dan tidak||menyalahi||Allah||janji-Nya||dan sesungguhnya||sehari||di sisi||Tuhanmu||seperti seribu||tahun||dari apa||kamu hitung",
+                    "ar": "وَيَسۡتَعۡجِلُونَكَ||بِٱلۡعَذَابِ||وَلَن||يُخۡلِفَ||ٱللَّهُ||وَعۡدَهُۥۚ||وَإِنَّ||يَوۡمًا||عِندَ||رَبِّكَ||كَأَلۡفِ||سَنَةٖ||مِّمَّا||تَعُدُّونَ",
+                    "en": "And they ask you to hasten||the punishment||But never will||Allah fail||Allah fail||(in) His Promise||And indeed||a day||with||your Lord||(is) like a thousand||year(s)||of what||you count"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-yasta'jiloonaka bil'azaabi Wa-lany yukhlifal laahu wa'dah; Wa-inna yawman inda Rabbika ka'alfi sanatim mimmaa ta'uddoon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:48": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 48,
+                    "page": 338,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 290,
+                    "words": 11
+                },
+                "words": {
+                    "transliteration": "waka-ayyin||min||qaryatin||amlaytu||laha||wahiya||zalimatun||thumma||akhadhtuha||wa-ilayya||al-masiru",
+                    "line": "2||2||2||3||3||3||3||3||3||3||3",
+                    "end": "٤٨",
+                    "end_line": 3,
+                    "id": "dan berapa banyak||dari||kota/negeri||Aku tangguhkan||padanya||dan ia (penduduknya)||zalim||kemudian||Aku ambil/azabnya (mereka)||dan kepada-Ku||tempat kembali",
+                    "ar": "وَكَأَيِّن||مِّن||قَرۡيَةٍ||أَمۡلَيۡتُ||لَهَا||وَهِيَ||ظَالِمَةٞ||ثُمَّ||أَخَذۡتُهَا||وَإِلَيَّ||ٱلۡمَصِيرُ",
+                    "en": "And how many||of||a township||I gave respite||to it||while it||(was) doing wrong||Then||I seized it||and to Me||(is) the destination"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-ka-ayyim min qaryatin amlaitu lahaa Wa-hiya zaalimatun summa akhaztuhaa Wa-ilaiyal maseer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:49": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 49,
+                    "page": 338,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 291,
+                    "words": 8
+                },
+                "words": {
+                    "transliteration": "qul||yaayyuha||al-nasu||innama||ana||lakum||nadhirun||mubinun",
+                    "line": "4||4||4||4||4||4||4||4",
+                    "end": "٤٩",
+                    "end_line": 4,
+                    "id": "katakanlah||wahai||manusia||sesungguhnya hanyalah||aku||bagi kalian||seorang pemberi peringatan||yang nyata",
+                    "ar": "قُلۡ||يَٰٓأَيُّهَا||ٱلنَّاسُ||إِنَّمَآ||أَنَا۠||لَكُمۡ||نَذِيرٞ||مُّبِينٞ",
+                    "en": "Say||O mankind||O mankind||Only||I am||to you||a warner||clear"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Qul yaaa-ayyuhan naasu innamaaa ana lakum nazeerum mubeen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:50": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 50,
+                    "page": 338,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 291,
+                    "words": 8
+                },
+                "words": {
+                    "transliteration": "fa-alladhina||amanu||wa'amilu||al-salihati||lahum||maghfiratun||wariz'qun||karimun",
+                    "line": "4||5||5||5||5||5||5||5",
+                    "end": "٥٠",
+                    "end_line": 5,
+                    "id": "maka orang-orang yang||beriman||dan mereka beramal||kebajikan/saleh||bagi mereka||ampunan||dan rezeki||yang mulia",
+                    "ar": "فَٱلَّذِينَ||ءَامَنُواْ||وَعَمِلُواْ||ٱلصَّٰلِحَٰتِ||لَهُم||مَّغۡفِرَةٞ||وَرِزۡقٞ||كَرِيمٞ",
+                    "en": "So those who||believe||and do||righteous deeds||for them||(is) forgiveness||and a provision||noble"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fallazeena aamanoo Wa-'amilus saalihaati lahum maghfiratunw Wa-rizqun kareem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:51": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 51,
+                    "page": 338,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 291,
+                    "words": 8
+                },
+                "words": {
+                    "transliteration": "wa-alladhina||sa'aw||fi||ayatina||mu'ajizina||ulaika||ashabu||al-jahimi",
+                    "line": "6||6||6||6||6||6||6||7",
+                    "end": "٥١",
+                    "end_line": 7,
+                    "id": "dan orang-orang yang||(mereka) berusaha||pada||ayat-ayat Kami||melemahkan||mereka itu||penghuni||neraka jahim",
+                    "ar": "وَٱلَّذِينَ||سَعَوۡاْ||فِيٓ||ءَايَٰتِنَا||مُعَٰجِزِينَ||أُوْلَٰٓئِكَ||أَصۡحَٰبُ||ٱلۡجَحِيمِ",
+                    "en": "And those who||strove||against||Our Verses||(to) cause failure||those||(are the) companions||(of) the Hellfire"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wallazeena sa'aw feee Aayaatinaa mu'aajizeena ulaaa-ika As-haabul jaheem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:52": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 52,
+                    "page": 338,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 291,
+                    "words": 27
+                },
+                "words": {
+                    "transliteration": "wama||arsalna||min||qablika||min||rasulin||wala||nabiyyin||illa||idha||tamanna||alqa||al-shaytanu||fi||um'niyyatihi||fayansakhu||al-lahu||ma||yul'qi||al-shaytanu||thumma||yuh'kimu||al-lahu||ayatihi||wal-lahu||alimun||hakimun",
+                    "line": "7||7||7||7||7||7||7||7||7||8||8||8||8||8||8||8||8||8||8||9||9||9||9||9||9||9||9",
+                    "end": "٥٢",
+                    "end_line": 9,
+                    "id": "dan tidak||Kami mengutus||dari||sebelum kamu||dari||seorang rasul||dan tidak||seorang nabi||melainkan||apabila||dia berangan-angan/membaca||melemparkan/memasukkan||syaitan||dalam||angan-angan/membaca||maka menghapus/menghilangkan||Allah||apa yang||dimasukkan||syaitan||kemudian||menghukumkan/menguatkan||Allah||ayat-ayat-Nya||dan Allah||Maha Mengetahui||Maha Bijaksana",
+                    "ar": "وَمَآ||أَرۡسَلۡنَا||مِن||قَبۡلِكَ||مِن||رَّسُولٖ||وَلَا||نَبِيٍّ||إِلَّآ||إِذَا||تَمَنَّىٰٓ||أَلۡقَى||ٱلشَّيۡطَٰنُ||فِيٓ||أُمۡنِيَّتِهِۦ||فَيَنسَخُ||ٱللَّهُ||مَا||يُلۡقِي||ٱلشَّيۡطَٰنُ||ثُمَّ||يُحۡكِمُ||ٱللَّهُ||ءَايَٰتِهِۦۗ||وَٱللَّهُ||عَلِيمٌ||حَكِيمٞ",
+                    "en": "And not||We sent||before you||before you||any||Messenger||and not||a Prophet||but||when||he recited||threw||the Shaitaan||in||his recitation||But Allah abolishes||But Allah abolishes||what||throws||the Shaitaan||then||Allah will establish||Allah will establish||His Verses||And Allah||(is) All-Knower||All-Wise"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-maaa arsalnaa min qablika mir Rasoolinnw Wa-laa Nabiyyin illaaa izaaa tamannaaa alqash Shaitaanu feee umniy-yatihee fa-yansakhul laahu maa yulqish Shaitaanu summa yuhkimul laahu aayaatih; wallaahu 'Aleemun Hakeem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:53": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 53,
+                    "page": 338,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 291,
+                    "words": 16
+                },
+                "words": {
+                    "transliteration": "liyaj'ala||ma||yul'qi||al-shaytanu||fit'natan||lilladhina||fi||qulubihim||maradun||wal-qasiyati||qulubuhum||wa-inna||al-zalimina||lafi||shiqaqin||ba'idin",
+                    "line": "9||10||10||10||10||10||10||10||10||10||11||11||11||11||11||11",
+                    "end": "٥٣",
+                    "end_line": 11,
+                    "id": "karena Dia hendak menjadikan||apa yang||dimasukkan||syaitan||fitnah/cobaan||bagi orang-orang yang||dalam||hati mereka||penyakit||dan keras||hati mereka||dan sesungguhnya||orang-orang yang zalim||benar-benar dalam||pertentangan||yang jauh",
+                    "ar": "لِّيَجۡعَلَ||مَا||يُلۡقِي||ٱلشَّيۡطَٰنُ||فِتۡنَةٗ||لِّلَّذِينَ||فِي||قُلُوبِهِم||مَّرَضٞ||وَٱلۡقَاسِيَةِ||قُلُوبُهُمۡۗ||وَإِنَّ||ٱلظَّٰلِمِينَ||لَفِي||شِقَاقِۭ||بَعِيدٖ",
+                    "en": "That He may make||what||the Shaitaan throws||the Shaitaan throws||a trial||for those||in||their hearts||(is) a disease||and (are) hardened||their hearts||And indeed||the wrongdoers||(are) surely, in||schism||far"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Liyaj'ala maa yulqish Shaitaanu fitnatal lillazeena fee quloobihim maradunw walqaasiyati quloobuhum; Wa-innaz zaalimeena lafee shiqaaqim ba'eed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:54": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 54,
+                    "page": 338,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 291,
+                    "words": 21
+                },
+                "words": {
+                    "transliteration": "waliya'lama||alladhina||utu||al-'il'ma||annahu||al-haqu||min||rabbika||fayu'minu||bihi||fatukh'bita||lahu||qulubuhum||wa-inna||al-laha||lahadi||alladhina||amanu||ila||siratin||mus'taqimin",
+                    "line": "11||12||12||12||12||12||12||12||12||12||13||13||13||13||13||13||13||13||13||13||14",
+                    "end": "٥٤",
+                    "end_line": 14,
+                    "id": "dan supaya mengetahui||orang-orang yang||(mereka) diberi||ilmu pengetahuan||bahwasanya ia||benar||dari||Tuhanmu||lalu mereka beriman||dengannya||maka tunduk||padanya||hati mereka||dan sesungguhnya||Allah||sungguh memimpin||orang-orang yang||(mereka)||kepada||jalan||yang lurus",
+                    "ar": "وَلِيَعۡلَمَ||ٱلَّذِينَ||أُوتُواْ||ٱلۡعِلۡمَ||أَنَّهُ||ٱلۡحَقُّ||مِن||رَّبِّكَ||فَيُؤۡمِنُواْ||بِهِۦ||فَتُخۡبِتَ||لَهُۥ||قُلُوبُهُمۡۗ||وَإِنَّ||ٱللَّهَ||لَهَادِ||ٱلَّذِينَ||ءَامَنُوٓاْ||إِلَىٰ||صِرَٰطٖ||مُّسۡتَقِيمٖ",
+                    "en": "And that may know||those who||have been given||the knowledge||that it||(is) the truth||from||your Lord||and they believe||in it||and may humbly submit||to it||their hearts||And indeed||Allah||(is) surely (the) Guide||(of) those who||believe||to||a Path||Straight"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-liya'lamal lazeena ootul ilma annahul haqqu mir Rabbika fa-yu'minoo bihee fatukhbita lahoo quloobuhum; Wa-innal laaha lahaadil lazeena aamanoo ilaa Siraatim Mustaqeem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:55": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 55,
+                    "page": 338,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 291,
+                    "words": 16
+                },
+                "words": {
+                    "transliteration": "wala||yazalu||alladhina||kafaru||fi||mir'yatin||min'hu||hatta||tatiyahumu||al-sa'atu||baghtatan||aw||yatiyahum||adhabu||yawmin||aqimin",
+                    "line": "14||14||14||14||14||14||14||14||15||15||15||15||15||15||15||15",
+                    "end": "٥٥",
+                    "end_line": 15,
+                    "id": "dan tidak||senantiasa||orang-orang yang||kafir/ingkar||dalam||keraguan||daripadanya (Al-Qur'an)||sehingga||datang kepada mereka||waktu/saat||dengan tiba-tiba||atau||datang kepada mereka||azab||hari||tidak berubah/kiamat",
+                    "ar": "وَلَا||يَزَالُ||ٱلَّذِينَ||كَفَرُواْ||فِي||مِرۡيَةٖ||مِّنۡهُ||حَتَّىٰ||تَأۡتِيَهُمُ||ٱلسَّاعَةُ||بَغۡتَةً||أَوۡ||يَأۡتِيَهُمۡ||عَذَابُ||يَوۡمٍ||عَقِيمٍ",
+                    "en": "And not||will cease||those who||disbelieve||(to be) in||doubt||of it||until||comes to them||the Hour||suddenly||or||comes to them||(the) punishment||(of) a Day||barren"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-laa yazaalul lazeena kafaroo fee miryatim minhu hattaa taatiyahumus Saa'atu baghtatan aw yaatiyahum 'azaabu Yawmin 'aqeem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:56": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 56,
+                    "page": 339,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 291,
+                    "words": 12
+                },
+                "words": {
+                    "transliteration": "al-mul'ku||yawma-idhin||lillahi||yahkumu||baynahum||fa-alladhina||amanu||wa'amilu||al-salihati||fi||jannati||al-na'imi",
+                    "line": "1||1||1||1||1||1||1||2||2||2||2||2",
+                    "end": "٥٦",
+                    "end_line": 2,
+                    "id": "kerajaan/kekuasaan||pada hari itu||bagi/pada Allah||Dia memberi keputusan||diantara mereka||maka orang-orang yang||beriman||dan mereka mengerjakan/beramal||kebaikan/saleh||dalam||surga||kenikmatan",
+                    "ar": "ٱلۡمُلۡكُ||يَوۡمَئِذٖ||لِّلَّهِ||يَحۡكُمُ||بَيۡنَهُمۡۚ||فَٱلَّذِينَ||ءَامَنُواْ||وَعَمِلُواْ||ٱلصَّٰلِحَٰتِ||فِي||جَنَّٰتِ||ٱلنَّعِيمِ",
+                    "en": "The Sovereignty||(on) that Day||(will be) for Allah||He will judge||between them||So those who||believe||and did||righteous deeds||(will be) in||Gardens||(of) Delight"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Almulku Yawma'izil lillaahi yahkumu bainahum; fallazeena aamanoo Wa-'amilus saalihaati fee jannaatin Na'eem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:57": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 57,
+                    "page": 339,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 291,
+                    "words": 8
+                },
+                "words": {
+                    "transliteration": "wa-alladhina||kafaru||wakadhabu||biayatina||fa-ulaika||lahum||adhabun||muhinun",
+                    "line": "2||3||3||3||3||3||3||4",
+                    "end": "٥٧",
+                    "end_line": 4,
+                    "id": "dan orang-orang yang||kafir/ingkar||dan mereka mendustakan||dengan ayat-ayat Kami||maka mereka itu||bagi mereka||azab||menghinakan",
+                    "ar": "وَٱلَّذِينَ||كَفَرُواْ||وَكَذَّبُواْ||بِـَٔايَٰتِنَا||فَأُوْلَٰٓئِكَ||لَهُمۡ||عَذَابٞ||مُّهِينٞ",
+                    "en": "And those who||disbelieved||and denied||Our Verses||then those||for them||(will be) a punishment||humiliating"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wallazeena kafaroo Wa-kazzaboo bi-Aayaatinaa fa-ulaaa'ika lahum 'azaabum muheen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:58": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 58,
+                    "page": 339,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 292,
+                    "words": 18
+                },
+                "words": {
+                    "transliteration": "wa-alladhina||hajaru||fi||sabili||al-lahi||thumma||qutilu||aw||matu||layarzuqannahumu||al-lahu||riz'qan||hasanan||wa-inna||al-laha||lahuwa||khayru||al-raziqina",
+                    "line": "4||4||4||4||4||4||4||5||5||5||5||5||5||5||5||5||6||6",
+                    "end": "٥٨",
+                    "end_line": 6,
+                    "id": "dan orang-orang yang||(mereka) berhijrah||dalam/di||jalan||Allah||kemudian||mereka terbunuh||atau||mereka mati||pasti akan memberi rezeki kepada mereka||Allah||rezeki||baik||dan sesungguhnya||Allah||sungguh Dia||sebaik-baik||pemberi rezeki",
+                    "ar": "وَٱلَّذِينَ||هَاجَرُواْ||فِي||سَبِيلِ||ٱللَّهِ||ثُمَّ||قُتِلُوٓاْ||أَوۡ||مَاتُواْ||لَيَرۡزُقَنَّهُمُ||ٱللَّهُ||رِزۡقًا||حَسَنٗاۚ||وَإِنَّ||ٱللَّهَ||لَهُوَ||خَيۡرُ||ٱلرَّٰزِقِينَ",
+                    "en": "And those who||emigrated||in||(the) way||(of) Allah||then||were killed||or||died||surely will provide them||Allah||a provision||good||And indeed||Allah||surely, He||(is the) Best||(of) the Providers"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wallazeena haajaroo fee sabeelil laahi summa qutilooo aw maatoo la-yarzuqan-nahumul laahu rizqan hasanaa; Wa-innal laaha la-Huwa khairur raaziqeen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:59": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 59,
+                    "page": 339,
+                    "juz": 17,
+                    "hizb": 135,
+                    "manzil": 4,
+                    "ruku": 292,
+                    "words": 7
+                },
+                "words": {
+                    "transliteration": "layud'khilannahum||mud'khalan||yardawnahu||wa-inna||al-laha||la'alimun||halimun",
+                    "line": "6||6||6||7||7||7||7",
+                    "end": "٥٩",
+                    "end_line": 7,
+                    "id": "sungguh Dia akan memasukkan mereka||tempat masuk||mereka menyukainya||dan sesungguhnya||Allah||sungguh Maha Mengetahui||Maha Penyantun",
+                    "ar": "لَيُدۡخِلَنَّهُم||مُّدۡخَلٗا||يَرۡضَوۡنَهُۥۚ||وَإِنَّ||ٱللَّهَ||لَعَلِيمٌ||حَلِيمٞ",
+                    "en": "Surely He will admit them||(to) an entrance||they will be pleased (with) it||And indeed||Allah||surely (is) All-Knowing||Most Forbearing"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "La-yudkhilan-nahum mud-khalaien yardawnah; Wa-innal laaha la-'Aleemun Haleem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:60": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 60,
+                    "page": 339,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 292,
+                    "words": 16
+                },
+                "words": {
+                    "transliteration": "dhalika||waman||aqaba||bimith'li||ma||uqiba||bihi||thumma||bughiya||alayhi||layansurannahu||al-lahu||inna||al-laha||la'afuwwun||ghafurun",
+                    "line": "7||7||7||7||8||8||8||8||8||8||8||8||8||8||9||9",
+                    "end": "٦٠",
+                    "end_line": 9,
+                    "id": "demikianlah||dan barangsiapa||membalas||dengan serupa/seimbang||apa yang||dibalas||dengannya/kepadanya||kemudian||dia dianiaya||atasnya||sungguh akan menolongnya||Allah||sesungguhnya||Allah||sungguh Maha Pemaaf||Maha Pengampun",
+                    "ar": "۞ذَٰلِكَۖ||وَمَنۡ||عَاقَبَ||بِمِثۡلِ||مَا||عُوقِبَ||بِهِۦ||ثُمَّ||بُغِيَ||عَلَيۡهِ||لَيَنصُرَنَّهُ||ٱللَّهُۚ||إِنَّ||ٱللَّهَ||لَعَفُوٌّ||غَفُورٞ",
+                    "en": "That||and whoever||has retaliated||with the like||(of) that||he was made to suffer||by it||then||he was oppressed||[on him]||Allah will surely help him||Allah will surely help him||Indeed||Allah||(is) surely Oft-Pardoning||Oft-Forgiving"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Zaalika Wa-man 'aaqaba bimisli maa ooqiba bihee summa bughiya alaihi la-yansurannahul laah; innal laaha la-'Afuwwun Ghafoor"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:61": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 61,
+                    "page": 339,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 292,
+                    "words": 15
+                },
+                "words": {
+                    "transliteration": "dhalika||bi-anna||al-laha||yuliju||al-layla||fi||al-nahari||wayuliju||al-nahara||fi||al-layli||wa-anna||al-laha||sami'un||basirun",
+                    "line": "9||9||9||9||9||9||10||10||10||10||10||10||10||10||11",
+                    "end": "٦١",
+                    "end_line": 11,
+                    "id": "demikianlah||karena sesungguhnya||Allah||Dia memasukkan||malam||dalam||siang||dan Dia memasukkan||siang||dalam||malam||dan sesungguhnya||Allah||Maha Mendengar||Maha Melihat",
+                    "ar": "ذَٰلِكَ||بِأَنَّ||ٱللَّهَ||يُولِجُ||ٱلَّيۡلَ||فِي||ٱلنَّهَارِ||وَيُولِجُ||ٱلنَّهَارَ||فِي||ٱلَّيۡلِ||وَأَنَّ||ٱللَّهَ||سَمِيعُۢ||بَصِيرٞ",
+                    "en": "That||(is) because||Allah||causes to enter||the night||in (to)||the day||and causes to enter||the day||in (to)||the night||And indeed||Allah||(is) All-Hearer||All-Seer"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Zaalika bi-annal laaha yoolijul laila fin nahaari Wa-yoolijun nahaara fil laili Wa-annal laaha Samee'um Baseer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:62": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 62,
+                    "page": 339,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 292,
+                    "words": 17
+                },
+                "words": {
+                    "transliteration": "dhalika||bi-anna||al-laha||huwa||al-haqu||wa-anna||ma||yad'una||min||dunihi||huwa||al-batilu||wa-anna||al-laha||huwa||al-'aliyu||al-kabiru",
+                    "line": "11||11||11||11||11||11||11||11||12||12||12||12||12||12||12||12||12",
+                    "end": "٦٢",
+                    "end_line": 12,
+                    "id": "demikianlah||karena sesungguhnya||Allah||Dia||hak||dan sesungguhnya||apa||mereka seru||dari||selain Dia||ia/itu||palsu/batil||dan sesungguhnya||Allah||Dia||Maha Tinggi||Maha Besar",
+                    "ar": "ذَٰلِكَ||بِأَنَّ||ٱللَّهَ||هُوَ||ٱلۡحَقُّ||وَأَنَّ||مَا||يَدۡعُونَ||مِن||دُونِهِۦ||هُوَ||ٱلۡبَٰطِلُ||وَأَنَّ||ٱللَّهَ||هُوَ||ٱلۡعَلِيُّ||ٱلۡكَبِيرُ",
+                    "en": "That (is)||because||Allah||He||(is) the Truth||and that||what||they invoke||besides Him||besides Him||it||(is) the falsehood||And that||Allah||He||(is) the Most High||the Most Great"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Zaalika bi-annal laaha Huwal haqqu Wa-anna maa yad'oona min doonihee huwal baatilu Wa-annal laaha Huwal Aliyyul kabeer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:63": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 63,
+                    "page": 339,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 292,
+                    "words": 15
+                },
+                "words": {
+                    "transliteration": "alam||tara||anna||al-laha||anzala||mina||al-samai||maan||fatus'bihu||al-ardu||mukh'darratan||inna||al-laha||latifun||khabirun",
+                    "line": "13||13||13||13||13||13||13||13||13||13||14||14||14||14||14",
+                    "end": "٦٣",
+                    "end_line": 14,
+                    "id": "apakah tidak||kamu lihat||bahwasanya||Allah||Dia menurunkan||dari||langit||air||maka menjadilah||bumi||menghijau||sesungguhnya||Allah||Maha Halus||Maha Mengetahui",
+                    "ar": "أَلَمۡ||تَرَ||أَنَّ||ٱللَّهَ||أَنزَلَ||مِنَ||ٱلسَّمَآءِ||مَآءٗ||فَتُصۡبِحُ||ٱلۡأَرۡضُ||مُخۡضَرَّةًۚ||إِنَّ||ٱللَّهَ||لَطِيفٌ||خَبِيرٞ",
+                    "en": "Do not||you see||that||Allah||sends down||from||the sky||water||then becomes||the earth||green||Indeed||Allah||(is) surely Subtle||All-Aware"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Alam tara annal laaha anzala minas samaaa'i maaa'an fatusbihul ardu mukhdarrah; innal laaha Lateefun Khabeer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:64": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 64,
+                    "page": 339,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 292,
+                    "words": 12
+                },
+                "words": {
+                    "transliteration": "lahu||ma||fi||al-samawati||wama||fi||al-ardi||wa-inna||al-laha||lahuwa||al-ghaniyu||al-hamidu",
+                    "line": "14||14||14||14||15||15||15||15||15||15||15||15",
+                    "end": "٦٤",
+                    "end_line": 15,
+                    "id": "kepunyaan-Nya||apa||di||langit(jamak)||dan apa||di||dalam bumi||dan sesungguhnya||Allah||sungguh Dia||Maha Kaya||Maha Terpuji",
+                    "ar": "لَّهُۥ||مَا||فِي||ٱلسَّمَٰوَٰتِ||وَمَا||فِي||ٱلۡأَرۡضِۚ||وَإِنَّ||ٱللَّهَ||لَهُوَ||ٱلۡغَنِيُّ||ٱلۡحَمِيدُ",
+                    "en": "For Him||(is) whatever||(is) in||the heavens||and whatever||(is) in||the earth||And indeed||Allah||surely He||(is) Free of need||the Praiseworthy"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Lahoo ma fis samaawaati Wa-ma fil ard; Wa-innal laaha la-Huwal Ghaniyyul Hameed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:65": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 65,
+                    "page": 340,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 293,
+                    "words": 27
+                },
+                "words": {
+                    "transliteration": "alam||tara||anna||al-laha||sakhara||lakum||ma||fi||al-ardi||wal-ful'ka||tajri||fi||al-bahri||bi-amrihi||wayum'siku||al-samaa||an||taqa'a||ala||al-ardi||illa||bi-idh'nihi||inna||al-laha||bil-nasi||laraufun||rahimun",
+                    "line": "1||1||1||1||1||1||1||1||1||1||1||2||2||2||2||2||2||2||2||2||2||3||3||3||3||3||3",
+                    "end": "٦٥",
+                    "end_line": 3,
+                    "id": "tidakkah||kamu melihat||bahwasanya||Allah||Dia menundukkan||bagi kalian||apa||di||bumi||dan perahu||berjalan/berlayar||di||lautan||dengan perintah-Nya||dan Dia menahan||langit||akan||jatuh||di atas||bumi||melainkan||dengan izin-Nya||sesungguhnya||Allah||dengan/kepada manusia||benar-benar Maha Pengasih||Maha Penyayang",
+                    "ar": "أَلَمۡ||تَرَ||أَنَّ||ٱللَّهَ||سَخَّرَ||لَكُم||مَّا||فِي||ٱلۡأَرۡضِ||وَٱلۡفُلۡكَ||تَجۡرِي||فِي||ٱلۡبَحۡرِ||بِأَمۡرِهِۦ||وَيُمۡسِكُ||ٱلسَّمَآءَ||أَن||تَقَعَ||عَلَى||ٱلۡأَرۡضِ||إِلَّا||بِإِذۡنِهِۦٓۚ||إِنَّ||ٱللَّهَ||بِٱلنَّاسِ||لَرَءُوفٞ||رَّحِيمٞ",
+                    "en": "Do not||you see||that||Allah||(has) subjected||to you||what||(is) in||the earth||and the ships||that sail||through||the sea||by His Command||And He withholds||the sky||lest||it falls||on||the earth||except||by His permission||Indeed||Allah||to mankind||(is) Full of Kindness||Most Merciful"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Alam tara annal laaha sakhkhara lakum maa fil ardi wal-fulka tajree fil bahri bi-amrihee Wa-yumsikus samaaa'a an taqa'a 'alal ardi illaa biiznih; innal laaha binnaasi la-Ra'oofur Raheem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:66": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 66,
+                    "page": 340,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 293,
+                    "words": 10
+                },
+                "words": {
+                    "transliteration": "wahuwa||alladhi||ahyakum||thumma||yumitukum||thumma||yuh'yikum||inna||al-insana||lakafurun",
+                    "line": "3||3||4||4||4||4||4||4||4||4",
+                    "end": "٦٦",
+                    "end_line": 4,
+                    "id": "dan Dia||yang||menghidupkan kamu||kemudian||Dia mematikan kalian||kemudian||Dia menghidupkan kalian||sesungguhnya||manusia||sungguh ingkar",
+                    "ar": "وَهُوَ||ٱلَّذِيٓ||أَحۡيَاكُمۡ||ثُمَّ||يُمِيتُكُمۡ||ثُمَّ||يُحۡيِيكُمۡۗ||إِنَّ||ٱلۡإِنسَٰنَ||لَكَفُورٞ",
+                    "en": "And He||(is) the One Who||gave you life||then||He will cause you to die||then||He will give you life (again)||Indeed||man||(is) surely ungrateful"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-Huwal lazee ahyaakum summa yumeetukum summa yuhyeekum; innal insaana la-kafoor"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:67": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 67,
+                    "page": 340,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 293,
+                    "words": 17
+                },
+                "words": {
+                    "transliteration": "likulli||ummatin||ja'alna||mansakan||hum||nasikuhu||fala||yunazi'unnaka||fi||al-amri||wa-ud'u||ila||rabbika||innaka||la'ala||hudan||mus'taqimin",
+                    "line": "5||5||5||5||5||5||5||5||6||6||6||6||6||6||6||6||6",
+                    "end": "٦٧",
+                    "end_line": 6,
+                    "id": "bagi tiap-tiap||ummat||Kami telah menjadikan||cara beribadat/syareat||mereka||mensyareatkan/melakukannya||maka janganlah||mereka membantah kamu||dalam||urusan||dan serulah||kepada||Tuhanmu||sesungguhnya kamu||benar-benar di atas||petunjuk/jalan||yang lurus",
+                    "ar": "لِّكُلِّ||أُمَّةٖ||جَعَلۡنَا||مَنسَكًا||هُمۡ||نَاسِكُوهُۖ||فَلَا||يُنَٰزِعُنَّكَ||فِي||ٱلۡأَمۡرِۚ||وَٱدۡعُ||إِلَىٰ||رَبِّكَۖ||إِنَّكَ||لَعَلَىٰ||هُدٗى||مُّسۡتَقِيمٖ",
+                    "en": "For every||nation||We have made||rite(s)||they||perform it||So let them not||dispute with you||in||the matter||but invite (them)||to||your Lord||Indeed, you||(are) surely on||guidance||straight"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Likulli ummatin ja'alnaa mansakan hum naasikoohu falaa yunaazi-'unnaka fil amr; wad'u ilaa Rabbika innaka la-'alaa hudan mustaqeem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:68": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 68,
+                    "page": 340,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 293,
+                    "words": 7
+                },
+                "words": {
+                    "transliteration": "wa-in||jadaluka||faquli||al-lahu||a'lamu||bima||ta'maluna",
+                    "line": "7||7||7||7||7||7||7",
+                    "end": "٦٨",
+                    "end_line": 7,
+                    "id": "dan jika||mereka membantah kamu||maka katakanlah||Allah||lebih mengetahui||dengan/tentang apa||kamu kerjakan",
+                    "ar": "وَإِن||جَٰدَلُوكَ||فَقُلِ||ٱللَّهُ||أَعۡلَمُ||بِمَا||تَعۡمَلُونَ",
+                    "en": "And if||they argue (with) you||then say||Allah||(is) most knowing||of what||you do"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-in jaadalooka faqulil laahu a'lamu bimaa ta'maloon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:69": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 69,
+                    "page": 340,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 293,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "al-lahu||yahkumu||baynakum||yawma||al-qiyamati||fima||kuntum||fihi||takhtalifuna",
+                    "line": "7||7||8||8||8||8||8||8||8",
+                    "end": "٦٩",
+                    "end_line": 8,
+                    "id": "Allah||mengadili||diantara kamu||hari||kiamat||dalam/tentang apa||kalian adalah||didalamnya||kamu perselisihkan",
+                    "ar": "ٱللَّهُ||يَحۡكُمُ||بَيۡنَكُمۡ||يَوۡمَ||ٱلۡقِيَٰمَةِ||فِيمَا||كُنتُمۡ||فِيهِ||تَخۡتَلِفُونَ",
+                    "en": "Allah||will judge||between you||(on the) Day||(of) the Resurrection||concerning what||you used (to)||in it||differ"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allaahu yahkumu bainakum Yawmal Qiyaamati feemaa kuntum feehi takhtalifoon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:70": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 70,
+                    "page": 340,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 293,
+                    "words": 18
+                },
+                "words": {
+                    "transliteration": "alam||ta'lam||anna||al-laha||ya'lamu||ma||fi||al-samai||wal-ardi||inna||dhalika||fi||kitabin||inna||dhalika||ala||al-lahi||yasirun",
+                    "line": "9||9||9||9||9||9||9||9||9||9||10||10||10||10||10||10||10||10",
+                    "end": "٧٠",
+                    "end_line": 10,
+                    "id": "tidaklah||kamu mengetahui||bahwasanya||Allah||Dia mengetahui||apa||di||langit||dan bumi||sesungguhnya||demikian itu||di dalam||kitab||sesungguhnya||demikian itu||atas/bagi||Allah||mudah",
+                    "ar": "أَلَمۡ||تَعۡلَمۡ||أَنَّ||ٱللَّهَ||يَعۡلَمُ||مَا||فِي||ٱلسَّمَآءِ||وَٱلۡأَرۡضِۚ||إِنَّ||ذَٰلِكَ||فِي||كِتَٰبٍۚ||إِنَّ||ذَٰلِكَ||عَلَى||ٱللَّهِ||يَسِيرٞ",
+                    "en": "Do not||you know||that||Allah||knows||what||(is) in||the heaven||and the earth||Indeed||that||(is) in||a Record||indeed||that||(is) for||Allah||easy"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Alam ta'lam annal laaha ya'lamu maa fis samaaa'i wal-ard; inna zaalika fee kitaab; inna zaalika 'alal laahi yaseer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:71": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 71,
+                    "page": 340,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 293,
+                    "words": 18
+                },
+                "words": {
+                    "transliteration": "waya'buduna||min||duni||al-lahi||ma||lam||yunazzil||bihi||sul'tanan||wama||laysa||lahum||bihi||il'mun||wama||lilzzalimina||min||nasirin",
+                    "line": "10||11||11||11||11||11||11||11||11||11||11||11||11||12||12||12||12||12",
+                    "end": "٧١",
+                    "end_line": 12,
+                    "id": "dan mereka menyembah||dari||selain||Allah||apa yang||tidak||(Allah) menurunkan||dengannya/tentang itu||kekuasaan/keterangan||dan apa yang||tidak||bagi mereka||dengannya/terhadapnya||pengetahuan||dan tidak||bagi orang-orang yang zalim||dari||seorang penolong",
+                    "ar": "وَيَعۡبُدُونَ||مِن||دُونِ||ٱللَّهِ||مَا||لَمۡ||يُنَزِّلۡ||بِهِۦ||سُلۡطَٰنٗا||وَمَا||لَيۡسَ||لَهُم||بِهِۦ||عِلۡمٞۗ||وَمَا||لِلظَّٰلِمِينَ||مِن||نَّصِيرٖ",
+                    "en": "And they worship||besides Allah||besides Allah||besides Allah||what||not||He (has) sent down||for it||any authority||and what||not||they have||of it||any knowledge||And not||(will be) for the wrongdoers||any||helper"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-ya'budoona min doonil laahi maa lam yunazzil bihee sultaananw Wa-maa laisa lahum bihee ilm; Wa-maa lizzaalimeena min naseer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:72": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 72,
+                    "page": 340,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 293,
+                    "words": 29
+                },
+                "words": {
+                    "transliteration": "wa-idha||tut'la||alayhim||ayatuna||bayyinatin||ta'rifu||fi||wujuhi||alladhina||kafaru||al-munkara||yakaduna||yastuna||bi-alladhina||yatluna||alayhim||ayatina||qul||afa-unabbi-ukum||bisharrin||min||dhalikumu||al-naru||wa'adaha||al-lahu||alladhina||kafaru||wabi'sa||al-masiru",
+                    "line": "12||12||12||12||13||13||13||13||13||13||13||13||14||14||14||14||14||14||14||14||14||15||15||15||15||15||15||15||15",
+                    "end": "٧٢",
+                    "end_line": 15,
+                    "id": "dan apabila||dibacakan||atas mereka||ayat-ayat Kami||nyata/terang||kamu melihat||dalam/pada||muka||orang-orang yang||kafir/ingkar||keingkaran||hampir-hampir mereka||mereka akan menyerang||kepada orang-orang yang||(mereka) membacakan||atas mereka||ayat-ayat Kami||katakanlah||apakah akan kuterangkan padamu||dengan yang lebih buruk||dari||yang demikian itu||api/neraka||telah mengancamkannya||Allah||orang-orang yang||kafir/ingkar||dengan seburuk-buruk||tempat kembali",
+                    "ar": "وَإِذَا||تُتۡلَىٰ||عَلَيۡهِمۡ||ءَايَٰتُنَا||بَيِّنَٰتٖ||تَعۡرِفُ||فِي||وُجُوهِ||ٱلَّذِينَ||كَفَرُواْ||ٱلۡمُنكَرَۖ||يَكَادُونَ||يَسۡطُونَ||بِٱلَّذِينَ||يَتۡلُونَ||عَلَيۡهِمۡ||ءَايَٰتِنَاۗ||قُلۡ||أَفَأُنَبِّئُكُم||بِشَرّٖ||مِّن||ذَٰلِكُمُۚ||ٱلنَّارُ||وَعَدَهَا||ٱللَّهُ||ٱلَّذِينَ||كَفَرُواْۖ||وَبِئۡسَ||ٱلۡمَصِيرُ",
+                    "en": "And when||are recited||to them||Our Verses||clear||you will recognize||on||(the) faces||(of) those who||disbelieve||the denial||They almost||attack||those who||recite||to them||Our Verses||Say||Then shall I inform you||of worse||than||that||The Fire||Allah (has) promised it||Allah (has) promised it||(for) those who||disbelieve||and wretched||(is) the destination"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-izaa tutlaa 'alaihim Aayaatunaa baiyyinaatin ta'rifu fee wujoohil lazeena kafarul munkara yakaadoona yastoona bil-lazeena yatloona alaihim Aayaatinaa; qul afa-unab-bi'ukum bisharrim min zaalikum; an-Naaru Wa-'adahal laahul lazeena kafaroo Wa-bi'sal maseer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:73": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 73,
+                    "page": 341,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 294,
+                    "words": 28
+                },
+                "words": {
+                    "transliteration": "yaayyuha||al-nasu||duriba||mathalun||fa-is'tami'u||lahu||inna||alladhina||tad'una||min||duni||al-lahi||lan||yakhluqu||dhubaban||walawi||ij'tama'u||lahu||wa-in||yaslub'humu||al-dhubabu||shayan||la||yastanqidhuhu||min'hu||da'ufa||al-talibu||wal-matlubu",
+                    "line": "1||1||1||1||1||1||1||1||2||2||2||2||2||2||2||2||2||2||3||3||3||3||3||3||3||4||4||4",
+                    "end": "٧٣",
+                    "end_line": 4,
+                    "id": "wahai||manusia||telah dijadikan||perumpamaan||maka dengarkanlah||padanya (perumpamaan itu)||sesungguhnya||orang-orang yang||kamu seru||dari||selain||Allah||mereka tidak||dapat menciptakan||seekor lalat||walaupun||mereka berkumpul||untuknya||dan jika||merampas mereka||lalat itu||sesuatu||tidaklah||mereka mempertahankannya/merebutnya||dari padanya||lemah||orang yang mencari/menyembah||dan orang yang dicari/disembah",
+                    "ar": "يَٰٓأَيُّهَا||ٱلنَّاسُ||ضُرِبَ||مَثَلٞ||فَٱسۡتَمِعُواْ||لَهُۥٓۚ||إِنَّ||ٱلَّذِينَ||تَدۡعُونَ||مِن||دُونِ||ٱللَّهِ||لَن||يَخۡلُقُواْ||ذُبَابٗا||وَلَوِ||ٱجۡتَمَعُواْ||لَهُۥۖ||وَإِن||يَسۡلُبۡهُمُ||ٱلذُّبَابُ||شَيۡـٔٗا||لَّا||يَسۡتَنقِذُوهُ||مِنۡهُۚ||ضَعُفَ||ٱلطَّالِبُ||وَٱلۡمَطۡلُوبُ",
+                    "en": "O mankind||O mankind||Is set forth||an example||so listen||to it||Indeed||those whom||you invoke||besides Allah||besides Allah||besides Allah||will never||create||a fly||even if||they gathered together||for it||And if||snatched away from them||the fly||a thing||not||they (could) take it back||from it||So weak||(are) the seeker||and the one who is sought"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yaaa-ayyuhan naasu duriba masalun fastami'oo lah; innal lazeena tad'oona min doonil laahi laien yakhluqoo zubaabanw Wa-lawi ijtama'oo lahoo Wa-ien yaslub-humuz zubaabu shai'an laa yastanqizoohu minh; da'ufat taalibu wal-matloob"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:74": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 74,
+                    "page": 341,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 294,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "ma||qadaru||al-laha||haqqa||qadrihi||inna||al-laha||laqawiyyun||azizun",
+                    "line": "4||4||4||4||4||5||5||5||5",
+                    "end": "٧٤",
+                    "end_line": 5,
+                    "id": "mereka tidak||menghargakan||Allah||sebenar-benar||penghargaan kepada-Nya||sesungguhnya||Allah||sungguh Maha Kuat||Maha Perkasa",
+                    "ar": "مَا||قَدَرُواْ||ٱللَّهَ||حَقَّ||قَدۡرِهِۦٓۚ||إِنَّ||ٱللَّهَ||لَقَوِيٌّ||عَزِيزٌ",
+                    "en": "Not||they (have) estimated||Allah||(with) due||[His] estimation||Indeed||Allah||(is) surely All-Strong||All-Mighty"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Maa qadrul laaha haqqa qadrih; innal laaha la-Qawiyyun 'Azeez"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:75": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 75,
+                    "page": 341,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 294,
+                    "words": 11
+                },
+                "words": {
+                    "transliteration": "al-lahu||yastafi||mina||al-malaikati||rusulan||wamina||al-nasi||inna||al-laha||sami'un||basirun",
+                    "line": "5||5||5||5||6||6||6||6||6||6||6",
+                    "end": "٧٥",
+                    "end_line": 6,
+                    "id": "Allah||memilih||dari||Malaikat||utusan-utusan||dan dari||manusia||sesungguhnya||Allah||Maha Mendengar||Maha Melihat",
+                    "ar": "ٱللَّهُ||يَصۡطَفِي||مِنَ||ٱلۡمَلَٰٓئِكَةِ||رُسُلٗا||وَمِنَ||ٱلنَّاسِۚ||إِنَّ||ٱللَّهَ||سَمِيعُۢ||بَصِيرٞ",
+                    "en": "Allah||chooses||from||the Angels||Messengers||and from||the mankind||Indeed||Allah||(is) All-Hearer||All-Seer"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allahu yastafee minal malaaa'ikati Rusulanw Wa-minan naas; innal laaha Samee'un Baseer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:76": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 76,
+                    "page": 341,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 294,
+                    "words": 10
+                },
+                "words": {
+                    "transliteration": "ya'lamu||ma||bayna||aydihim||wama||khalfahum||wa-ila||al-lahi||tur'ja'u||al-umuru",
+                    "line": "6||7||7||7||7||7||7||7||7||7",
+                    "end": "٧٦",
+                    "end_line": 7,
+                    "id": "(Allah) mengetahui||apa yang||diantara||tangan/hadapan mereka||dan apa||belakang mereka||dan kepada||Allah||dikembalikan||segala urusan",
+                    "ar": "يَعۡلَمُ||مَا||بَيۡنَ||أَيۡدِيهِمۡ||وَمَا||خَلۡفَهُمۡۚ||وَإِلَى||ٱللَّهِ||تُرۡجَعُ||ٱلۡأُمُورُ",
+                    "en": "He knows||what||(is) before them||(is) before them||and what||(is) after them||And to||Allah||return||all the matters"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ya'lamu maa baina aydeehim Wa-maa khalfahum; Wa-ilal laahi turja'ul umoor"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:77": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 77,
+                    "page": 341,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 294,
+                    "words": 11
+                },
+                "words": {
+                    "transliteration": "yaayyuha||alladhina||amanu||ir'ka'u||wa-us'judu||wa-u'budu||rabbakum||wa-if'alu||al-khayra||la'allakum||tuf'lihuna",
+                    "line": "8||8||8||8||8||8||9||9||9||9||9",
+                    "end": "٧٧",
+                    "end_line": 9,
+                    "id": "wahai||orang-orang yang||beriman||ruku'lah kamu||dan sujudlah kamu||dan sembahlah||Tuhan kalian||dan berbuatlah||kebaikan||agar kalian||kamu beruntung",
+                    "ar": "يَٰٓأَيُّهَا||ٱلَّذِينَ||ءَامَنُواْ||ٱرۡكَعُواْ||وَٱسۡجُدُواْۤ||وَٱعۡبُدُواْ||رَبَّكُمۡ||وَٱفۡعَلُواْ||ٱلۡخَيۡرَ||لَعَلَّكُمۡ||تُفۡلِحُونَ۩",
+                    "en": "O you who believe||O you who believe||O you who believe||Bow||and prostrate||and worship||your Lord||and do||[the] good||so that you may||be successful"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yaaa-ayyuhal lazeena aamanur ka'oo wasjudoo wa'budoo Rabbakum waf'alul khaira la'allakum tuflihoon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "22:78": {
+                "meta": {
+                    "chapter": 22,
+                    "verse": 78,
+                    "page": 341,
+                    "juz": 17,
+                    "hizb": 136,
+                    "manzil": 4,
+                    "ruku": 294,
+                    "words": 44
+                },
+                "words": {
+                    "transliteration": "wajahidu||fi||al-lahi||haqqa||jihadihi||huwa||ij'tabakum||wama||ja'ala||alaykum||fi||al-dini||min||harajin||millata||abikum||ib'rahima||huwa||sammakumu||al-mus'limina||min||qablu||wafi||hadha||liyakuna||al-rasulu||shahidan||alaykum||watakunu||shuhadaa||ala||al-nasi||fa-aqimu||al-salata||waatu||al-zakata||wa-i'tasimu||bil-lahi||huwa||mawlakum||fani'ma||al-mawla||wani'ma||al-nasiru",
+                    "line": "10||10||10||10||10||10||10||11||11||11||11||11||11||11||11||11||12||12||12||12||12||12||12||13||13||13||13||13||13||14||14||14||14||14||14||14||15||15||15||15||15||15||15||15",
+                    "end": "٧٨",
+                    "end_line": 15,
+                    "id": "dan berjihadlah kamu||di||(jalan) Allah||sebenar-benar||jihadnya||Dia||memilih kamu||dan Dia tidak||menjadikan||atas kalian||dalam||agama||dari||kesempitan||agama||bapak kamu||Ibrahim||Dia||menampakan kamu||orang-orang muslim||dari||sebelum/dahulu||dan dalam||ini||supaya adalah||Rasul||menjadi saksi||atas kalian||dan adalah kamu||menjadi saksi||atas||manusia||maka dirikanlah||sholat||dan tunaikanlah||zakat||dan berpegang teguhlah kamu||kepada Allah||Dia||pelindung kamu||maka sebaik-baik||pelindung||dan sebaik-baik||penolong",
+                    "ar": "وَجَٰهِدُواْ||فِي||ٱللَّهِ||حَقَّ||جِهَادِهِۦۚ||هُوَ||ٱجۡتَبَىٰكُمۡ||وَمَا||جَعَلَ||عَلَيۡكُمۡ||فِي||ٱلدِّينِ||مِنۡ||حَرَجٖۚ||مِّلَّةَ||أَبِيكُمۡ||إِبۡرَٰهِيمَۚ||هُوَ||سَمَّىٰكُمُ||ٱلۡمُسۡلِمِينَ||مِن||قَبۡلُ||وَفِي||هَٰذَا||لِيَكُونَ||ٱلرَّسُولُ||شَهِيدًا||عَلَيۡكُمۡ||وَتَكُونُواْ||شُهَدَآءَ||عَلَى||ٱلنَّاسِۚ||فَأَقِيمُواْ||ٱلصَّلَوٰةَ||وَءَاتُواْ||ٱلزَّكَوٰةَ||وَٱعۡتَصِمُواْ||بِٱللَّهِ||هُوَ||مَوۡلَىٰكُمۡۖ||فَنِعۡمَ||ٱلۡمَوۡلَىٰ||وَنِعۡمَ||ٱلنَّصِيرُ",
+                    "en": "And strive||for||Allah||(with the) striving due (to) Him||(with the) striving due (to) Him||He||(has) chosen you||and not||placed||upon you||in||the religion||any||difficulty||(The) religion||(of) your father||Ibrahim||He||named you||Muslims||before||before||and in||this||that may be||the Messenger||a witness||over you||and you may be||witnesses||on||the mankind||So establish||the prayer||and give||zakah||and hold fast||to Allah||He||(is) your Protector||so an Excellent||[the] Protector||and an Excellent||[the] Helper"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-jaahidoo fil laahi haqqa jihaadih; Huwaj tabaakum Wa-maa ja'ala alaikum fid deeni min haraj; Millata abeekum ibraaheem; Huwa sammaakumul muslimeena min qablu Wa-fee haaza li-yakoonar Rasoolu shaheedan alaikum Wa-takoonoo shuhadaaa'a 'alan naas; fa-aqeemus salaata Wa-aatuz zakaata wa'tasimoo billaahi Huwa mawlaakum fani'mal mawlaa Wa-ni'man naseer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

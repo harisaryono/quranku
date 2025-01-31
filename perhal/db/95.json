@@ -1,0 +1,264 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "95:1": {
+                "meta": {
+                    "chapter": 95,
+                    "verse": 1,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "wal-tini||wal-zaytuni",
+                    "line": "5||5",
+                    "end": "١",
+                    "end_line": 5,
+                    "id": "demi tin||dan zaitun",
+                    "ar": "وَٱلتِّينِ||وَٱلزَّيۡتُونِ",
+                    "en": "By the fig||and the olive"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wat-teeni waz-zaitoon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "95:2": {
+                "meta": {
+                    "chapter": 95,
+                    "verse": 2,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "waturi||sinina",
+                    "line": "5||5",
+                    "end": "٢",
+                    "end_line": 5,
+                    "id": "dan bukit||Sinai",
+                    "ar": "وَطُورِ||سِينِينَ",
+                    "en": "And (the) Mount||Sinai"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-toori sineen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "95:3": {
+                "meta": {
+                    "chapter": 95,
+                    "verse": 3,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wahadha||al-baladi||al-amini",
+                    "line": "5||5||5",
+                    "end": "٣",
+                    "end_line": 5,
+                    "id": "dan ini||negri||aman",
+                    "ar": "وَهَٰذَا||ٱلۡبَلَدِ||ٱلۡأَمِينِ",
+                    "en": "And this||[the] city||[the] secure"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-haazal balad-il ameen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "95:4": {
+                "meta": {
+                    "chapter": 95,
+                    "verse": 4,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "laqad||khalaqna||al-insana||fi||ahsani||taqwimin",
+                    "line": "6||6||6||6||6||6",
+                    "end": "٤",
+                    "end_line": 6,
+                    "id": "sesungguhnya||Kami telah menciptakan||manusia||dalam||sebaik-baik||bentuk",
+                    "ar": "لَقَدۡ||خَلَقۡنَا||ٱلۡإِنسَٰنَ||فِيٓ||أَحۡسَنِ||تَقۡوِيمٖ",
+                    "en": "Indeed||We created||man||in||(the) best||mould"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Laqad khalaqnal insaana fee ahsani taqweem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "95:5": {
+                "meta": {
+                    "chapter": 95,
+                    "verse": 5,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "thumma||radadnahu||asfala||safilina",
+                    "line": "6||6||6||6",
+                    "end": "٥",
+                    "end_line": 6,
+                    "id": "kemudian||Kami kembalikan||lebih rendah/paling rendah||tempat yang rendah",
+                    "ar": "ثُمَّ||رَدَدۡنَٰهُ||أَسۡفَلَ||سَٰفِلِينَ",
+                    "en": "Then||We return him||(to the) lowest||(of the) low"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Thumma ra-dad-naahu asfala saafileen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "95:6": {
+                "meta": {
+                    "chapter": 95,
+                    "verse": 6,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "illa||alladhina||amanu||wa'amilu||al-salihati||falahum||ajrun||ghayru||mamnunin",
+                    "line": "7||7||7||7||7||7||7||7||7",
+                    "end": "٦",
+                    "end_line": 7,
+                    "id": "kecuali||orang-orang yang||beriman||dan mereka berbuat/beramal||kebajikan/saleh||maka bagi mereka||pahala||bukan/tidak||terputus",
+                    "ar": "إِلَّا||ٱلَّذِينَ||ءَامَنُواْ||وَعَمِلُواْ||ٱلصَّٰلِحَٰتِ||فَلَهُمۡ||أَجۡرٌ||غَيۡرُ||مَمۡنُونٖ",
+                    "en": "Except||those who||believe||and do||righteous deeds||then for them||(is a) reward||never||ending"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "ill-lal lazeena aamanoo Wa-'amilus saalihaati; falahum ajrun ghairu mamnoon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "95:7": {
+                "meta": {
+                    "chapter": 95,
+                    "verse": 7,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fama||yukadhibuka||ba'du||bil-dini",
+                    "line": "8||8||8||8",
+                    "end": "٧",
+                    "end_line": 8,
+                    "id": "maka apakah||mendustakanmu||sesudah||hari pembalasan/agama",
+                    "ar": "فَمَا||يُكَذِّبُكَ||بَعۡدُ||بِٱلدِّينِ",
+                    "en": "Then what||causes you to deny||after (this)||the judgment"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fama yu-kaz-zibuka b'adu bid-deen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "95:8": {
+                "meta": {
+                    "chapter": 95,
+                    "verse": 8,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "alaysa||al-lahu||bi-ahkami||al-hakimina",
+                    "line": "8||8||8||8",
+                    "end": "٨",
+                    "end_line": 8,
+                    "id": "bukankah||Allah||lebih bijaksana/seadil-adilnya||para hakim",
+                    "ar": "أَلَيۡسَ||ٱللَّهُ||بِأَحۡكَمِ||ٱلۡحَٰكِمِينَ",
+                    "en": "Is not||Allah||(the) Most Just||(of) the Judges"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Alai-sal laahu bi-ahkamil haakimeen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

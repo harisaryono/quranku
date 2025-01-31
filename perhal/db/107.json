@@ -1,0 +1,232 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "107:1": {
+                "meta": {
+                    "chapter": 107,
+                    "verse": 1,
+                    "page": 602,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 549,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "ara-ayta||alladhi||yukadhibu||bil-dini",
+                    "line": "8||8||8||8",
+                    "end": "١",
+                    "end_line": 8,
+                    "id": "tahukah kamu||yang||dia mendustakan||dengan agama",
+                    "ar": "أَرَءَيۡتَ||ٱلَّذِي||يُكَذِّبُ||بِٱلدِّينِ",
+                    "en": "Have you seen||the one who||denies||the Judgment"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ara-'aytal lazee yukazzibu biddeen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "107:2": {
+                "meta": {
+                    "chapter": 107,
+                    "verse": 2,
+                    "page": 602,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 549,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fadhalika||alladhi||yadu'u||al-yatima",
+                    "line": "8||8||8||9",
+                    "end": "٢",
+                    "end_line": 9,
+                    "id": "maka itulah||yang||dia menghardik||anak yatim",
+                    "ar": "فَذَٰلِكَ||ٱلَّذِي||يَدُعُّ||ٱلۡيَتِيمَ",
+                    "en": "Then that||(is) the one who||repulses||the orphan"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fazaalikal lazee yadu'ul yateem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "107:3": {
+                "meta": {
+                    "chapter": 107,
+                    "verse": 3,
+                    "page": 602,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 549,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "wala||yahuddu||ala||ta'ami||al-mis'kini",
+                    "line": "9||9||9||9||9",
+                    "end": "٣",
+                    "end_line": 9,
+                    "id": "dan tidak||menganjurkan||atas||memberi makan||orang miskin",
+                    "ar": "وَلَا||يَحُضُّ||عَلَىٰ||طَعَامِ||ٱلۡمِسۡكِينِ",
+                    "en": "And (does) not||feel the urge||to||feed||the poor"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-la yahuddu 'alaa ta'aamil miskeen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "107:4": {
+                "meta": {
+                    "chapter": 107,
+                    "verse": 4,
+                    "page": 602,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 549,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "fawaylun||lil'musallina",
+                    "line": "9||10",
+                    "end": "٤",
+                    "end_line": 10,
+                    "id": "maka celakalah||orang yang sholat",
+                    "ar": "فَوَيۡلٞ||لِّلۡمُصَلِّينَ",
+                    "en": "So woe||to those who pray"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fa-wailul lil-musalleen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "107:5": {
+                "meta": {
+                    "chapter": 107,
+                    "verse": 5,
+                    "page": 602,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 549,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "alladhina||hum||an||salatihim||sahuna",
+                    "line": "10||10||10||10||10",
+                    "end": "٥",
+                    "end_line": 10,
+                    "id": "orang-orang yang||mereka||dar||sholat mereka||lalai",
+                    "ar": "ٱلَّذِينَ||هُمۡ||عَن||صَلَاتِهِمۡ||سَاهُونَ",
+                    "en": "Those who||[they]||of||their prayers||(are) neglectful"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allazeena hum 'an salaatihim saahoon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "107:6": {
+                "meta": {
+                    "chapter": 107,
+                    "verse": 6,
+                    "page": 602,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 549,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "alladhina||hum||yurauna",
+                    "line": "11||11||11",
+                    "end": "٦",
+                    "end_line": 11,
+                    "id": "orang-orang yang||mereka||mereka berbuat ria",
+                    "ar": "ٱلَّذِينَ||هُمۡ||يُرَآءُونَ",
+                    "en": "Those who||[they]||make show"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allazeena hum yuraaa'oon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "107:7": {
+                "meta": {
+                    "chapter": 107,
+                    "verse": 7,
+                    "page": 602,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 549,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "wayamna'una||al-ma'una",
+                    "line": "11||11",
+                    "end": "٧",
+                    "end_line": 11,
+                    "id": "dan mereka mencegah/enggan||pertolongan",
+                    "ar": "وَيَمۡنَعُونَ||ٱلۡمَاعُونَ",
+                    "en": "And they deny||[the] small kindness"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-yamna'oonal maa'oon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

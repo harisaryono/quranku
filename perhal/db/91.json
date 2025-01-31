@@ -1,0 +1,488 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "91:1": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 1,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "wal-shamsi||waduhaha",
+                    "line": "4||4",
+                    "end": "١",
+                    "end_line": 4,
+                    "id": "demi matahari||dan cahayanya pagi hari",
+                    "ar": "وَٱلشَّمۡسِ||وَضُحَىٰهَا",
+                    "en": "By the sun||and its brightness"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wash-shamsi Wa-duhaa-haa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "91:2": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 2,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wal-qamari||idha||talaha",
+                    "line": "4||4||4",
+                    "end": "٢",
+                    "end_line": 4,
+                    "id": "dan bulan||apabila||mengiringinya",
+                    "ar": "وَٱلۡقَمَرِ||إِذَا||تَلَىٰهَا",
+                    "en": "And the moon||when||it follows it"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wal-qamari izaa talaa-haa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "91:3": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 3,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wal-nahari||idha||jallaha",
+                    "line": "4||4||4",
+                    "end": "٣",
+                    "end_line": 4,
+                    "id": "dan siang||apabila||menampakkannya",
+                    "ar": "وَٱلنَّهَارِ||إِذَا||جَلَّىٰهَا",
+                    "en": "And the day||when||it displays it"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wannahaari izaa jallaa-haa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "91:4": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 4,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wa-al-layli||idha||yaghshaha",
+                    "line": "5||5||5",
+                    "end": "٤",
+                    "end_line": 5,
+                    "id": "dan malam||apabila||menutupinya",
+                    "ar": "وَٱلَّيۡلِ||إِذَا||يَغۡشَىٰهَا",
+                    "en": "And the night||when||it covers it"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wallaili izaa yaghshaa-haa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "91:5": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 5,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wal-samai||wama||banaha",
+                    "line": "5||5||5",
+                    "end": "٥",
+                    "end_line": 5,
+                    "id": "dan langit||dan apa||pembinaannya",
+                    "ar": "وَٱلسَّمَآءِ||وَمَا||بَنَىٰهَا",
+                    "en": "And the heaven||and He Who||constructed it"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wassamaaa'i Wa-maa banaahaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "91:6": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 6,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wal-ardi||wama||tahaha",
+                    "line": "5||6||6",
+                    "end": "٦",
+                    "end_line": 6,
+                    "id": "dan bumi||dan apa||penghamparannya",
+                    "ar": "وَٱلۡأَرۡضِ||وَمَا||طَحَىٰهَا",
+                    "en": "And the earth||and He Who||spread it"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wal-ardi Wa-maa tahaahaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "91:7": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 7,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wanafsin||wama||sawwaha",
+                    "line": "6||6||6",
+                    "end": "٧",
+                    "end_line": 6,
+                    "id": "dan manusia/jiwa||dan apa||penyempurnaanya",
+                    "ar": "وَنَفۡسٖ||وَمَا||سَوَّىٰهَا",
+                    "en": "And (the) soul||and He Who||proportioned it"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-nafsinw Wa-maa sawwaahaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "91:8": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 8,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "fa-alhamaha||fujuraha||wataqwaha",
+                    "line": "6||6||7",
+                    "end": "٨",
+                    "end_line": 7,
+                    "id": "maka Dia mengilhamkan padanya||kedurhakaanya||dan ketaqwaannya",
+                    "ar": "فَأَلۡهَمَهَا||فُجُورَهَا||وَتَقۡوَىٰهَا",
+                    "en": "And He inspired it||(to understand) what is wrong for it||and what is right for it"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fa-alhamahaa fujoorahaa Wa-taqwaahaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "91:9": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 9,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "qad||aflaha||man||zakkaha",
+                    "line": "7||7||7||7",
+                    "end": "٩",
+                    "end_line": 7,
+                    "id": "sesungguhnya||beruntung||siapa/orang||mensucikannya",
+                    "ar": "قَدۡ||أَفۡلَحَ||مَن||زَكَّىٰهَا",
+                    "en": "Indeed||he succeeds||who||purifies it"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Qad aflaha man zakkaahaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "91:10": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 10,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "waqad||khaba||man||dassaha",
+                    "line": "7||7||7||7",
+                    "end": "١٠",
+                    "end_line": 7,
+                    "id": "dan sesungguhnya||celaka/rugi||orang||mengotorinya",
+                    "ar": "وَقَدۡ||خَابَ||مَن||دَسَّىٰهَا",
+                    "en": "And indeed||he fails||who||corrupts it"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-qad khaaba man dassaahaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "91:11": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 11,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "kadhabat||thamudu||bitaghwaha",
+                    "line": "8||8||8",
+                    "end": "١١",
+                    "end_line": 8,
+                    "id": "telah mendustakan||Samud||dan melampui batas",
+                    "ar": "كَذَّبَتۡ||ثَمُودُ||بِطَغۡوَىٰهَآ",
+                    "en": "Denied||Thamud||by their transgression"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Kazzabat Samoodu bi-taghwaahaaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "91:12": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 12,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "idhi||inba'atha||ashqaha",
+                    "line": "8||8||8",
+                    "end": "١٢",
+                    "end_line": 8,
+                    "id": "ketika||bangkit||orang yang lebih celaka diantaranya",
+                    "ar": "إِذِ||ٱنۢبَعَثَ||أَشۡقَىٰهَا",
+                    "en": "When||(was) sent forth||(the) most wicked of them"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "izim ba'asa ashqaahaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "91:13": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 13,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 7
+                },
+                "words": {
+                    "transliteration": "faqala||lahum||rasulu||al-lahi||naqata||al-lahi||wasuq'yaha",
+                    "line": "8||8||9||9||9||9||9",
+                    "end": "١٣",
+                    "end_line": 9,
+                    "id": "dan berkata||kepada mereka||rasul||Allah||unta betina||Allah||dan minumannya",
+                    "ar": "فَقَالَ||لَهُمۡ||رَسُولُ||ٱللَّهِ||نَاقَةَ||ٱللَّهِ||وَسُقۡيَٰهَا",
+                    "en": "But said||to them||(the) Messenger||(of) Allah||(It is the) she-camel||(of) Allah||and her drink"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Faqaala lahum Rasoolul laahi naaqatal laahi Wa-suqiyaahaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "91:14": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 14,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 7
+                },
+                "words": {
+                    "transliteration": "fakadhabuhu||fa'aqaruha||fadamdama||alayhim||rabbuhum||bidhanbihim||fasawwaha",
+                    "line": "9||9||9||10||10||10||10",
+                    "end": "١٤",
+                    "end_line": 10,
+                    "id": "dan mendustakan||maka mereka melukai/menyembelih||maka menurunkan azab/membinasakan||atas mereka||Tuhan mereka||dengan dosa-dosa mereka||dan Dia meratakannya",
+                    "ar": "فَكَذَّبُوهُ||فَعَقَرُوهَا||فَدَمۡدَمَ||عَلَيۡهِمۡ||رَبُّهُم||بِذَنۢبِهِمۡ||فَسَوَّىٰهَا",
+                    "en": "But they denied him||and they hamstrung her||So destroyed||them||their Lord||for their sin||and leveled them"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fakazzaboohu fa'aqaroohaa fadamdama alaihim Rabbuhum bizambihim fasaw-waahaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "91:15": {
+                "meta": {
+                    "chapter": 91,
+                    "verse": 15,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wala||yakhafu||uq'baha",
+                    "line": "10||10||10",
+                    "end": "١٥",
+                    "end_line": 10,
+                    "id": "dan tidak||takut||akibatnya",
+                    "ar": "وَلَا||يَخَافُ||عُقۡبَٰهَا",
+                    "en": "And not||He fears||its consequences"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-laa yakhaafu 'uqbaahaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

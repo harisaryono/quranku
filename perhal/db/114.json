@@ -1,0 +1,200 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "114:1": {
+                "meta": {
+                    "chapter": 114,
+                    "verse": 1,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 556,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "qul||a'udhu||birabbi||al-nasi",
+                    "line": "12||12||12||12",
+                    "end": "١",
+                    "end_line": 12,
+                    "id": "katakanlah||aku berlindung||Tuhannya||manusia",
+                    "ar": "قُلۡ||أَعُوذُ||بِرَبِّ||ٱلنَّاسِ",
+                    "en": "Say||I seek refuge||in (the) Lord||(of) mankind"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Qul a'oozu birabbin naas"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "114:2": {
+                "meta": {
+                    "chapter": 114,
+                    "verse": 2,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 556,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "maliki||al-nasi",
+                    "line": "12||12",
+                    "end": "٢",
+                    "end_line": 12,
+                    "id": "Rajanya||manusia",
+                    "ar": "مَلِكِ||ٱلنَّاسِ",
+                    "en": "(The) King||(of) mankind"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Malikin naas"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "114:3": {
+                "meta": {
+                    "chapter": 114,
+                    "verse": 3,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 556,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "ilahi||al-nasi",
+                    "line": "12||13",
+                    "end": "٣",
+                    "end_line": 13,
+                    "id": "Tuhannya||manusia",
+                    "ar": "إِلَٰهِ||ٱلنَّاسِ",
+                    "en": "(The) God||(of) mankind"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "ilaahin naas"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "114:4": {
+                "meta": {
+                    "chapter": 114,
+                    "verse": 4,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 556,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "min||sharri||al-waswasi||al-khanasi",
+                    "line": "13||13||13||13",
+                    "end": "٤",
+                    "end_line": 13,
+                    "id": "dari||kejahatan||bisikkan||menunggu-nunggu/bersembunyi",
+                    "ar": "مِن||شَرِّ||ٱلۡوَسۡوَاسِ||ٱلۡخَنَّاسِ",
+                    "en": "From||(the) evil||(of) the whisperer||the one who withdraws"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Min sharril waswaasil khannaas"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "114:5": {
+                "meta": {
+                    "chapter": 114,
+                    "verse": 5,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 556,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "alladhi||yuwaswisu||fi||suduri||al-nasi",
+                    "line": "13||14||14||14||14",
+                    "end": "٥",
+                    "end_line": 14,
+                    "id": "yang||membisik-bisikan||dalam||dada||manusia",
+                    "ar": "ٱلَّذِي||يُوَسۡوِسُ||فِي||صُدُورِ||ٱلنَّاسِ",
+                    "en": "The one who||whispers||in||(the) breasts||(of) mankind"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allazee yuwaswisu fee sudoorin naas"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "114:6": {
+                "meta": {
+                    "chapter": 114,
+                    "verse": 6,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 556,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "mina||al-jinati||wal-nasi",
+                    "line": "15||15||15",
+                    "end": "٦",
+                    "end_line": 15,
+                    "id": "dari||jin||dan manusia",
+                    "ar": "مِنَ||ٱلۡجِنَّةِ||وَٱلنَّاسِ",
+                    "en": "From||the jinn||and men"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Minal jinnati wannaas"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

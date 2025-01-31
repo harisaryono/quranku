@@ -1,0 +1,616 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "82:1": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 1,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "idha||al-samau||infatarat",
+                    "line": "3||3||3",
+                    "end": "١",
+                    "end_line": 3,
+                    "id": "apabila||langit||terbelah",
+                    "ar": "إِذَا||ٱلسَّمَآءُ||ٱنفَطَرَتۡ",
+                    "en": "When||the sky||(is) cleft asunder"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "izas samaaa'un fatarat"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:2": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 2,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wa-idha||al-kawakibu||intatharat",
+                    "line": "3||3||3",
+                    "end": "٢",
+                    "end_line": 3,
+                    "id": "dan apabila||bintang-bintang||jatuh bertaburan",
+                    "ar": "وَإِذَا||ٱلۡكَوَاكِبُ||ٱنتَثَرَتۡ",
+                    "en": "And when||the stars||scatter"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-izal kawaakibun tasarat"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:3": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 3,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wa-idha||al-biharu||fujjirat",
+                    "line": "3||3||4",
+                    "end": "٣",
+                    "end_line": 4,
+                    "id": "dan apabila||lautan||dijadikan meluap",
+                    "ar": "وَإِذَا||ٱلۡبِحَارُ||فُجِّرَتۡ",
+                    "en": "And when||the seas||are made to gush forth"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-izal bihaaru fujjirat"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:4": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 4,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wa-idha||al-quburu||bu'thirat",
+                    "line": "4||4||4",
+                    "end": "٤",
+                    "end_line": 4,
+                    "id": "dan apabila||kuburan-kuburan||di bongkar",
+                    "ar": "وَإِذَا||ٱلۡقُبُورُ||بُعۡثِرَتۡ",
+                    "en": "And when||the graves||are overturned"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-izal qubooru bu'sirat"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:5": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 5,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "alimat||nafsun||ma||qaddamat||wa-akharat",
+                    "line": "4||4||4||4||5",
+                    "end": "٥",
+                    "end_line": 5,
+                    "id": "mengetahui||jiwa||apa||diusahakan||dan ditinggalkan",
+                    "ar": "عَلِمَتۡ||نَفۡسٞ||مَّا||قَدَّمَتۡ||وَأَخَّرَتۡ",
+                    "en": "Will know||a soul||what||it has sent forth||and left behind"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Alimat nafsum maa qaddamat Wa-akhkharat"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:6": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 6,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "yaayyuha||al-insanu||ma||gharraka||birabbika||al-karimi",
+                    "line": "5||5||5||5||5||5",
+                    "end": "٦",
+                    "end_line": 5,
+                    "id": "wahai||manusia||apa||yang menipu kamu||terhadap Tuhanmu||Mulia/Pemurah",
+                    "ar": "يَٰٓأَيُّهَا||ٱلۡإِنسَٰنُ||مَا||غَرَّكَ||بِرَبِّكَ||ٱلۡكَرِيمِ",
+                    "en": "O||man!||What||has deceived you||concerning your Lord||the Most Noble"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yaaa-ayyuhal insaaanu maa gharraka bi-Rabbikal kareem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:7": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 7,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "alladhi||khalaqaka||fasawwaka||fa'adalaka",
+                    "line": "5||6||6||6",
+                    "end": "٧",
+                    "end_line": 6,
+                    "id": "yang||telah menciptakan kamu||lalu Dia menyempurnakan kamu||lalu Dia menjadikan kamu seimbang",
+                    "ar": "ٱلَّذِي||خَلَقَكَ||فَسَوَّىٰكَ||فَعَدَلَكَ",
+                    "en": "Who||created you||then fashioned you||then balanced you"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allazee khalaqaka fasaw-waaka fa'adalak"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:8": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 8,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "fi||ayyi||suratin||ma||shaa||rakkabaka",
+                    "line": "6||6||6||6||6||6",
+                    "end": "٨",
+                    "end_line": 6,
+                    "id": "dalam||apa saja||gambar/bentuk||apa||yang Dia kehendaki||Dia menyusunmu",
+                    "ar": "فِيٓ||أَيِّ||صُورَةٖ||مَّا||شَآءَ||رَكَّبَكَ",
+                    "en": "In||whatever||form||that||He willed||He assembled you"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Feee ayye sooratim maa shaaa'a rakkabak"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:9": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 9,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "kalla||bal||tukadhibuna||bil-dini",
+                    "line": "7||7||7||7",
+                    "end": "٩",
+                    "end_line": 7,
+                    "id": "sekali-kali jangan||tetap/bahkan||kamu mendustakan||pada hari pembalasan",
+                    "ar": "كـَلَّا||بَلۡ||تُكَذِّبُونَ||بِٱلدِّينِ",
+                    "en": "Nay!||But||you deny||the Judgment"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Kalla bal tukazziboona bid-deen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:10": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 10,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wa-inna||alaykum||lahafizina",
+                    "line": "7||7||7",
+                    "end": "١٠",
+                    "end_line": 7,
+                    "id": "dan sesungguhnya||atas kalian||sungguh ada penjaga",
+                    "ar": "وَإِنَّ||عَلَيۡكُمۡ||لَحَٰفِظِينَ",
+                    "en": "And indeed||over you||(are) surely guardians"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-inna alaikum lahaa-fizeen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:11": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 11,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "kiraman||katibina",
+                    "line": "7||8",
+                    "end": "١١",
+                    "end_line": 8,
+                    "id": "yang mulia||yang mencatat",
+                    "ar": "كِرَامٗا||كَٰتِبِينَ",
+                    "en": "Noble||recording"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Kiraaman kaatibeen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:12": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 12,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "ya'lamuna||ma||taf 'aluna",
+                    "line": "8||8||8",
+                    "end": "١٢",
+                    "end_line": 8,
+                    "id": "mereka mengetahui||apa||kamu kerjakan",
+                    "ar": "يَعۡلَمُونَ||مَا||تَفۡعَلُونَ",
+                    "en": "They know||whatever||you do"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ya'lamoona ma taf'aloon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:13": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 13,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "inna||al-abrara||lafi||na'imin",
+                    "line": "8||8||8||8",
+                    "end": "١٣",
+                    "end_line": 8,
+                    "id": "sesungguhnya||orang-orang yang baik||benar-benar dalam||kesenangan/kenikmatan",
+                    "ar": "إِنَّ||ٱلۡأَبۡرَارَ||لَفِي||نَعِيمٖ",
+                    "en": "Indeed||the righteous||(will be) surely in||bliss"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innal abraara lafee na'eem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:14": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 14,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wa-inna||al-fujara||lafi||jahimin",
+                    "line": "8||9||9||9",
+                    "end": "١٤",
+                    "end_line": 9,
+                    "id": "dan sesungguhnya||orang-orang durhaka||dalam||neraka",
+                    "ar": "وَإِنَّ||ٱلۡفُجَّارَ||لَفِي||جَحِيمٖ",
+                    "en": "And indeed||the wicked||(will be) surely in||Hellfire"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-innal fujjaara lafee jaheem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:15": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 15,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "yaslawnaha||yawma||al-dini",
+                    "line": "9||9||9",
+                    "end": "١٥",
+                    "end_line": 9,
+                    "id": "mereka masuk kedalamnya||hari||pembalasan",
+                    "ar": "يَصۡلَوۡنَهَا||يَوۡمَ||ٱلدِّينِ",
+                    "en": "They will burn (in) it||(on the) Day||(of) the Judgment"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yaslawnahaa Yawmad Deen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:16": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 16,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wama||hum||anha||bighaibina",
+                    "line": "9||9||9||10",
+                    "end": "١٦",
+                    "end_line": 10,
+                    "id": "dan tidaklah||mereka||dari padanya||dengan gaib/meloloskan diri",
+                    "ar": "وَمَا||هُمۡ||عَنۡهَا||بِغَآئِبِينَ",
+                    "en": "And not||they||from it||(will be) absent"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-maa hum 'anhaa bighaaa-'ibeen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:17": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 17,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "wama||adraka||ma||yawmu||al-dini",
+                    "line": "10||10||10||10||10",
+                    "end": "١٧",
+                    "end_line": 10,
+                    "id": "dan apakah||kamu melihat||apa||hari||pembalasan",
+                    "ar": "وَمَآ||أَدۡرَىٰكَ||مَا||يَوۡمُ||ٱلدِّينِ",
+                    "en": "And what||can make you know||what||(is the) Day||(of) the Judgment"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-maaa adraaka maa Yawmud Deen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:18": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 18,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "thumma||ma||adraka||ma||yawmu||al-dini",
+                    "line": "10||10||10||10||10||11",
+                    "end": "١٨",
+                    "end_line": 11,
+                    "id": "kemudian||apakah||kamu melihat||apa||hari||pembalasan",
+                    "ar": "ثُمَّ||مَآ||أَدۡرَىٰكَ||مَا||يَوۡمُ||ٱلدِّينِ",
+                    "en": "Then||what||can make you know||what||(is the) Day||(of) the Judgment"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Summa maaa adraaka maa Yawmud Deen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "82:19": {
+                "meta": {
+                    "chapter": 82,
+                    "verse": 19,
+                    "page": 587,
+                    "juz": 30,
+                    "hizb": 235,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "yawma||la||tamliku||nafsun||linafsin||shayan||wal-amru||yawma-idhin||lillahi",
+                    "line": "11||11||11||11||11||11||11||11||11",
+                    "end": "١٩",
+                    "end_line": 11,
+                    "id": "hari||tidak||berdaya/berkuasa||manusia||bagi diri/seseorang||sesuatu/sedikitpun||dan urusan||pada hari itu||bagi Allah",
+                    "ar": "يَوۡمَ||لَا||تَمۡلِكُ||نَفۡسٞ||لِّنَفۡسٖ||شَيۡـٔٗاۖ||وَٱلۡأَمۡرُ||يَوۡمَئِذٖ||لِّلَّهِ",
+                    "en": "(The) Day||not||will have power||a soul||for a soul||anything||and the Command||that Day||(will be) with Allah"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yawma laa tamliku nafsul linafsin shai'anw walamru yawma'izil lillaah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

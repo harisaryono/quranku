@@ -1,0 +1,264 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "94:1": {
+                "meta": {
+                    "chapter": 94,
+                    "verse": 1,
+                    "page": 596,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 536,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "alam||nashrah||laka||sadraka",
+                    "line": "15||15||15||15",
+                    "end": "١",
+                    "end_line": 15,
+                    "id": "apakah tidak/bukankah||Kami melapangkan||bagimu||dadamu",
+                    "ar": "أَلَمۡ||نَشۡرَحۡ||لَكَ||صَدۡرَكَ",
+                    "en": "Have not||We expanded||for you||your breast"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Alam nashrah laka sadrak"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "94:2": {
+                "meta": {
+                    "chapter": 94,
+                    "verse": 2,
+                    "page": 596,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 536,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wawada'na||anka||wiz'raka",
+                    "line": "15||15||15",
+                    "end": "٢",
+                    "end_line": 15,
+                    "id": "dan Kami letakkan/turunkan||dari kamu||bebanmu",
+                    "ar": "وَوَضَعۡنَا||عَنكَ||وِزۡرَكَ",
+                    "en": "And We removed||from you||your burden"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-Wa-d'ana 'anka wizrak"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "94:3": {
+                "meta": {
+                    "chapter": 94,
+                    "verse": 3,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 536,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "alladhi||anqada||zahraka",
+                    "line": "1||1||1",
+                    "end": "٣",
+                    "end_line": 1,
+                    "id": "yang||memberatkan||punggungmu",
+                    "ar": "ٱلَّذِيٓ||أَنقَضَ||ظَهۡرَكَ",
+                    "en": "Which||weighed upon||your back"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allazee anqada zahrak"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "94:4": {
+                "meta": {
+                    "chapter": 94,
+                    "verse": 4,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 536,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "warafa'na||laka||dhik'raka",
+                    "line": "1||1||1",
+                    "end": "٤",
+                    "end_line": 1,
+                    "id": "dan Kami tinggikan||bagimu||sebutanmu",
+                    "ar": "وَرَفَعۡنَا||لَكَ||ذِكۡرَكَ",
+                    "en": "And We raised high||for you||your esteem"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-raf-'ana laka zikrak"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "94:5": {
+                "meta": {
+                    "chapter": 94,
+                    "verse": 5,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 536,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fa-inna||ma'a||al-'us'ri||yus'ran",
+                    "line": "1||1||1||1",
+                    "end": "٥",
+                    "end_line": 1,
+                    "id": "maka sesungguhnya||beserta||kesulitan||kemudahan",
+                    "ar": "فَإِنَّ||مَعَ||ٱلۡعُسۡرِ||يُسۡرًا",
+                    "en": "So indeed||with||the hardship||(is) ease"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fa-inna ma'al usri yusra"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "94:6": {
+                "meta": {
+                    "chapter": 94,
+                    "verse": 6,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 536,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "inna||ma'a||al-'us'ri||yus'ran",
+                    "line": "2||2||2||2",
+                    "end": "٦",
+                    "end_line": 2,
+                    "id": "sesungguhnya||beserta||kesulitan||kemudahan",
+                    "ar": "إِنَّ||مَعَ||ٱلۡعُسۡرِ||يُسۡرٗا",
+                    "en": "Indeed||with||the hardship||(is) ease"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "inna ma'al usri yusra"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "94:7": {
+                "meta": {
+                    "chapter": 94,
+                    "verse": 7,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 536,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "fa-idha||faraghta||fa-insab",
+                    "line": "2||2||2",
+                    "end": "٧",
+                    "end_line": 2,
+                    "id": "maka apabila||kamu telah selesai||maka kerja keraslah kamu",
+                    "ar": "فَإِذَا||فَرَغۡتَ||فَٱنصَبۡ",
+                    "en": "So when||you are free||then stand up"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fa-iza faragh-ta fansab"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "94:8": {
+                "meta": {
+                    "chapter": 94,
+                    "verse": 8,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 536,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wa-ila||rabbika||fa-ir'ghab",
+                    "line": "2||2||2",
+                    "end": "٨",
+                    "end_line": 2,
+                    "id": "dan hanya||Tuhanmu||maka kamu berharap",
+                    "ar": "وَإِلَىٰ||رَبِّكَ||فَٱرۡغَب",
+                    "en": "And to||your Lord||turn your attention"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-ilaa rabbika far-ghab"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

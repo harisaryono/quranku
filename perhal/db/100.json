@@ -1,0 +1,360 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "100:1": {
+                "meta": {
+                    "chapter": 100,
+                    "verse": 1,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 542,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "wal-'adiyati||dabhan",
+                    "line": "14||14",
+                    "end": "١",
+                    "end_line": 14,
+                    "id": "demi yang berlari kencang||terengah-engah",
+                    "ar": "وَٱلۡعَٰدِيَٰتِ||ضَبۡحٗا",
+                    "en": "By the racers||panting"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wal'aadi-yaati dabha"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "100:2": {
+                "meta": {
+                    "chapter": 100,
+                    "verse": 2,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 542,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "fal-muriyati||qadhan",
+                    "line": "14||14",
+                    "end": "٢",
+                    "end_line": 14,
+                    "id": "lalu yang memercikkan/terbitkan||api",
+                    "ar": "فَٱلۡمُورِيَٰتِ||قَدۡحٗا",
+                    "en": "And the producers of sparks||striking"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fal-moori-yaati qadha"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "100:3": {
+                "meta": {
+                    "chapter": 100,
+                    "verse": 3,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 542,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "fal-mughirati||sub'han",
+                    "line": "14||15",
+                    "end": "٣",
+                    "end_line": 15,
+                    "id": "lalu yang menyerang||diwaktu subuh/pagi",
+                    "ar": "فَٱلۡمُغِيرَٰتِ||صُبۡحٗا",
+                    "en": "And the chargers||(at) dawn"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fal-mugheeraati subha"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "100:4": {
+                "meta": {
+                    "chapter": 100,
+                    "verse": 4,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 542,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "fa-atharna||bihi||naq'an",
+                    "line": "15||15||15",
+                    "end": "٤",
+                    "end_line": 15,
+                    "id": "lalu ia menerbangkan||dengannya/karenanya||debu",
+                    "ar": "فَأَثَرۡنَ||بِهِۦ||نَقۡعٗا",
+                    "en": "Then raise||thereby||dust"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fa-atharna bihee naq'a"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "100:5": {
+                "meta": {
+                    "chapter": 100,
+                    "verse": 5,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 542,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "fawasatna||bihi||jam'an",
+                    "line": "15||15||15",
+                    "end": "٥",
+                    "end_line": 15,
+                    "id": "maka ia menyerbu ketengah||dengannya||kumpulan",
+                    "ar": "فَوَسَطۡنَ||بِهِۦ||جَمۡعًا",
+                    "en": "Then penetrate (in the) center||thereby||(of) troops"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fawa-satna bihee jam'a"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "100:6": {
+                "meta": {
+                    "chapter": 100,
+                    "verse": 6,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 542,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "inna||al-insana||lirabbihi||lakanudun",
+                    "line": "1||1||1||1",
+                    "end": "٦",
+                    "end_line": 1,
+                    "id": "sungguh||manusia||kepada Tuhannya||sangat ingkar/tidak berterima kasih",
+                    "ar": "إِنَّ||ٱلۡإِنسَٰنَ||لِرَبِّهِۦ||لَكَنُودٞ",
+                    "en": "Indeed||mankind||to his Lord||(is) surely ungrateful"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innal insana lirabbihee lakanood"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "100:7": {
+                "meta": {
+                    "chapter": 100,
+                    "verse": 7,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 542,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wa-innahu||ala||dhalika||lashahidun",
+                    "line": "1||1||1||1",
+                    "end": "٧",
+                    "end_line": 1,
+                    "id": "dan sesungguhnya ia||atas||yang demikian/itu||benar-benar menyaksikan",
+                    "ar": "وَإِنَّهُۥ||عَلَىٰ||ذَٰلِكَ||لَشَهِيدٞ",
+                    "en": "And indeed he||to||that||surely (is) a witness"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-innahu 'alaa zaalika la-shaheed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "100:8": {
+                "meta": {
+                    "chapter": 100,
+                    "verse": 8,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 542,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wa-innahu||lihubbi||al-khayri||lashadidun",
+                    "line": "1||1||2||2",
+                    "end": "٨",
+                    "end_line": 2,
+                    "id": "dan sesungguhnya dia||benar-benar cinta||kebaikan (harta)||sungguh sangat",
+                    "ar": "وَإِنَّهُۥ||لِحُبِّ||ٱلۡخَيۡرِ||لَشَدِيدٌ",
+                    "en": "And indeed he (is)||in (the) love||(of) wealth||(is) surely intense"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-innahu lihubbil khairi la-shadeed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "100:9": {
+                "meta": {
+                    "chapter": 100,
+                    "verse": 9,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 542,
+                    "words": 7
+                },
+                "words": {
+                    "transliteration": "afala||ya'lamu||idha||bu'thira||ma||fi||al-quburi",
+                    "line": "2||2||2||2||2||2||2",
+                    "end": "٩",
+                    "end_line": 2,
+                    "id": "maka apakah tidak||dia mengetahui||apabila||dibangkitkan||apa||dalam||kubur",
+                    "ar": "۞أَفَلَا||يَعۡلَمُ||إِذَا||بُعۡثِرَ||مَا||فِي||ٱلۡقُبُورِ",
+                    "en": "But does not||he know||when||will be scattered||what||(is) in||the graves"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Afala ya'lamu iza b'uthira ma fil quboor"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "100:10": {
+                "meta": {
+                    "chapter": 100,
+                    "verse": 10,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 542,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wahussila||ma||fi||al-suduri",
+                    "line": "3||3||3||3",
+                    "end": "١٠",
+                    "end_line": 3,
+                    "id": "dan dilahirkan||apa||dalam||dada",
+                    "ar": "وَحُصِّلَ||مَا||فِي||ٱلصُّدُورِ",
+                    "en": "And is made apparent||what||(is) in||the breasts"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-hussila maa fis sudoor"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "100:11": {
+                "meta": {
+                    "chapter": 100,
+                    "verse": 11,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 542,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "inna||rabbahum||bihim||yawma-idhin||lakhabirun",
+                    "line": "3||3||3||3||3",
+                    "end": "١١",
+                    "end_line": 3,
+                    "id": "sesungguhnya||Tuhan mereka||pada mereka||pada hari itu||benar-benar Maha Mengetahui",
+                    "ar": "إِنَّ||رَبَّهُم||بِهِمۡ||يَوۡمَئِذٖ||لَّخَبِيرُۢ",
+                    "en": "Indeed||their Lord||about them||that Day||(is) surely All-Aware"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "inna rabbahum bihim yauma-'izil la-khabeer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

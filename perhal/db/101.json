@@ -1,0 +1,360 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "101:1": {
+                "meta": {
+                    "chapter": 101,
+                    "verse": 1,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "words": 1
+                },
+                "words": {
+                    "transliteration": "al-qari'atu",
+                    "line": "6",
+                    "end": "١",
+                    "end_line": 6,
+                    "id": "hari kiamat",
+                    "ar": "ٱلۡقَارِعَةُ",
+                    "en": "The Striking Calamity!"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Al-qaari'ah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "101:2": {
+                "meta": {
+                    "chapter": 101,
+                    "verse": 2,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "ma||al-qari'atu",
+                    "line": "6||6",
+                    "end": "٢",
+                    "end_line": 6,
+                    "id": "apakah||hari kiamat",
+                    "ar": "مَا||ٱلۡقَارِعَةُ",
+                    "en": "What||(is) the Striking Calamity"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Mal qaariah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "101:3": {
+                "meta": {
+                    "chapter": 101,
+                    "verse": 3,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wama||adraka||ma||al-qari'atu",
+                    "line": "6||6||6||6",
+                    "end": "٣",
+                    "end_line": 6,
+                    "id": "dan apakah||kamu tahu||apa||hari kiamat",
+                    "ar": "وَمَآ||أَدۡرَىٰكَ||مَا||ٱلۡقَارِعَةُ",
+                    "en": "And what||will make you know||what||(is) the Striking Calamity"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-maa adraaka mal qaari'ah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "101:4": {
+                "meta": {
+                    "chapter": 101,
+                    "verse": 4,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "yawma||yakunu||al-nasu||kal-farashi||al-mabthuthi",
+                    "line": "6||7||7||7||7",
+                    "end": "٤",
+                    "end_line": 7,
+                    "id": "hari||adalah||manusia||seperti anai-anai||bertebaran",
+                    "ar": "يَوۡمَ||يَكُونُ||ٱلنَّاسُ||كَٱلۡفَرَاشِ||ٱلۡمَبۡثُوثِ",
+                    "en": "(The) Day||will be||the mankind||like moths||scattered"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yauma ya-koonun naasu kal-farashil mabthooth"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "101:5": {
+                "meta": {
+                    "chapter": 101,
+                    "verse": 5,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "watakunu||al-jibalu||kal-'ih'ni||al-manfushi",
+                    "line": "7||7||7||8",
+                    "end": "٥",
+                    "end_line": 8,
+                    "id": "dan adalah||gunung-gunung||seperti bulu||dihambur-hamburkan",
+                    "ar": "وَتَكُونُ||ٱلۡجِبَالُ||كَٱلۡعِهۡنِ||ٱلۡمَنفُوشِ",
+                    "en": "And will be||the mountains||like wool||fluffed up"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-ta-koonul jibalu kal-'ihnil manfoosh"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "101:6": {
+                "meta": {
+                    "chapter": 101,
+                    "verse": 6,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fa-amma||man||thaqulat||mawazinuhu",
+                    "line": "8||8||8||8",
+                    "end": "٦",
+                    "end_line": 8,
+                    "id": "maka adapun||siapa/orang||berat||timbangannya",
+                    "ar": "فَأَمَّا||مَن||ثَقُلَتۡ||مَوَٰزِينُهُۥ",
+                    "en": "Then as for||(him) whose||are heavy||his scales"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fa-amma man thaqulat mawa-zeenuh"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "101:7": {
+                "meta": {
+                    "chapter": 101,
+                    "verse": 7,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fahuwa||fi||ishatin||radiyatin",
+                    "line": "8||8||8||9",
+                    "end": "٧",
+                    "end_line": 9,
+                    "id": "maka dia||dalam||kehidupan||memuaskan",
+                    "ar": "فَهُوَ||فِي||عِيشَةٖ||رَّاضِيَةٖ",
+                    "en": "Then he||(will be) in||a life||pleasant"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fahuwa fee ishatir raadiyah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "101:8": {
+                "meta": {
+                    "chapter": 101,
+                    "verse": 8,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wa-amma||man||khaffat||mawazinuhu",
+                    "line": "9||9||9||9",
+                    "end": "٨",
+                    "end_line": 9,
+                    "id": "dan adapun||orang||ringan||timbangannya",
+                    "ar": "وَأَمَّا||مَنۡ||خَفَّتۡ||مَوَٰزِينُهُۥ",
+                    "en": "But as for||(him) whose||are light||his scales"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-amma man khaffat mawa-zeenuh"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "101:9": {
+                "meta": {
+                    "chapter": 101,
+                    "verse": 9,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "fa-ummuhu||hawiyatun",
+                    "line": "9||9",
+                    "end": "٩",
+                    "end_line": 9,
+                    "id": "maka tempat kembalinya||jurang yang dalam/neraka Hawiyah",
+                    "ar": "فَأُمُّهُۥ||هَاوِيَةٞ",
+                    "en": "His abode||(will be the) Pit"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fa-ummuhu haawiyah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "101:10": {
+                "meta": {
+                    "chapter": 101,
+                    "verse": 10,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wama||adraka||ma||hiyah",
+                    "line": "10||10||10||10",
+                    "end": "١٠",
+                    "end_line": 10,
+                    "id": "dan apakah||kamu tahu||apa||itu",
+                    "ar": "وَمَآ||أَدۡرَىٰكَ||مَا||هِيَهۡ",
+                    "en": "And what||will make you know||what||it is"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-maa adraaka maa hiyah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "101:11": {
+                "meta": {
+                    "chapter": 101,
+                    "verse": 11,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "narun||hamiyatun",
+                    "line": "10||10",
+                    "end": "١١",
+                    "end_line": 10,
+                    "id": "api||sangat panas",
+                    "ar": "نَارٌ||حَامِيَةُۢ",
+                    "en": "A Fire||intensely hot"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Naarun hamiyah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

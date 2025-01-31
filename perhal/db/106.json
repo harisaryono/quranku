@@ -1,0 +1,136 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "106:1": {
+                "meta": {
+                    "chapter": 106,
+                    "verse": 1,
+                    "page": 602,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 548,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "liilafi||qurayshin",
+                    "line": "3||3",
+                    "end": "١",
+                    "end_line": 3,
+                    "id": "karena kebiasaan||orang-orang Qurais",
+                    "ar": "لِإِيلَٰفِ||قُرَيۡشٍ",
+                    "en": "For (the) familiarity||(of the) Quraish"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Li-eelaafi quraish"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "106:2": {
+                "meta": {
+                    "chapter": 106,
+                    "verse": 2,
+                    "page": 602,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 548,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "ilafihim||rih'lata||al-shitai||wal-sayfi",
+                    "line": "3||3||3||3",
+                    "end": "٢",
+                    "end_line": 3,
+                    "id": "kebiasaan mereka||perjalanan/bepergian||dimusim dingin||dan musim panas",
+                    "ar": "إِۦلَٰفِهِمۡ||رِحۡلَةَ||ٱلشِّتَآءِ||وَٱلصَّيۡفِ",
+                    "en": "Their familiarity||(with the) journey||(of) winter||and summer"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Eelaafihim rihlatash shitaaa'i wassaif"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "106:3": {
+                "meta": {
+                    "chapter": 106,
+                    "verse": 3,
+                    "page": 602,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 548,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "falya'budu||rabba||hadha||al-bayti",
+                    "line": "4||4||4||4",
+                    "end": "٣",
+                    "end_line": 4,
+                    "id": "maka hendaklah mereka menyembah||Tuhan||ini||rumah",
+                    "ar": "فَلۡيَعۡبُدُواْ||رَبَّ||هَٰذَا||ٱلۡبَيۡتِ",
+                    "en": "So let them worship||(the) Lord||(of) this||House"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Faly'abudoo rabba haazal bait"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "106:4": {
+                "meta": {
+                    "chapter": 106,
+                    "verse": 4,
+                    "page": 602,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 548,
+                    "words": 7
+                },
+                "words": {
+                    "transliteration": "alladhi||at'amahum||min||ju'in||waamanahum||min||khawfin",
+                    "line": "4||4||5||5||5||5||5",
+                    "end": "٤",
+                    "end_line": 5,
+                    "id": "yang||Dia memberi makan mereka||dari||kelaparan||dan Dia memberikan keamanan mereka||dari||ketakutan",
+                    "ar": "ٱلَّذِيٓ||أَطۡعَمَهُم||مِّن||جُوعٖ||وَءَامَنَهُم||مِّنۡ||خَوۡفِۭ",
+                    "en": "The One Who||feeds them||against||hunger||and gives them security||against||fear"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allazeee at'amahum min joo'inw wa-aamanahum min khawf"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

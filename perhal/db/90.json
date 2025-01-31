@@ -1,0 +1,648 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "90:1": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 1,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "la||uq'simu||bihadha||al-baladi",
+                    "line": "8||8||8||8",
+                    "end": "١",
+                    "end_line": 8,
+                    "id": "sungguh||Aku bersumpah||dengan ini||negeri",
+                    "ar": "لَآ||أُقۡسِمُ||بِهَٰذَا||ٱلۡبَلَدِ",
+                    "en": "Nay!||I swear||by this||city"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Laaa uqsimu bihaazal balad"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:2": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 2,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wa-anta||hillun||bihadha||al-baladi",
+                    "line": "8||8||8||8",
+                    "end": "٢",
+                    "end_line": 8,
+                    "id": "dan kamu||halal/bertempat||dengan ini||negeri",
+                    "ar": "وَأَنتَ||حِلُّۢ||بِهَٰذَا||ٱلۡبَلَدِ",
+                    "en": "And you||(are) free (to dwell)||in this||city"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-anta hillum bihaazal balad"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:3": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 3,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wawalidin||wama||walada",
+                    "line": "8||8||8",
+                    "end": "٣",
+                    "end_line": 8,
+                    "id": "demi bapak||dan apa||ia lahirkan (anak)",
+                    "ar": "وَوَالِدٖ||وَمَا||وَلَدَ",
+                    "en": "And the begetter||and what||he begot"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-waalidinw Wa-maa walad"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:4": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 4,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "laqad||khalaqna||al-insana||fi||kabadin",
+                    "line": "9||9||9||9||9",
+                    "end": "٤",
+                    "end_line": 9,
+                    "id": "sesungguhnya||Kami telah menciptakan||manusia||dalam||susah payah",
+                    "ar": "لَقَدۡ||خَلَقۡنَا||ٱلۡإِنسَٰنَ||فِي||كَبَدٍ",
+                    "en": "Certainly||We have created||man||(to be) in||hardship"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Laqad khalaqnal insaana fee kabad"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:5": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 5,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "ayahsabu||an||lan||yaqdira||alayhi||ahadun",
+                    "line": "9||9||9||9||9||10",
+                    "end": "٥",
+                    "end_line": 10,
+                    "id": "apakah (manusia) menyangka||bahwa||tidak||berkuasa||atasnya||seseorang/satu",
+                    "ar": "أَيَحۡسَبُ||أَن||لَّن||يَقۡدِرَ||عَلَيۡهِ||أَحَدٞ",
+                    "en": "Does he think||that||not||has power||over him||anyone"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ayahsabu al lai yaqdira alaihi ahad"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:6": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 6,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "yaqulu||ahlaktu||malan||lubadan",
+                    "line": "10||10||10||10",
+                    "end": "٦",
+                    "end_line": 10,
+                    "id": "ia berkata||aku telah binasakan/habiskan||harta||banyak",
+                    "ar": "يَقُولُ||أَهۡلَكۡتُ||مَالٗا||لُّبَدًا",
+                    "en": "He will say||I have squandered||wealth||abundant"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yaqoolu ahlaktu maalal lubadaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:7": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 7,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "ayahsabu||an||lam||yarahu||ahadun",
+                    "line": "10||10||10||10||10",
+                    "end": "٧",
+                    "end_line": 10,
+                    "id": "apakah ia menyangka||bahwa||tidak||berkuasa||seorang/satu",
+                    "ar": "أَيَحۡسَبُ||أَن||لَّمۡ||يَرَهُۥٓ||أَحَدٌ",
+                    "en": "Does he think||that||not||sees him||anyone"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ayahsabu al lam yarahooo ahad"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:8": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 8,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "alam||naj'al||lahu||aynayni",
+                    "line": "11||11||11||11",
+                    "end": "٨",
+                    "end_line": 11,
+                    "id": "bukankah||Kami jadikan||baginya||dua buah mata",
+                    "ar": "أَلَمۡ||نَجۡعَل||لَّهُۥ||عَيۡنَيۡنِ",
+                    "en": "Have not||We made||for him||two eyes"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Alam naj'al lahoo 'aynayn"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:9": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 9,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "walisanan||washafatayni",
+                    "line": "11||11",
+                    "end": "٩",
+                    "end_line": 11,
+                    "id": "dan lisan/lidah||dan dua buah bibir",
+                    "ar": "وَلِسَانٗا||وَشَفَتَيۡنِ",
+                    "en": "And a tongue||and two lips"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-lisaananw Wa-shafatayn"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:10": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 10,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "wahadaynahu||al-najdayni",
+                    "line": "11||12",
+                    "end": "١٠",
+                    "end_line": 12,
+                    "id": "dan Kami telah tunjukannya||dua jalan",
+                    "ar": "وَهَدَيۡنَٰهُ||ٱلنَّجۡدَيۡنِ",
+                    "en": "And shown him||the two ways"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-hadaynaahun najdayn"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:11": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 11,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "fala||iq'tahama||al-'aqabata",
+                    "line": "12||12||12",
+                    "end": "١١",
+                    "end_line": 12,
+                    "id": "maka/tetapi tidak||ia menempuh||pendakian/mendaki",
+                    "ar": "فَلَا||ٱقۡتَحَمَ||ٱلۡعَقَبَةَ",
+                    "en": "But not||he has attempted||the steep path"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Falaq tahamal 'aqabah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:12": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 12,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wama||adraka||ma||al-'aqabatu",
+                    "line": "12||12||12||12",
+                    "end": "١٢",
+                    "end_line": 12,
+                    "id": "da apakah||kamu tahu||apa||pendakian itu",
+                    "ar": "وَمَآ||أَدۡرَىٰكَ||مَا||ٱلۡعَقَبَةُ",
+                    "en": "And what||can make you know||what||the steep path is"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-maaa adraaka mal 'aqabah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:13": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 13,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "fakku||raqabatin",
+                    "line": "13||13",
+                    "end": "١٣",
+                    "end_line": 13,
+                    "id": "memerdekakan||budak",
+                    "ar": "فَكُّ||رَقَبَةٍ",
+                    "en": "(It is) freeing||a neck"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fakku raqabah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:14": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 14,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "aw||it'amun||fi||yawmin||dhi||masghabatin",
+                    "line": "13||13||13||13||13||13",
+                    "end": "١٤",
+                    "end_line": 13,
+                    "id": "atau||memberi makan||pada||hari||mempunyai||kelaparan",
+                    "ar": "أَوۡ||إِطۡعَٰمٞ||فِي||يَوۡمٖ||ذِي||مَسۡغَبَةٖ",
+                    "en": "Or||feeding||in||a day||of||severe hunger"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Aw it'aamun fee yawmin zee masghabah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:15": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 15,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "yatiman||dha||maqrabatin",
+                    "line": "13||13||13",
+                    "end": "١٥",
+                    "end_line": 13,
+                    "id": "anak yatim||mempunyai||dekat/kerabat",
+                    "ar": "يَتِيمٗا||ذَا||مَقۡرَبَةٍ",
+                    "en": "An orphan||of||near relationship"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yateeman zaa maqrabah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:16": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 16,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "aw||mis'kinan||dha||matrabatin",
+                    "line": "14||14||14||14",
+                    "end": "١٦",
+                    "end_line": 14,
+                    "id": "atau||orang miskin||mempunyai||sangat payah/melarat",
+                    "ar": "أَوۡ||مِسۡكِينٗا||ذَا||مَتۡرَبَةٖ",
+                    "en": "Or||a needy person||in||misery"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Aw miskeenan zaa matrabah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:17": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 17,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "thumma||kana||mina||alladhina||amanu||watawasaw||bil-sabri||watawasaw||bil-marhamati",
+                    "line": "14||14||14||14||14||14||15||15||15",
+                    "end": "١٧",
+                    "end_line": 15,
+                    "id": "kemudian||adalah ia||dari||orang-orang yang||beriman||dan mereka saling berwasiat/berpesan||dengan kesabaran||dan mereka saling berwasiat/berpesan||dengan kasih-sayang",
+                    "ar": "ثُمَّ||كَانَ||مِنَ||ٱلَّذِينَ||ءَامَنُواْ||وَتَوَاصَوۡاْ||بِٱلصَّبۡرِ||وَتَوَاصَوۡاْ||بِٱلۡمَرۡحَمَةِ",
+                    "en": "Then||he is||of||those who||believe||and enjoin each other||to patience||and enjoin each other||to compassion"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Summa kaana minal lazeena aamanoo Wa-tawaasaw bissabri Wa-tawaasaw bilmarhamah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:18": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 18,
+                    "page": 594,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "ulaika||ashabu||al-maymanati",
+                    "line": "15||15||15",
+                    "end": "١٨",
+                    "end_line": 15,
+                    "id": "mereka itu||golongan||kanan",
+                    "ar": "أُوْلَٰٓئِكَ||أَصۡحَٰبُ||ٱلۡمَيۡمَنَةِ",
+                    "en": "Those||(are the) companions||(of) the right hand"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ulaaa'ika As-haabul maimanah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:19": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 19,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "wa-alladhina||kafaru||biayatina||hum||ashabu||al-mashamati",
+                    "line": "1||1||1||1||1||1",
+                    "end": "١٩",
+                    "end_line": 1,
+                    "id": "dan orang-orang yang||kafir/ingkar||dengan ayat-ayat Kami||mereka||golongan||kiri",
+                    "ar": "وَٱلَّذِينَ||كَفَرُواْ||بِـَٔايَٰتِنَا||هُمۡ||أَصۡحَٰبُ||ٱلۡمَشۡـَٔمَةِ",
+                    "en": "But those who||disbelieve||in Our Verses||they||(are the) companions||(of) the left hand"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wallazeena kafaroo bi-aayaatinaa hum as-haabul Mash'amah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "90:20": {
+                "meta": {
+                    "chapter": 90,
+                    "verse": 20,
+                    "page": 595,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 532,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "alayhim||narun||mu'sadatun",
+                    "line": "1||1||1",
+                    "end": "٢٠",
+                    "end_line": 1,
+                    "id": "atas/untuk mereka||api/neraka||tertutup rapat",
+                    "ar": "عَلَيۡهِمۡ||نَارٞ||مُّؤۡصَدَةُۢ",
+                    "en": "Over them||(will be the) Fire||closed in"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Alaihim naarum mu'sadah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

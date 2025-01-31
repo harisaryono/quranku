@@ -1,0 +1,200 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "109:1": {
+                "meta": {
+                    "chapter": 109,
+                    "verse": 1,
+                    "page": 603,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 551,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "qul||yaayyuha||al-kafiruna",
+                    "line": "3||3||3",
+                    "end": "١",
+                    "end_line": 3,
+                    "id": "katakanlah||wahai||orang-orang kafir",
+                    "ar": "قُلۡ||يَٰٓأَيُّهَا||ٱلۡكَٰفِرُونَ",
+                    "en": "Say||O||disbelievers"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Qul yaaa-ayyuhal kaafiroon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "109:2": {
+                "meta": {
+                    "chapter": 109,
+                    "verse": 2,
+                    "page": 603,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 551,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "la||a'budu||ma||ta'buduna",
+                    "line": "3||3||3||3",
+                    "end": "٢",
+                    "end_line": 3,
+                    "id": "tidak||aku menyembah||apa||kamu sembah",
+                    "ar": "لَآ||أَعۡبُدُ||مَا||تَعۡبُدُونَ",
+                    "en": "Not||I worship||what||you worship"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Laaa a'budu maa t'abudoon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "109:3": {
+                "meta": {
+                    "chapter": 109,
+                    "verse": 3,
+                    "page": 603,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 551,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "wala||antum||abiduna||ma||a'budu",
+                    "line": "4||4||4||4||4",
+                    "end": "٣",
+                    "end_line": 4,
+                    "id": "dan tidak||kamu||menyembah||apa||aku sembah",
+                    "ar": "وَلَآ||أَنتُمۡ||عَٰبِدُونَ||مَآ||أَعۡبُدُ",
+                    "en": "And not||you||(are) worshippers||(of) what||I worship"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-laaa antum aabidoona maaa a'bud"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "109:4": {
+                "meta": {
+                    "chapter": 109,
+                    "verse": 4,
+                    "page": 603,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 551,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "wala||ana||abidun||ma||abadttum",
+                    "line": "4||4||4||4||4",
+                    "end": "٤",
+                    "end_line": 4,
+                    "id": "dan bukanlah||aku||menjadi penyembah||apa||kamu sembah",
+                    "ar": "وَلَآ||أَنَا۠||عَابِدٞ||مَّا||عَبَدتُّمۡ",
+                    "en": "And not||I am||a worshipper||(of) what||you worship"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-laaa ana abidum maa 'abattum"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "109:5": {
+                "meta": {
+                    "chapter": 109,
+                    "verse": 5,
+                    "page": 603,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 551,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "wala||antum||abiduna||ma||a'budu",
+                    "line": "5||5||5||5||5",
+                    "end": "٥",
+                    "end_line": 5,
+                    "id": "dan bukanlah||kamu||menyembah||apa||aku sembah",
+                    "ar": "وَلَآ||أَنتُمۡ||عَٰبِدُونَ||مَآ||أَعۡبُدُ",
+                    "en": "And not||you are||worshippers||(of) what||I worship"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-laaa antum aabidoona maaa a'bud"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "109:6": {
+                "meta": {
+                    "chapter": 109,
+                    "verse": 6,
+                    "page": 603,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 551,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "lakum||dinukum||waliya||dini",
+                    "line": "5||5||5||5",
+                    "end": "٦",
+                    "end_line": 5,
+                    "id": "bagi kalian||agamamu||bagiku||agamaku",
+                    "ar": "لَكُمۡ||دِينُكُمۡ||وَلِيَ||دِينِ",
+                    "en": "For you||(is) your religion||and for me||(is) my religion"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Lakum deenukum Wa-liya deen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

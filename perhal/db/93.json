@@ -1,0 +1,360 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "93:1": {
+                "meta": {
+                    "chapter": 93,
+                    "verse": 1,
+                    "page": 596,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "words": 1
+                },
+                "words": {
+                    "transliteration": "wal-duha",
+                    "line": "8",
+                    "end": "١",
+                    "end_line": 8,
+                    "id": "demi matahari naik",
+                    "ar": "وَٱلضُّحَىٰ",
+                    "en": "By the morning brightness"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wad-duhaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "93:2": {
+                "meta": {
+                    "chapter": 93,
+                    "verse": 2,
+                    "page": 596,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wa-al-layli||idha||saja",
+                    "line": "8||8||8",
+                    "end": "٢",
+                    "end_line": 8,
+                    "id": "dan malam||apabila||telah sunyi",
+                    "ar": "وَٱلَّيۡلِ||إِذَا||سَجَىٰ",
+                    "en": "And the night||when||it covers with darkness"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wal-laili iza sajaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "93:3": {
+                "meta": {
+                    "chapter": 93,
+                    "verse": 3,
+                    "page": 596,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "ma||wadda'aka||rabbuka||wama||qala",
+                    "line": "8||8||8||8||8",
+                    "end": "٣",
+                    "end_line": 8,
+                    "id": "tidak||meninggalkan kamu||Tuhanmu||dan tidak||marah/benci",
+                    "ar": "مَا||وَدَّعَكَ||رَبُّكَ||وَمَا||قَلَىٰ",
+                    "en": "Not||has forsaken you||your Lord||and not||He is displeased"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ma wad-da'aka rabbuka Wa-ma qalaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "93:4": {
+                "meta": {
+                    "chapter": 93,
+                    "verse": 4,
+                    "page": 596,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "walalakhiratu||khayrun||laka||mina||al-ula",
+                    "line": "9||9||9||9||9",
+                    "end": "٤",
+                    "end_line": 9,
+                    "id": "dan sungguh kesudahan/akhirat||lebih baik||bagimu||dari pada||permulaan/dunia",
+                    "ar": "وَلَلۡأٓخِرَةُ||خَيۡرٞ||لَّكَ||مِنَ||ٱلۡأُولَىٰ",
+                    "en": "And surely the Hereafter||(is) better||for you||than||the first"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Walal-aakhiratu khairul laka minal oola"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "93:5": {
+                "meta": {
+                    "chapter": 93,
+                    "verse": 5,
+                    "page": 596,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "walasawfa||yu'tika||rabbuka||fatarda",
+                    "line": "9||9||9||10",
+                    "end": "٥",
+                    "end_line": 10,
+                    "id": "dan sungguh kelak||memberikan kepadamu||Tuhanmu||maka kamu jadi puas",
+                    "ar": "وَلَسَوۡفَ||يُعۡطِيكَ||رَبُّكَ||فَتَرۡضَىٰٓ",
+                    "en": "And soon||will give you||your Lord||then you will be satisfied"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-la-sawfa y'uteeka rabbuka fatarda"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "93:6": {
+                "meta": {
+                    "chapter": 93,
+                    "verse": 6,
+                    "page": 596,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "alam||yajid'ka||yatiman||faawa",
+                    "line": "10||10||10||10",
+                    "end": "٦",
+                    "end_line": 10,
+                    "id": "apakah tidak/bukanlah||Dia mendapatimu||seorang yatim||lalu Dia melindungi",
+                    "ar": "أَلَمۡ||يَجِدۡكَ||يَتِيمٗا||فَـَٔاوَىٰ",
+                    "en": "Did not||He find you||an orphan||and gave shelter"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Alam ya-jidka yateeman fa-aawaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "93:7": {
+                "meta": {
+                    "chapter": 93,
+                    "verse": 7,
+                    "page": 596,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wawajadaka||dallan||fahada",
+                    "line": "10||10||10",
+                    "end": "٧",
+                    "end_line": 10,
+                    "id": "dan Dia mendapatimu||sesat/bingung||lalu Dia memberi petunjuk",
+                    "ar": "وَوَجَدَكَ||ضَآلّٗا||فَهَدَىٰ",
+                    "en": "And He found you||lost||so He guided"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-Wa-jadaka daal-lan fahada"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "93:8": {
+                "meta": {
+                    "chapter": 93,
+                    "verse": 8,
+                    "page": 596,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wawajadaka||ailan||fa-aghna",
+                    "line": "11||11||11",
+                    "end": "٨",
+                    "end_line": 11,
+                    "id": "dan Dia mendapatimu||miskin/kekurangan||lalu Dia memberi kecukupan",
+                    "ar": "وَوَجَدَكَ||عَآئِلٗا||فَأَغۡنَىٰ",
+                    "en": "And He found you||in need||so He made self-sufficient"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-Wa-jadaka aa-ilan fa-aghnaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "93:9": {
+                "meta": {
+                    "chapter": 93,
+                    "verse": 9,
+                    "page": 596,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fa-amma||al-yatima||fala||taqhar",
+                    "line": "11||11||11||11",
+                    "end": "٩",
+                    "end_line": 11,
+                    "id": "maka adapun||anak yatim||maka jangan||kamu paksa/bersikap bengis",
+                    "ar": "فَأَمَّا||ٱلۡيَتِيمَ||فَلَا||تَقۡهَرۡ",
+                    "en": "So as for||the orphan||then (do) not||oppress"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fa-am-mal yateema fala taqhar"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "93:10": {
+                "meta": {
+                    "chapter": 93,
+                    "verse": 10,
+                    "page": 596,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wa-amma||al-saila||fala||tanhar",
+                    "line": "12||12||12||12",
+                    "end": "١٠",
+                    "end_line": 12,
+                    "id": "dan adapun||orang minta-minta||maka jangan||kamu menghardik",
+                    "ar": "وَأَمَّا||ٱلسَّآئِلَ||فَلَا||تَنۡهَرۡ",
+                    "en": "And as for||him who asks||then (do) not||repel"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-am-mas saa-ila fala tanhar"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "93:11": {
+                "meta": {
+                    "chapter": 93,
+                    "verse": 11,
+                    "page": 596,
+                    "juz": 30,
+                    "hizb": 238,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wa-amma||bini'mati||rabbika||fahaddith",
+                    "line": "12||12||12||12",
+                    "end": "١١",
+                    "end_line": 12,
+                    "id": "dan adapun||dengan/terhadap nikmat||Tuhanmu||maka hendaklah kamu ceritakan",
+                    "ar": "وَأَمَّا||بِنِعۡمَةِ||رَبِّكَ||فَحَدِّثۡ",
+                    "en": "But as for||(the) Favor||(of) your Lord||narrate"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-amma bi-ni'mati rabbika fahad-dith"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

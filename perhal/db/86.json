@@ -1,0 +1,552 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "86:1": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 1,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "wal-samai||wal-tariqi",
+                    "line": "3||3",
+                    "end": "١",
+                    "end_line": 3,
+                    "id": "dan langit||dan yang datang di malam hari",
+                    "ar": "وَٱلسَّمَآءِ||وَٱلطَّارِقِ",
+                    "en": "By the sky||and the night comer"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wassamaaa'i wattaariq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:2": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 2,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wama||adraka||ma||al-tariqu",
+                    "line": "3||3||3||3",
+                    "end": "٢",
+                    "end_line": 3,
+                    "id": "dan apa||kamu tahu||apa||yang datang dimalam hari",
+                    "ar": "وَمَآ||أَدۡرَىٰكَ||مَا||ٱلطَّارِقُ",
+                    "en": "And what||can make you know||what||the night comer (is)"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-maaa adraaka mat taariq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:3": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 3,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "al-najmu||al-thaqibu",
+                    "line": "3||3",
+                    "end": "٣",
+                    "end_line": 3,
+                    "id": "bintang||cemerlang/menembus",
+                    "ar": "ٱلنَّجۡمُ||ٱلثَّاقِبُ",
+                    "en": "(It is) the star||the piercing!"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Annajmus saaqib"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:4": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 4,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "in||kullu||nafsin||lamma||alayha||hafizun",
+                    "line": "4||4||4||4||4||4",
+                    "end": "٤",
+                    "end_line": 4,
+                    "id": "tidak||setiap||jiwa/diri||melainkan||atasnya||penjaga",
+                    "ar": "إِن||كُلُّ||نَفۡسٖ||لَّمَّا||عَلَيۡهَا||حَافِظٞ",
+                    "en": "Not||(is) every||soul||but||over it||(is) a protector"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "in kullu nafsil lammaa alaihaa haafiz"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:5": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 5,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "falyanzuri||al-insanu||mimma||khuliqa",
+                    "line": "4||4||4||4",
+                    "end": "٥",
+                    "end_line": 4,
+                    "id": "maka hendaklah memperhatikan||manusia||dari apa||ia diciptakan",
+                    "ar": "فَلۡيَنظُرِ||ٱلۡإِنسَٰنُ||مِمَّ||خُلِقَ",
+                    "en": "So let see||man||from what||he is created"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fal-yanzuril insaanu mimma khuliq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:6": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 6,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "khuliqa||min||main||dafiqin",
+                    "line": "5||5||5||5",
+                    "end": "٦",
+                    "end_line": 5,
+                    "id": "ia diciptakan||dari||air||terpancar",
+                    "ar": "خُلِقَ||مِن||مَّآءٖ||دَافِقٖ",
+                    "en": "He is created||from||a water||ejected"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Khuliqa mim maaa'in daafiq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:7": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 7,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "yakhruju||min||bayni||al-sul'bi||wal-taraibi",
+                    "line": "5||5||5||5||5",
+                    "end": "٧",
+                    "end_line": 5,
+                    "id": "ia keluar||dari||antara||tulang belakang||dan tulang dada",
+                    "ar": "يَخۡرُجُ||مِنۢ||بَيۡنِ||ٱلصُّلۡبِ||وَٱلتَّرَآئِبِ",
+                    "en": "Coming forth||from||between||the backbone||and the ribs"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yakhruju mim bainis sulbi wat-taraaa'ib"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:8": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 8,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "innahu||ala||raj'ihi||laqadirun",
+                    "line": "5||6||6||6",
+                    "end": "٨",
+                    "end_line": 6,
+                    "id": "sesungguhnya Dia||atas||mengembalikanya||benar-benar berkuasa",
+                    "ar": "إِنَّهُۥ||عَلَىٰ||رَجۡعِهِۦ||لَقَادِرٞ",
+                    "en": "Indeed He||to||return him||(is) Able"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innahoo 'alaa raj'ihee laqaadir"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:9": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 9,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "yawma||tub'la||al-sarairu",
+                    "line": "6||6||6",
+                    "end": "٩",
+                    "end_line": 6,
+                    "id": "hari||dibuka/dinampakkan||rahasia-rahasia",
+                    "ar": "يَوۡمَ||تُبۡلَى||ٱلسَّرَآئِرُ",
+                    "en": "(The) Day||will be tested||the secrets"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yawma tublas saraaa'ir"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:10": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 10,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "fama||lahu||min||quwwatin||wala||nasirin",
+                    "line": "6||6||6||6||6||7",
+                    "end": "١٠",
+                    "end_line": 7,
+                    "id": "maka tidak||baginya||dari||kekuatan||dan tidak||seorang penolong",
+                    "ar": "فَمَا||لَهُۥ||مِن||قُوَّةٖ||وَلَا||نَاصِرٖ",
+                    "en": "Then not||(is) for him||any||power||and not||any helper"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Famaa lahoo min quwwatinw Wa-laa naasir"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:11": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 11,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wal-samai||dhati||al-raj'i",
+                    "line": "7||7||7",
+                    "end": "١١",
+                    "end_line": 7,
+                    "id": "dan langit||mempunyai/mengandung||air/hujan",
+                    "ar": "وَٱلسَّمَآءِ||ذَاتِ||ٱلرَّجۡعِ",
+                    "en": "By the sky||which||returns"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wassamaaa'i zaatir raj'"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:12": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 12,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wal-ardi||dhati||al-sad'i",
+                    "line": "7||7||7",
+                    "end": "١٢",
+                    "end_line": 7,
+                    "id": "dan bumi||mempunyai||tumbuh-tumbuhan",
+                    "ar": "وَٱلۡأَرۡضِ||ذَاتِ||ٱلصَّدۡعِ",
+                    "en": "And the earth||which||cracks open"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wal-ardi zaatis sad'"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:13": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 13,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "innahu||laqawlun||faslun",
+                    "line": "8||8||8",
+                    "end": "١٣",
+                    "end_line": 8,
+                    "id": "sesungguhnya ia (Al Qur'an)||perkataan/firman||terpisah",
+                    "ar": "إِنَّهُۥ||لَقَوۡلٞ||فَصۡلٞ",
+                    "en": "Indeed it||(is) surely a Word||decisive"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innahoo laqawlun fasl"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:14": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 14,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wama||huwa||bil-hazli",
+                    "line": "8||8||8",
+                    "end": "١٤",
+                    "end_line": 8,
+                    "id": "dan tidak||ia (Al Qur'an)||dengan sia-sia/senda gurau",
+                    "ar": "وَمَا||هُوَ||بِٱلۡهَزۡلِ",
+                    "en": "And not||it||(is) for amusement"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-maa huwa bil-hazl"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:15": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 15,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "innahum||yakiduna||kaydan",
+                    "line": "8||8||8",
+                    "end": "١٥",
+                    "end_line": 8,
+                    "id": "sesungguhnya mereka||mereka membuat tipu daya||tipu daya",
+                    "ar": "إِنَّهُمۡ||يَكِيدُونَ||كَيۡدٗا",
+                    "en": "Indeed they||are plotting||a plot"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innahum yakeedoona kaidaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:16": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 16,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "wa-akidu||kaydan",
+                    "line": "9||9",
+                    "end": "١٦",
+                    "end_line": 9,
+                    "id": "dan AKu membuat tipu daya||tipu daya",
+                    "ar": "وَأَكِيدُ||كَيۡدٗا",
+                    "en": "But I am planning||a plan"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-akeedu kaidaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "86:17": {
+                "meta": {
+                    "chapter": 86,
+                    "verse": 17,
+                    "page": 591,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "famahhili||al-kafirina||amhil'hum||ruwaydan",
+                    "line": "9||9||9||9",
+                    "end": "١٧",
+                    "end_line": 9,
+                    "id": "maka beri tangguhlah||orang-orang kafir||beritangguhlah mereka||sedikit/sebentar",
+                    "ar": "فَمَهِّلِ||ٱلۡكَٰفِرِينَ||أَمۡهِلۡهُمۡ||رُوَيۡدَۢا",
+                    "en": "So give respite||(to) the disbelievers||Give respite to them||little"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Famahhilil kaafireena amhilhum ruwaidaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

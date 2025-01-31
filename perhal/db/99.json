@@ -1,0 +1,264 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "99:1": {
+                "meta": {
+                    "chapter": 99,
+                    "verse": 1,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "idha||zul'zilati||al-ardu||zil'zalaha",
+                    "line": "8||8||8||8",
+                    "end": "١",
+                    "end_line": 8,
+                    "id": "apabila||digoncangkan||bumi||goncangan",
+                    "ar": "إِذَا||زُلۡزِلَتِ||ٱلۡأَرۡضُ||زِلۡزَالَهَا",
+                    "en": "When||is shaken||the earth||with its earthquake"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "izaa zul-zilatil ardu zil-zaalaha"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "99:2": {
+                "meta": {
+                    "chapter": 99,
+                    "verse": 2,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wa-akhrajati||al-ardu||athqalaha",
+                    "line": "8||8||8",
+                    "end": "٢",
+                    "end_line": 8,
+                    "id": "dan mengeluarkan||bumi||beban beratnya",
+                    "ar": "وَأَخۡرَجَتِ||ٱلۡأَرۡضُ||أَثۡقَالَهَا",
+                    "en": "And brings forth||the earth||its burdens"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-akh-rajatil ardu athqaalaha"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "99:3": {
+                "meta": {
+                    "chapter": 99,
+                    "verse": 3,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "waqala||al-insanu||ma||laha",
+                    "line": "8||9||9||9",
+                    "end": "٣",
+                    "end_line": 9,
+                    "id": "dan berkata||manusia||apa||ia",
+                    "ar": "وَقَالَ||ٱلۡإِنسَٰنُ||مَا||لَهَا",
+                    "en": "And says||man||What||(is) with it"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-qaalal insaanu ma laha"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "99:4": {
+                "meta": {
+                    "chapter": 99,
+                    "verse": 4,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "yawma-idhin||tuhaddithu||akhbaraha",
+                    "line": "9||9||9",
+                    "end": "٤",
+                    "end_line": 9,
+                    "id": "pada hari itu||ia menceritakan||beritanya",
+                    "ar": "يَوۡمَئِذٖ||تُحَدِّثُ||أَخۡبَارَهَا",
+                    "en": "That Day||it will report||its news"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yawmaa-izin tuhad-dithu akhbaaraha"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "99:5": {
+                "meta": {
+                    "chapter": 99,
+                    "verse": 5,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "bi-anna||rabbaka||awha||laha",
+                    "line": "9||9||9||9",
+                    "end": "٥",
+                    "end_line": 9,
+                    "id": "karena sesungguhnya||Tuhanmu||talah mewahyukan/memerintahkan||padanya",
+                    "ar": "بِأَنَّ||رَبَّكَ||أَوۡحَىٰ||لَهَا",
+                    "en": "Because||your Lord||inspired||[to] it"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Bi-anna rabbaka awhaa laha"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "99:6": {
+                "meta": {
+                    "chapter": 99,
+                    "verse": 6,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "yawma-idhin||yasduru||al-nasu||ashtatan||liyuraw||a'malahum",
+                    "line": "10||10||10||10||10||10",
+                    "end": "٦",
+                    "end_line": 10,
+                    "id": "pada hari itu||keluar||manusia||bermacam-macam||untuk mereka lihat||amal-amal mereka",
+                    "ar": "يَوۡمَئِذٖ||يَصۡدُرُ||ٱلنَّاسُ||أَشۡتَاتٗا||لِّيُرَوۡاْ||أَعۡمَٰلَهُمۡ",
+                    "en": "That Day||will proceed||the mankind||(in) scattered groups||to be shown||their deeds"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yawma-iziny yas-durun naasu ash-tatal liyuraw a'maalahum"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "99:7": {
+                "meta": {
+                    "chapter": 99,
+                    "verse": 7,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "faman||ya'mal||mith'qala||dharratin||khayran||yarahu",
+                    "line": "10||10||11||11||11||11",
+                    "end": "٧",
+                    "end_line": 11,
+                    "id": "maka barang siapa||dia mengerjakan/beramal||seberat||zarrah/atom||kebaikan||dia melihatnya",
+                    "ar": "فَمَن||يَعۡمَلۡ||مِثۡقَالَ||ذَرَّةٍ||خَيۡرٗا||يَرَهُۥ",
+                    "en": "So whoever||does||(equal to the) weight||(of) an atom||good||will see it"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Famaiy ya'mal mithqala zarratin khai-raiy yarah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "99:8": {
+                "meta": {
+                    "chapter": 99,
+                    "verse": 8,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "waman||ya'mal||mith'qala||dharratin||sharran||yarahu",
+                    "line": "11||11||11||11||11||11",
+                    "end": "٨",
+                    "end_line": 11,
+                    "id": "dan barang siapa||dia mengerjakan/beramal||seberat||zarrah/atom||kejahatan||dia melihatnya",
+                    "ar": "وَمَن||يَعۡمَلۡ||مِثۡقَالَ||ذَرَّةٖ||شَرّٗا||يَرَهُۥ",
+                    "en": "And whoever||does||(equal to the) weight||(of) an atom||evil||will see it"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-maiy y'amal mithqala zarratin sharraiy yarah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

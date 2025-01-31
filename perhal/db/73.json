@@ -1,0 +1,648 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "73:1": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 1,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "yaayyuha||al-muzamilu",
+                    "line": "3||3",
+                    "end": "١",
+                    "end_line": 3,
+                    "id": "wahai||orang yang berselimut",
+                    "ar": "يَٰٓأَيُّهَا||ٱلۡمُزَّمِّلُ",
+                    "en": "O you||who wraps himself!"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ya-aiyuhal muzzammil"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:2": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 2,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "qumi||al-layla||illa||qalilan",
+                    "line": "3||3||3||3",
+                    "end": "٢",
+                    "end_line": 3,
+                    "id": "bangunlah||malam hari||kecuali||sedikit",
+                    "ar": "قُمِ||ٱلَّيۡلَ||إِلَّا||قَلِيلٗا",
+                    "en": "Stand||(in) the night||except||a little"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Qumil laila illaa qaleelaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:3": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 3,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "nis'fahu||awi||unqus||min'hu||qalilan",
+                    "line": "3||3||3||3||3",
+                    "end": "٣",
+                    "end_line": 3,
+                    "id": "seperduanya||atau||kurang||daripada||sedikit",
+                    "ar": "نِّصۡفَهُۥٓ||أَوِ||ٱنقُصۡ||مِنۡهُ||قَلِيلًا",
+                    "en": "Half of it||or||lessen||from it||a little"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Nisfahooo awin qus minhu qaleelaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:4": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 4,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "aw||zid||alayhi||warattili||al-qur'ana||tartilan",
+                    "line": "4||4||4||4||4||4",
+                    "end": "٤",
+                    "end_line": 4,
+                    "id": "atau||lebih||atasnya||dan bacalah||Al Qur'an||perlahan-lahan",
+                    "ar": "أَوۡ||زِدۡ||عَلَيۡهِ||وَرَتِّلِ||ٱلۡقُرۡءَانَ||تَرۡتِيلًا",
+                    "en": "Or||add||to it||and recite||the Quran||(with) measured rhythmic recitation"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Aw zid alaihi Wa-rattilil Qur'aana tarteela"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:5": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 5,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "inna||sanul'qi||alayka||qawlan||thaqilan",
+                    "line": "4||4||4||4||5",
+                    "end": "٥",
+                    "end_line": 5,
+                    "id": "sesungguhnya||Kami akan menurunkan||atasmu/kepadamu||perkataan||berat",
+                    "ar": "إِنَّا||سَنُلۡقِي||عَلَيۡكَ||قَوۡلٗا||ثَقِيلًا",
+                    "en": "Indeed We||will cast||upon you||a Word||heavy"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innaa sanulqee alaika qawlan saqeelaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:6": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 6,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 8
+                },
+                "words": {
+                    "transliteration": "inna||nashi-ata||al-layli||hiya||ashaddu||watan||wa-aqwamu||qilan",
+                    "line": "5||5||5||5||5||5||5||5",
+                    "end": "٦",
+                    "end_line": 5,
+                    "id": "sesungguhnya||bangun||malam||ia/adalah||sangat/lebih||kuat||dan lebih teguh/terkesan||ucapan/bacaan",
+                    "ar": "إِنَّ||نَاشِئَةَ||ٱلَّيۡلِ||هِيَ||أَشَدُّ||وَطۡـٔٗا||وَأَقۡوَمُ||قِيلًا",
+                    "en": "Indeed||(the) rising||(at) the night||it||(is) very hard||and most potent||and more suitable||(for) Word"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "inna naashi'atal laili hiya ashadddu wat-anw Wa-aqwamu qeelaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:7": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 7,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "inna||laka||fi||al-nahari||sabhan||tawilan",
+                    "line": "5||5||5||6||6||6",
+                    "end": "٧",
+                    "end_line": 6,
+                    "id": "sesungguhnya||bagimu||pada||siang hari||pekerjaan/urusan||panjang/banyak",
+                    "ar": "إِنَّ||لَكَ||فِي||ٱلنَّهَارِ||سَبۡحٗا||طَوِيلٗا",
+                    "en": "Indeed||for you||in||the day||(is) occupation||prolonged"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "inna laka fin nahaari sabhan taweelaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:8": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 8,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "wa-udh'kuri||is'ma||rabbika||watabattal||ilayhi||tabtilan",
+                    "line": "6||6||6||6||6||6",
+                    "end": "٨",
+                    "end_line": 6,
+                    "id": "dan sebutlah||nama||Tuhanmu||dan beribadatlah||kepada-Nya||sungguh-sungguh beribadat",
+                    "ar": "وَٱذۡكُرِ||ٱسۡمَ||رَبِّكَ||وَتَبَتَّلۡ||إِلَيۡهِ||تَبۡتِيلٗا",
+                    "en": "And remember||(the) name||(of) your Lord||and devote yourself||to Him||(with) devotion"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wazkuris ma rabbika Wa-tabattal ilaihi tabteelaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:9": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 9,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "rabbu||al-mashriqi||wal-maghribi||la||ilaha||illa||huwa||fa-ittakhidh'hu||wakilan",
+                    "line": "7||7||7||7||7||7||7||7||7",
+                    "end": "٩",
+                    "end_line": 7,
+                    "id": "Tuhan/pemelihara||timur||dan barat||tidak ada||tuhan||kecuali||Dia||maka ambillah/jadikan Dia||pelindung",
+                    "ar": "رَّبُّ||ٱلۡمَشۡرِقِ||وَٱلۡمَغۡرِبِ||لَآ||إِلَٰهَ||إِلَّا||هُوَ||فَٱتَّخِذۡهُ||وَكِيلٗا",
+                    "en": "(The) Lord||(of) the east||and the west;||(there is) no||god||except||Him||so take Him||(as) Disposer of Affairs"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Rabbul mashriqi wal-maghriibi laaa ilaaha illaa Huwa fattakhizhu wakeelaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:10": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 10,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 7
+                },
+                "words": {
+                    "transliteration": "wa-is'bir||ala||ma||yaquluna||wa-uh'jur'hum||hajran||jamilan",
+                    "line": "7||8||8||8||8||8||8",
+                    "end": "١٠",
+                    "end_line": 8,
+                    "id": "dan bersabarlah||atas||apa||mereka katakan||dan pindahlah/jauhilah mereka||pindah||yang baik",
+                    "ar": "وَٱصۡبِرۡ||عَلَىٰ||مَا||يَقُولُونَ||وَٱهۡجُرۡهُمۡ||هَجۡرٗا||جَمِيلٗا",
+                    "en": "And be patient||over||what||they say||and avoid them||an avoidance||gracious"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wasbir 'alaa maa yaqoo-loona wahjurhum hajran jameelaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:11": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 11,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "wadharni||wal-mukadhibina||uli||al-na'mati||wamahhil'hum||qalilan",
+                    "line": "8||8||9||9||9||9",
+                    "end": "١١",
+                    "end_line": 9,
+                    "id": "dan biarkan Aku||dan orang-orang yang mendustakan||mempunyai||kenikmatan/kemewahan||dan beri tempo mereka||sedikit/sebentar",
+                    "ar": "وَذَرۡنِي||وَٱلۡمُكَذِّبِينَ||أُوْلِي||ٱلنَّعۡمَةِ||وَمَهِّلۡهُمۡ||قَلِيلًا",
+                    "en": "And leave Me||and the deniers||possessors||(of) the ease||and allow them respite||a little"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-zarnee walmukaz-zibeena ulin na'mati Wa-mahhilhum qaleelaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:12": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 12,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "inna||ladayna||ankalan||wajahiman",
+                    "line": "9||9||9||9",
+                    "end": "١٢",
+                    "end_line": 9,
+                    "id": "sesungguhnya||pada sisi Kami||belenggu-belenggu||dan api yang menyala-nyala",
+                    "ar": "إِنَّ||لَدَيۡنَآ||أَنكَالٗا||وَجَحِيمٗا",
+                    "en": "Indeed||with Us||(are) shackles||and burning fire"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "inna ladainaaa ankaalanw Wa-jaheemaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:13": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 13,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "wata'aman||dha||ghussatin||wa'adhaban||aliman",
+                    "line": "10||10||10||10||10",
+                    "end": "١٣",
+                    "end_line": 10,
+                    "id": "dan makanan||menyumbat/memiliki||kerongkongan||dan siksa/azab||pedih",
+                    "ar": "وَطَعَامٗا||ذَا||غُصَّةٖ||وَعَذَابًا||أَلِيمٗا",
+                    "en": "And food||that||chokes||and a punishment||painful"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-ta'aaman zaa ghussa-tinw wa'azaaban aleemaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:14": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 14,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 8
+                },
+                "words": {
+                    "transliteration": "yawma||tarjufu||al-ardu||wal-jibalu||wakanati||al-jibalu||kathiban||mahilan",
+                    "line": "10||10||10||10||11||11||11||11",
+                    "end": "١٤",
+                    "end_line": 11,
+                    "id": "hari||bergoncang||bumi||dan gunung-gunung||dan adalah/jadilah||gunung-gunung||tumpukan pasir||licin/bertaburan",
+                    "ar": "يَوۡمَ||تَرۡجُفُ||ٱلۡأَرۡضُ||وَٱلۡجِبَالُ||وَكَانَتِ||ٱلۡجِبَالُ||كَثِيبٗا||مَّهِيلًا",
+                    "en": "On (the) Day||will quake||the earth||and the mountains||and will become||the mountains||a heap of sand||pouring down"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yawma tarjuful ardu waljibaalu Wa-kaanatil jibaalu kaseebam maheelaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:15": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 15,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 11
+                },
+                "words": {
+                    "transliteration": "inna||arsalna||ilaykum||rasulan||shahidan||alaykum||kama||arsalna||ila||fir'awna||rasulan",
+                    "line": "11||11||11||11||11||12||12||12||12||12||12",
+                    "end": "١٥",
+                    "end_line": 12,
+                    "id": "sesungguhnya||Kami telah mengutus||kepadamu||seorang rasul||menjadi saksi||atas kalian||sebagaimana||Kami telah mengutus||kepada||Fir'aun||seorang rasul",
+                    "ar": "إِنَّآ||أَرۡسَلۡنَآ||إِلَيۡكُمۡ||رَسُولٗا||شَٰهِدًا||عَلَيۡكُمۡ||كَمَآ||أَرۡسَلۡنَآ||إِلَىٰ||فِرۡعَوۡنَ||رَسُولٗا",
+                    "en": "Indeed We||[We] have sent||to you||a Messenger||(as) a witness||upon you||as||We sent||to||Firaun||a Messenger"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innaa arsalnaaa ilaikum rasoolan shaahidan 'aleykum kamaaa arsalnaaa ilaa Fir'awna rasoolaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:16": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 16,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "fa'asa||fir'awnu||al-rasula||fa-akhadhnahu||akhdhan||wabilan",
+                    "line": "12||12||12||13||13||13",
+                    "end": "١٦",
+                    "end_line": 13,
+                    "id": "maka mendurhakai||Fir'aun||rasul itu||lalu Kami siksa dia||siksaan||yang berat",
+                    "ar": "فَعَصَىٰ||فِرۡعَوۡنُ||ٱلرَّسُولَ||فَأَخَذۡنَٰهُ||أَخۡذٗا||وَبِيلٗا",
+                    "en": "But disobeyed||Firaun||the Messenger||so We seized him||(with) a seizure||ruinous"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fa'asaa Fir'awnur Rasoola fa-akhaznaahu akhzanw wabeelaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:17": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 17,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 8
+                },
+                "words": {
+                    "transliteration": "fakayfa||tattaquna||in||kafartum||yawman||yaj'alu||al-wil'dana||shiban",
+                    "line": "13||13||13||13||13||14||14||14",
+                    "end": "١٧",
+                    "end_line": 14,
+                    "id": "maka bagaimana||kamu bertakwa/memelihara diri||jika||kamu kafir/ingkar||hari||menjadikan||anak-anak muda||beruban",
+                    "ar": "فَكَيۡفَ||تَتَّقُونَ||إِن||كَفَرۡتُمۡ||يَوۡمٗا||يَجۡعَلُ||ٱلۡوِلۡدَٰنَ||شِيبًا",
+                    "en": "Then how||will you guard yourselves||if||you disbelieve||a Day||(that) will make||the children||gray-headed"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fakaifa tattaqoona in kafartum yawmany yaj'alul wildaana sheeba"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:18": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 18,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "al-samau||munfatirun||bihi||kana||wa'duhu||maf'ulan",
+                    "line": "14||14||14||14||14||14",
+                    "end": "١٨",
+                    "end_line": 14,
+                    "id": "langit||terbelah||karenanya/hari itu||adalah||janji-Nya||terlaksana",
+                    "ar": "ٱلسَّمَآءُ||مُنفَطِرُۢ||بِهِۦۚ||كَانَ||وَعۡدُهُۥ||مَفۡعُولًا",
+                    "en": "The heaven||(will) break apart||therefrom||is||His Promise||to be fulfilled"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Assamaaa'u munfatirum bih; kaana wa'duhoo maf'oola"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:19": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 19,
+                    "page": 574,
+                    "juz": 29,
+                    "hizb": 229,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "inna||hadhihi||tadhkiratun||faman||shaa||ittakhadha||ila||rabbihi||sabilan",
+                    "line": "15||15||15||15||15||15||15||15||15",
+                    "end": "١٩",
+                    "end_line": 15,
+                    "id": "sesungguhnya||ini||peringatan||maka barang siapa||menghendaki||ia mengambil||kepada||Tuhannya||jalan",
+                    "ar": "إِنَّ||هَٰذِهِۦ||تَذۡكِرَةٞۖ||فَمَن||شَآءَ||ٱتَّخَذَ||إِلَىٰ||رَبِّهِۦ||سَبِيلًا",
+                    "en": "Indeed||this||(is) a Reminder||then whoever||wills||let him take||to||his Lord||a way"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "inna haazihee tazkira; fa-man shaaa'at takhaza ilaa Rabbihee sabeelaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "73:20": {
+                "meta": {
+                    "chapter": 73,
+                    "verse": 20,
+                    "page": 575,
+                    "juz": 29,
+                    "hizb": 230,
+                    "manzil": 7,
+                    "ruku": 509,
+                    "words": 78
+                },
+                "words": {
+                    "transliteration": "inna||rabbaka||ya'lamu||annaka||taqumu||adna||min||thuluthayi||al-layli||wanis'fahu||wathuluthahu||wataifatun||mina||alladhina||ma'aka||wal-lahu||yuqaddiru||al-layla||wal-nahara||alima||an||lan||tuh'suhu||fataba||alaykum||fa-iq'rau||ma||tayassara||mina||al-qur'ani||alima||an||sayakunu||minkum||marda||waakharuna||yadribuna||fi||al-ardi||yabtaghuna||min||fadli||al-lahi||waakharuna||yuqatiluna||fi||sabili||al-lahi||fa-iq'rau||ma||tayassara||min'hu||wa-aqimu||al-salata||waatu||al-zakata||wa-aqridu||al-laha||qardan||hasanan||wama||tuqaddimu||li-anfusikum||min||khayrin||tajiduhu||inda||al-lahi||huwa||khayran||wa-a'zama||ajran||wa-is'taghfiru||al-laha||inna||al-laha||ghafurun||rahimun",
+                    "line": "1||1||1||1||1||1||1||1||1||1||1||1||2||2||2||2||2||2||2||2||2||2||2||2||3||3||3||3||3||3||3||3||3||3||3||4||4||4||4||4||4||4||4||4||5||5||5||5||5||5||5||5||5||5||5||6||6||6||6||6||6||6||6||6||6||6||7||7||7||7||7||7||7||7||7||7||7||7",
+                    "end": "٢٠",
+                    "end_line": 7,
+                    "id": "sesungguhnya||Tuhanmu||mengetahui||bahwa kamu||kamu berdiri||kurang||dari||dua pertiga||malam||dan/atau separuhnya||dan/atau sepertiganya||dan segolongan||dari||orang-orang yang||bersama kamu||dan Allah||menetapkan||malam||dan siang||Dia mengetahui||bahwa||tidak dapat||menentukannya||maka Dia menerima taubat||atas kalian||maka bacalah||apa||kamu mudah||dari||Al Qur'an ini||Dia mengetahui||bahwa||akan ada||diantara kamu||orang-orang yang sakit||dan yang lain||mereka berjalan||di||bumi||mereka mencari||dari||karunia||Allah||dan yang lain||mereka berperang||di/pada||jalan||Allah||maka bacalah||apa||kamu mudah||daripadanya||dan dirikanlah||sholat||dan tunaikan||zakat||dan berikan pinjaman||Allah||pinjaman||yang baik||dan apa||kamu kerjakan||untuk dirimu||dari||kebaikan||kamu perolehnya||di sisi||Allah||Dia||baik||dan lebih besar||pahala||dan mohon ampunlah||Allah||sesungguhnya||Allah||Maha Pengampun||Maha penyayang",
+                    "ar": "۞إِنَّ||رَبَّكَ||يَعۡلَمُ||أَنَّكَ||تَقُومُ||أَدۡنَىٰ||مِن||ثُلُثَيِ||ٱلَّيۡلِ||وَنِصۡفَهُۥ||وَثُلُثَهُۥ||وَطَآئِفَةٞ||مِّنَ||ٱلَّذِينَ||مَعَكَۚ||وَٱللَّهُ||يُقَدِّرُ||ٱلَّيۡلَ||وَٱلنَّهَارَۚ||عَلِمَ||أَن||لَّن||تُحۡصُوهُ||فَتَابَ||عَلَيۡكُمۡۖ||فَٱقۡرَءُواْ||مَا||تَيَسَّرَ||مِنَ||ٱلۡقُرۡءَانِۚ||عَلِمَ||أَن||سَيَكُونُ||مِنكُم||مَّرۡضَىٰ||وَءَاخَرُونَ||يَضۡرِبُونَ||فِي||ٱلۡأَرۡضِ||يَبۡتَغُونَ||مِن||فَضۡلِ||ٱللَّهِ||وَءَاخَرُونَ||يُقَٰتِلُونَ||فِي||سَبِيلِ||ٱللَّهِۖ||فَٱقۡرَءُواْ||مَا||تَيَسَّرَ||مِنۡهُۚ||وَأَقِيمُواْ||ٱلصَّلَوٰةَ||وَءَاتُواْ||ٱلزَّكَوٰةَ||وَأَقۡرِضُواْ||ٱللَّهَ||قَرۡضًا||حَسَنٗاۚ||وَمَا||تُقَدِّمُواْ||لِأَنفُسِكُم||مِّنۡ||خَيۡرٖ||تَجِدُوهُ||عِندَ||ٱللَّهِ||هُوَ||خَيۡرٗا||وَأَعۡظَمَ||أَجۡرٗاۚ||وَٱسۡتَغۡفِرُواْ||ٱللَّهَۖ||إِنَّ||ٱللَّهَ||غَفُورٞ||رَّحِيمُۢ",
+                    "en": "Indeed||your Lord||knows||that you||stand||a little less||than||two thirds||(of) the night||and half of it||and a third of it||and (so do) a group||of||those who||(are) with you||And Allah||determines||the night||and the day||He knows||that||not||you count it||so He has turned||to you||so recite||what||is easy||of||the Quran||He knows||that||there will be||among you||sick||and others||traveling||in||the land||seeking||of||(the) Bounty||(of) Allah||and others||fighting||in||(the) way||(of) Allah||So recite||what||is easy||of it||and establish||the prayer||and give||the zakah||and loan||Allah||a loan||goodly||And whatever||you send forth||for yourselves||of||good||you will find it||with||Allah||It||(is) better||and greater||(in) reward||And seek forgiveness||(of) Allah||Indeed||Allah||(is) Oft-Forgiving||Most Merciful"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "inna Rabbaka ya'lamu annaka taqoomu adnaa min sulusa-yil laili Wa-nisfahoo Wa-sulusahoo Wa-taaa'ifatum minal lazeena ma'ak; wal-laahu yuqaddirul laila wanna-haar; alima al lan tuhsoohu fataaba alaikum faqra'oo maa tayassara minal quraan; alima an sa-yakoonu minkum mardaa Wa-aakharoona yadriboona fil ardi yabtaghoona min fadlil laahi Wa-aakharoona yuqaatiloona fee sabeelil laahi faqra'oo ma tayassara minhu Wa-aqeemus salaata Wa-aatuz zakaata Wa-aqridul laaha qardan hasanaa; Wa-maa tuqaddimoo li-anfusikum min khairin tajidoohu indal laahi huwa khayranw Wa-a'zama ajraa; wastaghfirul laahaa innal laaha ghafoorur raheem."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

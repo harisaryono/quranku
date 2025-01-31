@@ -1,0 +1,264 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "98:1": {
+                "meta": {
+                    "chapter": 98,
+                    "verse": 1,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "words": 12
+                },
+                "words": {
+                    "transliteration": "lam||yakuni||alladhina||kafaru||min||ahli||al-kitabi||wal-mush'rikina||munfakkina||hatta||tatiyahumu||al-bayinatu",
+                    "line": "11||11||11||11||11||11||11||11||11||11||12||12",
+                    "end": "١",
+                    "end_line": 12,
+                    "id": "tidak||ada||orang-orang yang||kafir/ingkar||dari||ahli||kitab||dan orang-orang musyrik||melepaskan/meninggalkan||sehingga||datang kepada mereka||bukti nyata",
+                    "ar": "لَمۡ||يَكُنِ||ٱلَّذِينَ||كَفَرُواْ||مِنۡ||أَهۡلِ||ٱلۡكِتَٰبِ||وَٱلۡمُشۡرِكِينَ||مُنفَكِّينَ||حَتَّىٰ||تَأۡتِيَهُمُ||ٱلۡبَيِّنَةُ",
+                    "en": "Not||were||those who||disbelieved||from||(the) People||of the Book||and the polytheists||to be abandoned||until||(there) comes to them||the clear evidence"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Lam ya-kunil lazeena kafaru min ahlil kitaabi wal-mushri-keena mun-fak-keena hattaa ta-tiya-humul bayyinah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "98:2": {
+                "meta": {
+                    "chapter": 98,
+                    "verse": 2,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "rasulun||mina||al-lahi||yatlu||suhufan||mutahharatan",
+                    "line": "12||12||12||12||12||12",
+                    "end": "٢",
+                    "end_line": 12,
+                    "id": "seorang rasul||dari||Allah||dia membacakan||lebaran-lembaran||suci",
+                    "ar": "رَسُولٞ||مِّنَ||ٱللَّهِ||يَتۡلُواْ||صُحُفٗا||مُّطَهَّرَةٗ",
+                    "en": "A Messenger||from||Allah||reciting||pages||purified"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Rasoolum minal laahi yatlu suhufam mutahharah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "98:3": {
+                "meta": {
+                    "chapter": 98,
+                    "verse": 3,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "fiha||kutubun||qayyimatun",
+                    "line": "12||12||13",
+                    "end": "٣",
+                    "end_line": 13,
+                    "id": "di dalamnya||kitab-kitab||yang lurus",
+                    "ar": "فِيهَا||كُتُبٞ||قَيِّمَةٞ",
+                    "en": "Wherein||(are) writings||correct"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Feeha kutubun qaiyimah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "98:4": {
+                "meta": {
+                    "chapter": 98,
+                    "verse": 4,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "words": 11
+                },
+                "words": {
+                    "transliteration": "wama||tafarraqa||alladhina||utu||al-kitaba||illa||min||ba'di||ma||jaathumu||al-bayinatu",
+                    "line": "13||13||13||13||13||13||13||13||13||13||14",
+                    "end": "٤",
+                    "end_line": 14,
+                    "id": "dan tidak||berpecah-belah||orang-orang yang||mereka diberi||Al Kitab||kecuali||dari||setelah||apa||datang kepada mereka||bukti nyata",
+                    "ar": "وَمَا||تَفَرَّقَ||ٱلَّذِينَ||أُوتُواْ||ٱلۡكِتَٰبَ||إِلَّا||مِنۢ||بَعۡدِ||مَا||جَآءَتۡهُمُ||ٱلۡبَيِّنَةُ",
+                    "en": "And not||became divided||those who||were given||the Book||until||from||after||what||came (to) them||(of) the clear evidence"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-maa tafarraqal lazeena ootul kitaaba il-la mim b'adi ma jaa-at-humul baiyyinah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "98:5": {
+                "meta": {
+                    "chapter": 98,
+                    "verse": 5,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "words": 16
+                },
+                "words": {
+                    "transliteration": "wama||umiru||illa||liya'budu||al-laha||mukh'lisina||lahu||al-dina||hunafaa||wayuqimu||al-salata||wayu'tu||al-zakata||wadhalika||dinu||al-qayimati",
+                    "line": "14||14||14||14||14||14||14||14||15||15||15||15||15||15||15||15",
+                    "end": "٥",
+                    "end_line": 15,
+                    "id": "dan tidak||diperintahkan||kecuali||supaya mereka menyembah||Allah||mengikhlaskan/memurnikan||bagiNya||agama||ikhlas/lurus||dan mereka mendirikan||sholat||dan mereka menunaikan||zakat||dan demikian itu||agama||betul/lurus",
+                    "ar": "وَمَآ||أُمِرُوٓاْ||إِلَّا||لِيَعۡبُدُواْ||ٱللَّهَ||مُخۡلِصِينَ||لَهُ||ٱلدِّينَ||حُنَفَآءَ||وَيُقِيمُواْ||ٱلصَّلَوٰةَ||وَيُؤۡتُواْ||ٱلزَّكَوٰةَۚ||وَذَٰلِكَ||دِينُ||ٱلۡقَيِّمَةِ",
+                    "en": "And not||they were commanded||except||to worship||Allah||(being) sincere||to Him||(in) the religion||upright||and to establish||the prayer||and to give||the Zakah||And that||(is the) religion||the correct"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-maa umiroo il-la liy'abu-dul laaha mukhliseena lahud deena huna-faa-a Wa-yuqeemus salaata Wa-yu-tuz zakaata; Wa-zaalika deenul qaiyimah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "98:6": {
+                "meta": {
+                    "chapter": 98,
+                    "verse": 6,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "words": 16
+                },
+                "words": {
+                    "transliteration": "inna||alladhina||kafaru||min||ahli||al-kitabi||wal-mush'rikina||fi||nari||jahannama||khalidina||fiha||ulaika||hum||sharru||al-bariyati",
+                    "line": "1||1||1||1||1||1||1||1||1||1||2||2||2||2||2||2",
+                    "end": "٦",
+                    "end_line": 2,
+                    "id": "sesungguhnya||orang-orang yang||kafir/ingkar||dari||ahli||kitab||dan orang-orang musyrik||dalam||neraka||jahanam||mereka kekal||di dalammnya||mereka itu||mereka||seburuk-buruk||makhluk",
+                    "ar": "إِنَّ||ٱلَّذِينَ||كَفَرُواْ||مِنۡ||أَهۡلِ||ٱلۡكِتَٰبِ||وَٱلۡمُشۡرِكِينَ||فِي||نَارِ||جَهَنَّمَ||خَٰلِدِينَ||فِيهَآۚ||أُوْلَٰٓئِكَ||هُمۡ||شَرُّ||ٱلۡبَرِيَّةِ",
+                    "en": "Indeed||those who||disbelieve||from||(the) People||(of) the Book||and the polytheists||(will be) in||(the) Fire||(of) Hell||abiding eternally||therein||Those||they||(are the) worst||(of) the creatures"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innal lazeena kafaru min ahlil kitaabi wal-mushri-keena fee nari jahan-nama khaali-deena feeha; ulaa-ika hum shar-rul ba-reeyah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "98:7": {
+                "meta": {
+                    "chapter": 98,
+                    "verse": 7,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "inna||alladhina||amanu||wa'amilu||al-salihati||ulaika||hum||khayru||al-bariyati",
+                    "line": "2||2||2||3||3||3||3||3||3",
+                    "end": "٧",
+                    "end_line": 3,
+                    "id": "sesungguhnya||orang-orang yang||beriman||dan mereka berbuat/beramal||kebajikan/saleh||mereka itu||mereka||sebaik-baik||makhluk",
+                    "ar": "إِنَّ||ٱلَّذِينَ||ءَامَنُواْ||وَعَمِلُواْ||ٱلصَّٰلِحَٰتِ||أُوْلَٰٓئِكَ||هُمۡ||خَيۡرُ||ٱلۡبَرِيَّةِ",
+                    "en": "Indeed||those who||believe||and do||righteous deeds||those||they||(are the) best||(of) the creatures"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innal lazeena aamanu Wa-'amilus saalihaati ula-ika hum khairul bareey-yah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "98:8": {
+                "meta": {
+                    "chapter": 98,
+                    "verse": 8,
+                    "page": 599,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "words": 21
+                },
+                "words": {
+                    "transliteration": "jazauhum||inda||rabbihim||jannatu||adnin||tajri||min||tahtiha||al-anharu||khalidina||fiha||abadan||radiya||al-lahu||anhum||waradu||anhu||dhalika||liman||khashiya||rabbahu",
+                    "line": "3||4||4||4||4||4||4||4||4||4||5||5||5||5||5||5||5||5||5||5||5",
+                    "end": "٨",
+                    "end_line": 5,
+                    "id": "balasan mereka||disisi||Tuhan mereka||surga||'Adn||mengalir||dari||bawah||sungai||mereka kekal||didalamnya||selamanya||suka/rida/puas||Allah||terhadap mereka||dan mereka suka/rida/puas||dari pada-Nya/kepada-Nya||demikian itu||bagi orang||ia takut||Tuhannya",
+                    "ar": "جَزَآؤُهُمۡ||عِندَ||رَبِّهِمۡ||جَنَّٰتُ||عَدۡنٖ||تَجۡرِي||مِن||تَحۡتِهَا||ٱلۡأَنۡهَٰرُ||خَٰلِدِينَ||فِيهَآ||أَبَدٗاۖ||رَّضِيَ||ٱللَّهُ||عَنۡهُمۡ||وَرَضُواْ||عَنۡهُۚ||ذَٰلِكَ||لِمَنۡ||خَشِيَ||رَبَّهُۥ",
+                    "en": "Their reward||(is) with||their Lord||Gardens||(of) Eternity||flow||from||underneath them||the rivers||will abide||therein||forever||(will be) pleased||Allah||with them||and they (will be) pleased||with Him||That||(is) for whoever||feared||his Lord"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Jazaaa'uhum 'inda Rabbihim Jannaatu adnin tajree min tahtihal anhaaru khaalideena feehaaa abadaa; radiyal laahu 'anhum Wa-radoo anh; zaalika liman khashiya Rabbah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

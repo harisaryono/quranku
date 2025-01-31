@@ -1,0 +1,296 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "104:1": {
+                "meta": {
+                    "chapter": 104,
+                    "verse": 1,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 546,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "waylun||likulli||humazatin||lumazatin",
+                    "line": "7||7||7||7",
+                    "end": "١",
+                    "end_line": 7,
+                    "id": "kecelakaan||bagi setiap||pengumpat||pencela",
+                    "ar": "وَيۡلٞ||لِّكُلِّ||هُمَزَةٖ||لُّمَزَةٍ",
+                    "en": "Woe||to every||slanderer||backbiter!"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wailul likulli hu-mazatil lumazah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "104:2": {
+                "meta": {
+                    "chapter": 104,
+                    "verse": 2,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 546,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "alladhi||jama'a||malan||wa'addadahu",
+                    "line": "7||7||7||7",
+                    "end": "٢",
+                    "end_line": 7,
+                    "id": "yang||mengumpulkan||harta||dan dia menghitungnya",
+                    "ar": "ٱلَّذِي||جَمَعَ||مَالٗا||وَعَدَّدَهُۥ",
+                    "en": "The one who||collects||wealth||and counts it"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allazee jama'a maalanw Wa-'addadah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "104:3": {
+                "meta": {
+                    "chapter": 104,
+                    "verse": 3,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 546,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "yahsabu||anna||malahu||akhladahu",
+                    "line": "8||8||8||8",
+                    "end": "٣",
+                    "end_line": 8,
+                    "id": "dia mengira||bahwasanya||hartanya||mengekalkannya",
+                    "ar": "يَحۡسَبُ||أَنَّ||مَالَهُۥٓ||أَخۡلَدَهُۥ",
+                    "en": "Thinking||that||his wealth||will make him immortal"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yahsabu anna maalahooo akhladah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "104:4": {
+                "meta": {
+                    "chapter": 104,
+                    "verse": 4,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 546,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "kalla||layunbadhanna||fi||al-hutamati",
+                    "line": "8||8||8||8",
+                    "end": "٤",
+                    "end_line": 8,
+                    "id": "sekali-kali tidak||sungguh dia akan dilemparkan||dalam||Hutamah",
+                    "ar": "كـَلَّاۖ||لَيُنۢبَذَنَّ||فِي||ٱلۡحُطَمَةِ",
+                    "en": "Nay!||Surely he will be thrown||in||the Crusher"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Kallaa; layumbazanna fil hutamah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "104:5": {
+                "meta": {
+                    "chapter": 104,
+                    "verse": 5,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 546,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wama||adraka||ma||al-hutamatu",
+                    "line": "9||9||9||9",
+                    "end": "٥",
+                    "end_line": 9,
+                    "id": "dan apakah||kamu tahu||apa||Hutamah",
+                    "ar": "وَمَآ||أَدۡرَىٰكَ||مَا||ٱلۡحُطَمَةُ",
+                    "en": "And what||will make you know||what||the Crusher (is)"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-maa adraaka mal hutamah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "104:6": {
+                "meta": {
+                    "chapter": 104,
+                    "verse": 6,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 546,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "naru||al-lahi||al-muqadatu",
+                    "line": "9||9||9",
+                    "end": "٦",
+                    "end_line": 9,
+                    "id": "api||Allah||dinyalakan",
+                    "ar": "نَارُ||ٱللَّهِ||ٱلۡمُوقَدَةُ",
+                    "en": "A Fire||Allah||kindled"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Naarul laahil mooqada"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "104:7": {
+                "meta": {
+                    "chapter": 104,
+                    "verse": 7,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 546,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "allati||tattali'u||ala||al-afidati",
+                    "line": "9||9||10||10",
+                    "end": "٧",
+                    "end_line": 10,
+                    "id": "yang||naik||ke atas/sampai||hati",
+                    "ar": "ٱلَّتِي||تَطَّلِعُ||عَلَى||ٱلۡأَفۡـِٔدَةِ",
+                    "en": "Which||mounts up||to||the hearts"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allatee tattali'u 'alal af'idah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "104:8": {
+                "meta": {
+                    "chapter": 104,
+                    "verse": 8,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 546,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "innaha||alayhim||mu'sadatun",
+                    "line": "10||10||10",
+                    "end": "٨",
+                    "end_line": 10,
+                    "id": "sesungguhnya ia (api)||atas mereka||terikat/ditutup rapat",
+                    "ar": "إِنَّهَا||عَلَيۡهِم||مُّؤۡصَدَةٞ",
+                    "en": "Indeed it||(will be) upon them||closed over"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innahaa alaihim mu'sada"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "104:9": {
+                "meta": {
+                    "chapter": 104,
+                    "verse": 9,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 546,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "fi||amadin||mumaddadatin",
+                    "line": "10||10||10",
+                    "end": "٩",
+                    "end_line": 10,
+                    "id": "dalam/pada||tiang||panjang",
+                    "ar": "فِي||عَمَدٖ||مُّمَدَّدَةِۭ",
+                    "en": "In||columns||extended"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fee amadim mumaddadah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}
