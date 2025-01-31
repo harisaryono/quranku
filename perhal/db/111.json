@@ -1,0 +1,168 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "111:1": {
+                "meta": {
+                    "chapter": 111,
+                    "verse": 1,
+                    "page": 603,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 553,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "tabbat||yada||abi||lahabin||watabba",
+                    "line": "13||13||13||13||13",
+                    "end": "١",
+                    "end_line": 13,
+                    "id": "binasalah||kedua tangan||Abu||Lahab||sebenar-benar binasa",
+                    "ar": "تَبَّتۡ||يَدَآ||أَبِي||لَهَبٖ||وَتَبَّ",
+                    "en": "Perish||(the) hands||(of) Abu||Lahab||and perish he"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Tabbat yadaa abee Lahabinw wa-tabb"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "111:2": {
+                "meta": {
+                    "chapter": 111,
+                    "verse": 2,
+                    "page": 603,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 553,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "ma||aghna||anhu||maluhu||wama||kasaba",
+                    "line": "13||13||13||13||13||13",
+                    "end": "٢",
+                    "end_line": 13,
+                    "id": "tidak||berguna||dari padanya/kepadanya||hartanya||dan apa||yang ia usahakan",
+                    "ar": "مَآ||أَغۡنَىٰ||عَنۡهُ||مَالُهُۥ||وَمَا||كَسَبَ",
+                    "en": "Not||(will) avail||him||his wealth||and what||he earned"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Maa aghnaa 'anhu maaluhoo Wa-ma kasab"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "111:3": {
+                "meta": {
+                    "chapter": 111,
+                    "verse": 3,
+                    "page": 603,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 553,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "sayasla||naran||dhata||lahabin",
+                    "line": "14||14||14||14",
+                    "end": "٣",
+                    "end_line": 14,
+                    "id": "kelak ia akan masuk||api||mempunyai||begejolak",
+                    "ar": "سَيَصۡلَىٰ||نَارٗا||ذَاتَ||لَهَبٖ",
+                    "en": "He will be burnt||(in) a Fire||of||Blazing Flames"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Sa-yaslaa naaran zaata lahab"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "111:4": {
+                "meta": {
+                    "chapter": 111,
+                    "verse": 4,
+                    "page": 603,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 553,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wa-im'ra-atuhu||hammalata||al-hatabi",
+                    "line": "14||14||14",
+                    "end": "٤",
+                    "end_line": 14,
+                    "id": "dan istrinya||pembawa||kayu bakar",
+                    "ar": "وَٱمۡرَأَتُهُۥ||حَمَّالَةَ||ٱلۡحَطَبِ",
+                    "en": "And his wife||(the) carrier||(of) firewood"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wamra-atuhoo hammaa-latal hatab"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "111:5": {
+                "meta": {
+                    "chapter": 111,
+                    "verse": 5,
+                    "page": 603,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 553,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "fi||jidiha||hablun||min||masadin",
+                    "line": "15||15||15||15||15",
+                    "end": "٥",
+                    "end_line": 15,
+                    "id": "pada||lehernya||tali||dari||sabut",
+                    "ar": "فِي||جِيدِهَا||حَبۡلٞ||مِّن||مَّسَدِۭ",
+                    "en": "Around||her neck||(will be) a rope||of||palm-fiber"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fee jeedihaa hablum mim masad"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

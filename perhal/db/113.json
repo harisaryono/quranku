@@ -1,0 +1,168 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "113:1": {
+                "meta": {
+                    "chapter": 113,
+                    "verse": 1,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 555,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "qul||a'udhu||birabbi||al-falaqi",
+                    "line": "7||7||7||7",
+                    "end": "١",
+                    "end_line": 7,
+                    "id": "katakanlah||aku berlindung||Tuhan/Pemelihara||subuh",
+                    "ar": "قُلۡ||أَعُوذُ||بِرَبِّ||ٱلۡفَلَقِ",
+                    "en": "Say||I seek refuge||in (the) Lord||(of) the dawn"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Qul a'oozu bi-rabbil falaq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "113:2": {
+                "meta": {
+                    "chapter": 113,
+                    "verse": 2,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 555,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "min||sharri||ma||khalaqa",
+                    "line": "7||7||7||7",
+                    "end": "٢",
+                    "end_line": 7,
+                    "id": "dari||kejahatan||apa||Dia ciptakan",
+                    "ar": "مِن||شَرِّ||مَا||خَلَقَ",
+                    "en": "From||(the) evil||(of) what||He created"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Min sharri maa khalaq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "113:3": {
+                "meta": {
+                    "chapter": 113,
+                    "verse": 3,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 555,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "wamin||sharri||ghasiqin||idha||waqaba",
+                    "line": "7||7||8||8||8",
+                    "end": "٣",
+                    "end_line": 8,
+                    "id": "dan dari||kejahatan||malam yang gelap||apabila||telah gelap/kelam",
+                    "ar": "وَمِن||شَرِّ||غَاسِقٍ||إِذَا||وَقَبَ",
+                    "en": "And from||(the) evil||(of) darkness||when||it settles"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-min sharri ghaasiqin izaa waqab"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "113:4": {
+                "meta": {
+                    "chapter": 113,
+                    "verse": 4,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 555,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "wamin||sharri||al-nafathati||fi||al-'uqadi",
+                    "line": "8||8||8||8||8",
+                    "end": "٤",
+                    "end_line": 8,
+                    "id": "dan dari||kejahatan||orang yang meniup-niup||dalam||ikatan/simpul",
+                    "ar": "وَمِن||شَرِّ||ٱلنَّفَّٰثَٰتِ||فِي||ٱلۡعُقَدِ",
+                    "en": "And from||(the) evil||(of) the blowers||in||the knots"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-min sharrin naffaa-saati fil 'uqad"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "113:5": {
+                "meta": {
+                    "chapter": 113,
+                    "verse": 5,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 555,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "wamin||sharri||hasidin||idha||hasada",
+                    "line": "9||9||9||9||9",
+                    "end": "٥",
+                    "end_line": 9,
+                    "id": "dan dari||kejahatan||orang yang dengki||apabila||ia dengki",
+                    "ar": "وَمِن||شَرِّ||حَاسِدٍ||إِذَا||حَسَدَ",
+                    "en": "And from||(the) evil||(of) an envier||when||he envies"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-min sharri haasidin izaa hasad"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

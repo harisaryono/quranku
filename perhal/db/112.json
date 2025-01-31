@@ -1,0 +1,136 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "112:1": {
+                "meta": {
+                    "chapter": 112,
+                    "verse": 1,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 554,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "qul||huwa||al-lahu||ahadun",
+                    "line": "3||3||3||3",
+                    "end": "١",
+                    "end_line": 3,
+                    "id": "katakanlah||Dia||Allah||Esa",
+                    "ar": "قُلۡ||هُوَ||ٱللَّهُ||أَحَدٌ",
+                    "en": "Say||He||(is) Allah||the One"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Qul huwal laahu ahad"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "112:2": {
+                "meta": {
+                    "chapter": 112,
+                    "verse": 2,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 554,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "al-lahu||al-samadu",
+                    "line": "3||3",
+                    "end": "٢",
+                    "end_line": 3,
+                    "id": "Allah||tempat bergantung",
+                    "ar": "ٱللَّهُ||ٱلصَّمَدُ",
+                    "en": "Allah||the Eternal the Absolute"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allah-hus samad"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "112:3": {
+                "meta": {
+                    "chapter": 112,
+                    "verse": 3,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 554,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "lam||yalid||walam||yulad",
+                    "line": "3||3||3||3",
+                    "end": "٣",
+                    "end_line": 3,
+                    "id": "tidak||beranak||dan tidak||diperanakkan",
+                    "ar": "لَمۡ||يَلِدۡ||وَلَمۡ||يُولَدۡ",
+                    "en": "Not||He begets||and not||He is begotten"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Lam yalid Wa-lam yoolad"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "112:4": {
+                "meta": {
+                    "chapter": 112,
+                    "verse": 4,
+                    "page": 604,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 554,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "walam||yakun||lahu||kufuwan||ahadun",
+                    "line": "4||4||4||4||4",
+                    "end": "٤",
+                    "end_line": 4,
+                    "id": "dan tidak||ada||baginya||menyamai/setara||seorang",
+                    "ar": "وَلَمۡ||يَكُن||لَّهُۥ||كُفُوًا||أَحَدُۢ",
+                    "en": "And not||is||for Him||equivalent||any [one]"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-lam yakul lahoo kufuwan ahad"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

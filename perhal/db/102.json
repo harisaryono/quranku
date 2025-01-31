@@ -1,0 +1,264 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "102:1": {
+                "meta": {
+                    "chapter": 102,
+                    "verse": 1,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 544,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "alhakumu||al-takathuru",
+                    "line": "13||13",
+                    "end": "١",
+                    "end_line": 13,
+                    "id": "telah melalaikan kamu||berbanyak-banyak/bermegah-megah",
+                    "ar": "أَلۡهَىٰكُمُ||ٱلتَّكَاثُرُ",
+                    "en": "Diverts you||the competition to increase"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Al-haaku mut-takathur"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "102:2": {
+                "meta": {
+                    "chapter": 102,
+                    "verse": 2,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 544,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "hatta||zur'tumu||al-maqabira",
+                    "line": "13||13||13",
+                    "end": "٢",
+                    "end_line": 13,
+                    "id": "hingga||kamu melewati/masuk||kuburan-kuburan",
+                    "ar": "حَتَّىٰ||زُرۡتُمُ||ٱلۡمَقَابِرَ",
+                    "en": "Until||you visit||the graves"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Hatta zurtumul maqaabir"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "102:3": {
+                "meta": {
+                    "chapter": 102,
+                    "verse": 3,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 544,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "kalla||sawfa||ta'lamuna",
+                    "line": "13||13||13",
+                    "end": "٣",
+                    "end_line": 13,
+                    "id": "sekali-kali tidak||kelak||(kalian) mengetahui",
+                    "ar": "كـَلَّا||سَوۡفَ||تَعۡلَمُونَ",
+                    "en": "Nay!||Soon||you will know"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Kalla sawfa ta'lamoon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "102:4": {
+                "meta": {
+                    "chapter": 102,
+                    "verse": 4,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 544,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "thumma||kalla||sawfa||ta'lamuna",
+                    "line": "13||14||14||14",
+                    "end": "٤",
+                    "end_line": 14,
+                    "id": "kemudian||sekali-kali tidak||kelak||(kalian) mengetahui",
+                    "ar": "ثُمَّ||كـَلَّا||سَوۡفَ||تَعۡلَمُونَ",
+                    "en": "Then||nay!||Soon||you will know"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Thumma kalla sawfa ta'lamoon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "102:5": {
+                "meta": {
+                    "chapter": 102,
+                    "verse": 5,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 544,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "kalla||law||ta'lamuna||il'ma||al-yaqini",
+                    "line": "14||14||14||14||14",
+                    "end": "٥",
+                    "end_line": 14,
+                    "id": "sekali-kali tidak||jika||(kalian) mengetahui||pengetahuan||pasti/yakin",
+                    "ar": "كـَلَّا||لَوۡ||تَعۡلَمُونَ||عِلۡمَ||ٱلۡيَقِينِ",
+                    "en": "Nay!||If||you know||(with) a knowledge||(of) certainty"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Kalla law ta'lamoona ilmal yaqeen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "102:6": {
+                "meta": {
+                    "chapter": 102,
+                    "verse": 6,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 544,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "latarawunna||al-jahima",
+                    "line": "14||14",
+                    "end": "٦",
+                    "end_line": 14,
+                    "id": "sungguh kamu akan melihat||neraka Jahim",
+                    "ar": "لَتَرَوُنَّ||ٱلۡجَحِيمَ",
+                    "en": "Surely you will see||the Hellfire"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Latara-wun-nal jaheem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "102:7": {
+                "meta": {
+                    "chapter": 102,
+                    "verse": 7,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 544,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "thumma||latarawunnaha||ayna||al-yaqini",
+                    "line": "15||15||15||15",
+                    "end": "٧",
+                    "end_line": 15,
+                    "id": "kemudian||sungguh kamu akan melihatnya||mata/penglihatan||pasti/yakin",
+                    "ar": "ثُمَّ||لَتَرَوُنَّهَا||عَيۡنَ||ٱلۡيَقِينِ",
+                    "en": "Then||surely you will see it||(with the) eye||(of) certainty"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Thumma latara-wunnaha ainal yaqeen"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "102:8": {
+                "meta": {
+                    "chapter": 102,
+                    "verse": 8,
+                    "page": 600,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 544,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "thumma||latus'alunna||yawma-idhin||ani||al-na'imi",
+                    "line": "15||15||15||15||15",
+                    "end": "٨",
+                    "end_line": 15,
+                    "id": "kemudian||sungguh kamu akan ditanya||pada hari itu||dari/tetang||kenikmatan",
+                    "ar": "ثُمَّ||لَتُسۡـَٔلُنَّ||يَوۡمَئِذٍ||عَنِ||ٱلنَّعِيمِ",
+                    "en": "Then||surely you will be asked||that Day||about||the pleasures"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Thumma latus-alunna yauma-izin anin na'eem"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

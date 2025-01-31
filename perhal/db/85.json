@@ -1,0 +1,712 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "85:1": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 1,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wal-samai||dhati||al-buruji",
+                    "line": "4||4||4",
+                    "end": "١",
+                    "end_line": 4,
+                    "id": "demi langit||memiliki||gugusan bintang-bintang",
+                    "ar": "وَٱلسَّمَآءِ||ذَاتِ||ٱلۡبُرُوجِ",
+                    "en": "By the sky||containing||the constellations"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wassamaaa'i zaatil burooj"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:2": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 2,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "wal-yawmi||al-maw'udi",
+                    "line": "4||4",
+                    "end": "٢",
+                    "end_line": 4,
+                    "id": "dan hari||dijanjikan",
+                    "ar": "وَٱلۡيَوۡمِ||ٱلۡمَوۡعُودِ",
+                    "en": "And the Day||Promised"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wal-yawmil maw'ood"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:3": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 3,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "washahidin||wamashhudin",
+                    "line": "4||4",
+                    "end": "٣",
+                    "end_line": 4,
+                    "id": "Demi yang menyaksikan||dan yang disaksikan",
+                    "ar": "وَشَاهِدٖ||وَمَشۡهُودٖ",
+                    "en": "And (the) witness||and what is witnessed"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-shaahidinw Wa-mashhood"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:4": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 4,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "qutila||ashabu||al-ukh'dudi",
+                    "line": "5||5||5",
+                    "end": "٤",
+                    "end_line": 5,
+                    "id": "dibunuh/dibinasakan||kaum/orang-orang||pembuat parit",
+                    "ar": "قُتِلَ||أَصۡحَٰبُ||ٱلۡأُخۡدُودِ",
+                    "en": "Destroyed were||(the) companions||(of) the pit"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Qutila as-haabul ukhdood"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:5": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 5,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "al-nari||dhati||al-waqudi",
+                    "line": "5||5||5",
+                    "end": "٥",
+                    "end_line": 5,
+                    "id": "api||mempunyai||kayu bakar",
+                    "ar": "ٱلنَّارِ||ذَاتِ||ٱلۡوَقُودِ",
+                    "en": "(Of) the fire||full||(of) the fuel"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Annaari zaatil waqood"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:6": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 6,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "idh||hum||alayha||qu'udun",
+                    "line": "5||5||5||6",
+                    "end": "٦",
+                    "end_line": 6,
+                    "id": "ketika||mereka||atas mereka||duduk",
+                    "ar": "إِذۡ||هُمۡ||عَلَيۡهَا||قُعُودٞ",
+                    "en": "When||they||by it||(were) sitting"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "iz hum alaihaa qu'ood"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:7": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 7,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "wahum||ala||ma||yaf 'aluna||bil-mu'minina||shuhudun",
+                    "line": "6||6||6||6||6||6",
+                    "end": "٧",
+                    "end_line": 6,
+                    "id": "dan mereka||atas||apa||mereka perbuat||terhadap orang-orang yang beriman||menyaksikan",
+                    "ar": "وَهُمۡ||عَلَىٰ||مَا||يَفۡعَلُونَ||بِٱلۡمُؤۡمِنِينَ||شُهُودٞ",
+                    "en": "And they||over||what||they were doing||to the believers||witnesses"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-hum 'alaa maa yaf'aloona bilmu-'mineena shuhood"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:8": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 8,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "wama||naqamu||min'hum||illa||an||yu'minu||bil-lahi||al-'azizi||al-hamidi",
+                    "line": "6||6||7||7||7||7||7||7||7",
+                    "end": "٨",
+                    "end_line": 7,
+                    "id": "dan tidak||mereka menyiksa||di antara mereka||kecuali||bahwa||mereka beriman||kepada Allah||Maha Perkasa||Maha Terpuji",
+                    "ar": "وَمَا||نَقَمُواْ||مِنۡهُمۡ||إِلَّآ||أَن||يُؤۡمِنُواْ||بِٱللَّهِ||ٱلۡعَزِيزِ||ٱلۡحَمِيدِ",
+                    "en": "And not||they resented||[of] them||except||that||they believed||in Allah||the All-Mighty||the Praiseworthy"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-maa naqamoo minhum illaaa ai yu'minoo billaahil azeezil Hameed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:9": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 9,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 10
+                },
+                "words": {
+                    "transliteration": "alladhi||lahu||mul'ku||al-samawati||wal-ardi||wal-lahu||ala||kulli||shayin||shahidun",
+                    "line": "7||7||7||8||8||8||8||8||8||8",
+                    "end": "٩",
+                    "end_line": 8,
+                    "id": "yang||bagiNya/mempunyai||kerajaan||langit(jamak)||dan bumi||dan Allah||atas||setiap||sesuatu||Maha Menyaksikan",
+                    "ar": "ٱلَّذِي||لَهُۥ||مُلۡكُ||ٱلسَّمَٰوَٰتِ||وَٱلۡأَرۡضِۚ||وَٱللَّهُ||عَلَىٰ||كُلِّ||شَيۡءٖ||شَهِيدٌ",
+                    "en": "The One Who||for Him||(is) the dominion||(of) the heavens||and the earth;||and Allah||on||every||thing||(is) a Witness"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allazee lahoo mulkus samaawaati wal-ard; wallaahu 'alaa kulli shai-'in Shaheed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:10": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 10,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 14
+                },
+                "words": {
+                    "transliteration": "inna||alladhina||fatanu||al-mu'minina||wal-mu'minati||thumma||lam||yatubu||falahum||adhabu||jahannama||walahum||adhabu||al-hariqi",
+                    "line": "8||8||9||9||9||9||9||9||9||9||9||9||10||10",
+                    "end": "١٠",
+                    "end_line": 10,
+                    "id": "sesungguhnya||orang-orang yang||mereka (menfitnah)||orang-orang mu'min (beriman) laki-laki||orang-orang mu'min (beriman) perempuan||kemudian||tidak||bertaubat||maka mereka||siksa/azab||neraka jahanam||dan bagi mereka||siksa/azab||membakar",
+                    "ar": "إِنَّ||ٱلَّذِينَ||فَتَنُواْ||ٱلۡمُؤۡمِنِينَ||وَٱلۡمُؤۡمِنَٰتِ||ثُمَّ||لَمۡ||يَتُوبُواْ||فَلَهُمۡ||عَذَابُ||جَهَنَّمَ||وَلَهُمۡ||عَذَابُ||ٱلۡحَرِيقِ",
+                    "en": "Indeed||those who||persecuted||the believing men||and the believing women||then||not||they repented||then for them||(is) the punishment||(of) Hell||and for them||(is the) punishment||(of) the Burning Fire"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innal lazeena fatanul mu'mineena wal-mu'minaati summa lam yatooboo falahum 'azaabu Jahannama Wa-lahum 'azaabul hareeq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:11": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 11,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 14
+                },
+                "words": {
+                    "transliteration": "inna||alladhina||amanu||wa'amilu||al-salihati||lahum||jannatun||tajri||min||tahtiha||al-anharu||dhalika||al-fawzu||al-kabiru",
+                    "line": "10||10||10||10||10||10||11||11||11||11||11||11||11||11",
+                    "end": "١١",
+                    "end_line": 11,
+                    "id": "sesungguhnya||orang-orang yang||beriman||dan beramal||saleh||bagi mereka||surga||mengalir||dari||bawahnya||sungai||demikian/itu||keberuntungan||besar",
+                    "ar": "إِنَّ||ٱلَّذِينَ||ءَامَنُواْ||وَعَمِلُواْ||ٱلصَّٰلِحَٰتِ||لَهُمۡ||جَنَّٰتٞ||تَجۡرِي||مِن||تَحۡتِهَا||ٱلۡأَنۡهَٰرُۚ||ذَٰلِكَ||ٱلۡفَوۡزُ||ٱلۡكَبِيرُ",
+                    "en": "Indeed||those who||believe||and do||the righteous deeds||for them||(will be) Gardens||flow||from||underneath it||the rivers||That||(is) the success||the great"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innal lazeena aamanoo Wa-'amilus saalihaati lahum Jannaatun tajree min tahtihal anhaar; zaalikal fawzul kabeer"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:12": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 12,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "inna||batsha||rabbika||lashadidun",
+                    "line": "11||11||12||12",
+                    "end": "١٢",
+                    "end_line": 12,
+                    "id": "sesungguhnya||kekuatan (azab)||Tuhanmu||benar-benar/sangat keras",
+                    "ar": "إِنَّ||بَطۡشَ||رَبِّكَ||لَشَدِيدٌ",
+                    "en": "Indeed||(the) Grip||(of) your Lord||(is) surely strong"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "inna batsha Rabbika lashadeed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:13": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 13,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "innahu||huwa||yub'di-u||wayu'idu",
+                    "line": "12||12||12||12",
+                    "end": "١٣",
+                    "end_line": 12,
+                    "id": "sesungguhnya Dia||Dia||Dia memulai menciptakan||dan Dia mengulangi",
+                    "ar": "إِنَّهُۥ||هُوَ||يُبۡدِئُ||وَيُعِيدُ",
+                    "en": "Indeed He||He||originates||and repeats"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innahoo Huwa yubdi'u Wa-yu'eed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:14": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 14,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wahuwa||al-ghafuru||al-wadudu",
+                    "line": "12||12||12",
+                    "end": "١٤",
+                    "end_line": 12,
+                    "id": "dan Dia||Maha Pengampun||Maha Pengasih",
+                    "ar": "وَهُوَ||ٱلۡغَفُورُ||ٱلۡوَدُودُ",
+                    "en": "And He||(is) the Oft-Forgiving||the Most Loving"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-Huwal Ghafoorul Wadood"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:15": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 15,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "dhu||al-'arshi||al-majidu",
+                    "line": "13||13||13",
+                    "end": "١٥",
+                    "end_line": 13,
+                    "id": "memiliki/mempunyai||'Arsy||maha Terpuji/Mulia",
+                    "ar": "ذُو||ٱلۡعَرۡشِ||ٱلۡمَجِيدُ",
+                    "en": "Owner (of)||the Throne||the Glorious"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Zul Arshil Majeed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:16": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 16,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "fa'alun||lima||yuridu",
+                    "line": "13||13||13",
+                    "end": "١٦",
+                    "end_line": 13,
+                    "id": "berbuat||terhadap apa||yang dikehendaki",
+                    "ar": "فَعَّالٞ||لِّمَا||يُرِيدُ",
+                    "en": "Doer||of what||He intends"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fa'-'aalul limaa yureed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:17": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 17,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "hal||ataka||hadithu||al-junudi",
+                    "line": "13||13||13||14",
+                    "end": "١٧",
+                    "end_line": 14,
+                    "id": "apakah||datang kepadamu||berita||bala tentara",
+                    "ar": "هَلۡ||أَتَىٰكَ||حَدِيثُ||ٱلۡجُنُودِ",
+                    "en": "Has||come to you||(the) story||(of) the hosts"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Hal ataaka hadeesul junood"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:18": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 18,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "fir'awna||wathamuda",
+                    "line": "14||14",
+                    "end": "١٨",
+                    "end_line": 14,
+                    "id": "Fir'aun||dan Samud",
+                    "ar": "فِرۡعَوۡنَ||وَثَمُودَ",
+                    "en": "Firaun||and Thamud"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fir'awna Wa-Samood"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:19": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 19,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "bali||alladhina||kafaru||fi||takdhibin",
+                    "line": "14||14||14||14||14",
+                    "end": "١٩",
+                    "end_line": 14,
+                    "id": "bahkan||orang-orang yang||kafir/ingkar||dalam||kedustaan",
+                    "ar": "بَلِ||ٱلَّذِينَ||كَفَرُواْ||فِي||تَكۡذِيبٖ",
+                    "en": "Nay!||Those who||disbelieve||(are) in||denial"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Balil lazeena kafaroo fee takzeeb"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:20": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 20,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wal-lahu||min||waraihim||muhitun",
+                    "line": "14||15||15||15",
+                    "end": "٢٠",
+                    "end_line": 15,
+                    "id": "dan Allah||dari||belakang mereka||meliputi/mengepung",
+                    "ar": "وَٱللَّهُ||مِن||وَرَآئِهِم||مُّحِيطُۢ",
+                    "en": "But Allah||from||behind them||encompasses"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wallaahu minw waraaa'ihim muheet"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:21": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 21,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "bal||huwa||qur'anun||majidun",
+                    "line": "15||15||15||15",
+                    "end": "٢١",
+                    "end_line": 15,
+                    "id": "bahkan||dia||Quran||agung/mulia",
+                    "ar": "بَلۡ||هُوَ||قُرۡءَانٞ||مَّجِيدٞ",
+                    "en": "Nay!||It||(is) a Quran||Glorious"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Bal huwa Quraanum Majeed"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "85:22": {
+                "meta": {
+                    "chapter": 85,
+                    "verse": 22,
+                    "page": 590,
+                    "juz": 30,
+                    "hizb": 236,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "fi||lawhin||mahfuzin",
+                    "line": "15||15||15",
+                    "end": "٢٢",
+                    "end_line": 15,
+                    "id": "pada||papan/batu tulis||terpelihara",
+                    "ar": "فِي||لَوۡحٖ||مَّحۡفُوظِۭ",
+                    "en": "In||a Tablet||Guarded"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fee Lawhim Mahfooz"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

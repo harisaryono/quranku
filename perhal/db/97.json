@@ -1,0 +1,168 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "97:1": {
+                "meta": {
+                    "chapter": 97,
+                    "verse": 1,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 539,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "inna||anzalnahu||fi||laylati||al-qadri",
+                    "line": "6||6||6||6||6",
+                    "end": "١",
+                    "end_line": 6,
+                    "id": "sesungguhnya||Kami telah menurunkannya||pada||malam||kemuliaan",
+                    "ar": "إِنَّآ||أَنزَلۡنَٰهُ||فِي||لَيۡلَةِ||ٱلۡقَدۡرِ",
+                    "en": "Indeed We||revealed it||in||(the) Night||(of) Power"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innaa anzalnaahu fee lailatil qadr"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "97:2": {
+                "meta": {
+                    "chapter": 97,
+                    "verse": 2,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 539,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "wama||adraka||ma||laylatu||al-qadri",
+                    "line": "6||6||6||6||6",
+                    "end": "٢",
+                    "end_line": 6,
+                    "id": "dan apakah||kamu tahu||apa||malam||kemuliaan",
+                    "ar": "وَمَآ||أَدۡرَىٰكَ||مَا||لَيۡلَةُ||ٱلۡقَدۡرِ",
+                    "en": "And what||can make you know||what||(the) Night||(of) Power (is)"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-maa adraaka ma lailatul qadr"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "97:3": {
+                "meta": {
+                    "chapter": 97,
+                    "verse": 3,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 539,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "laylatu||al-qadri||khayrun||min||alfi||shahrin",
+                    "line": "7||7||7||7||7||7",
+                    "end": "٣",
+                    "end_line": 7,
+                    "id": "malam||kemuliaan||lebih baik||dari||seribu||bulan",
+                    "ar": "لَيۡلَةُ||ٱلۡقَدۡرِ||خَيۡرٞ||مِّنۡ||أَلۡفِ||شَهۡرٖ",
+                    "en": "(The) Night||(of) Power||(is) better||than||a thousand||month(s)"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Lailatul qadri khairum min alfee shahr"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "97:4": {
+                "meta": {
+                    "chapter": 97,
+                    "verse": 4,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 539,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "tanazzalu||al-malaikatu||wal-ruhu||fiha||bi-idh'ni||rabbihim||min||kulli||amrin",
+                    "line": "7||7||7||7||8||8||8||8||8",
+                    "end": "٤",
+                    "end_line": 8,
+                    "id": "turun||para malaikat||dan Roh/Jibril||padanya/pada malam||dengan izin||Tuhannya||dari||segala||urusan",
+                    "ar": "تَنَزَّلُ||ٱلۡمَلَٰٓئِكَةُ||وَٱلرُّوحُ||فِيهَا||بِإِذۡنِ||رَبِّهِم||مِّن||كُلِّ||أَمۡرٖ",
+                    "en": "Descend||the Angels||and the Spirit||therein||by (the) permission||(of) their Lord||for||every||affair"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Tanaz-zalul malaa-ikatu war-roohu feeha bi-izni rab-bihim min kulli amr"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "97:5": {
+                "meta": {
+                    "chapter": 97,
+                    "verse": 5,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 539,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "salamun||hiya||hatta||matla'i||al-fajri",
+                    "line": "8||8||8||8||8",
+                    "end": "٥",
+                    "end_line": 8,
+                    "id": "sejahtera||ia/malam itu||hingga||terbit||fajar",
+                    "ar": "سَلَٰمٌ||هِيَ||حَتَّىٰ||مَطۡلَعِ||ٱلۡفَجۡرِ",
+                    "en": "Peace||it (is)||until||(the) emergence||(of) the dawn"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Salaamun hiya hattaa mat-la'il fajr"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

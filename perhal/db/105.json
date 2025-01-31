@@ -1,0 +1,168 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "105:1": {
+                "meta": {
+                    "chapter": 105,
+                    "verse": 1,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 547,
+                    "words": 7
+                },
+                "words": {
+                    "transliteration": "alam||tara||kayfa||fa'ala||rabbuka||bi-ashabi||al-fili",
+                    "line": "13||13||13||13||13||13||13",
+                    "end": "١",
+                    "end_line": 13,
+                    "id": "apakah tidak||kamu perhatikan||bagaimana||berbuat/bertindak||Tuhanmu||terhadap golongan (tentara)||gajah",
+                    "ar": "أَلَمۡ||تَرَ||كَيۡفَ||فَعَلَ||رَبُّكَ||بِأَصۡحَٰبِ||ٱلۡفِيلِ",
+                    "en": "Have not||you seen||how||dealt||your Lord||with (the) Companions||(of the) Elephant"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Alam tara kaifa fa'ala rabbuka bi-ashaabil feel"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "105:2": {
+                "meta": {
+                    "chapter": 105,
+                    "verse": 2,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 547,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "alam||yaj'al||kaydahum||fi||tadlilin",
+                    "line": "13||13||14||14||14",
+                    "end": "٢",
+                    "end_line": 14,
+                    "id": "apakah tidak||Dia jadikan||tipu daya mereka||dalam||kesesatan/sia-sia",
+                    "ar": "أَلَمۡ||يَجۡعَلۡ||كَيۡدَهُمۡ||فِي||تَضۡلِيلٖ",
+                    "en": "Did not||He make||their plan||go||astray"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Alam yaj'al kaidahum fee tadleel"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "105:3": {
+                "meta": {
+                    "chapter": 105,
+                    "verse": 3,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 547,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wa-arsala||alayhim||tayran||ababila",
+                    "line": "14||14||14||14",
+                    "end": "٣",
+                    "end_line": 14,
+                    "id": "dan Dia mengirimkan||kepada mereka||burung||yang berbondong-bondong",
+                    "ar": "وَأَرۡسَلَ||عَلَيۡهِمۡ||طَيۡرًا||أَبَابِيلَ",
+                    "en": "And He sent||against them||birds||(in) flocks"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-arsala alaihim tairan abaabeel"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "105:4": {
+                "meta": {
+                    "chapter": 105,
+                    "verse": 4,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 547,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "tarmihim||bihijaratin||min||sijjilin",
+                    "line": "15||15||15||15",
+                    "end": "٤",
+                    "end_line": 15,
+                    "id": "yang melempari mereka||dengan batu-batu||dari||tanah keras/terbakar",
+                    "ar": "تَرۡمِيهِم||بِحِجَارَةٖ||مِّن||سِجِّيلٖ",
+                    "en": "Striking them||with stones||of||baked clay"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Tarmeehim bihijaaratim min sijjeel"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "105:5": {
+                "meta": {
+                    "chapter": 105,
+                    "verse": 5,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 547,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "faja'alahum||ka'asfin||makulin",
+                    "line": "15||15||15",
+                    "end": "٥",
+                    "end_line": 15,
+                    "id": "lalu Dia menjadikan mereka||seperti daun||dimakan",
+                    "ar": "فَجَعَلَهُمۡ||كَعَصۡفٖ||مَّأۡكُولِۭ",
+                    "en": "Then He made them||like straw||eaten up"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Faja-'alahum ka'asfim m'akool"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

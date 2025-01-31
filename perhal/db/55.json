@@ -1,0 +1,2504 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "55:1": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 1,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 1
+                },
+                "words": {
+                    "transliteration": "al-rahmanu",
+                    "line": "7",
+                    "end": "١",
+                    "end_line": 7,
+                    "id": "Yang Maha Pengasih",
+                    "ar": "ٱلرَّحۡمَٰنُ",
+                    "en": "The Most Gracious"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ar-Rahmaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:2": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 2,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "allama||al-qur'ana",
+                    "line": "7||7",
+                    "end": "٢",
+                    "end_line": 7,
+                    "id": "Dia telah mengajarkan||Al Quran",
+                    "ar": "عَلَّمَ||ٱلۡقُرۡءَانَ",
+                    "en": "He taught||the Quran"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "'Allamal Quran"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:3": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 3,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "khalaqa||al-insana",
+                    "line": "7||7",
+                    "end": "٣",
+                    "end_line": 7,
+                    "id": "Dia telah menciptakan||manusia",
+                    "ar": "خَلَقَ||ٱلۡإِنسَٰنَ",
+                    "en": "He created||[the] man"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Khalaqal insaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:4": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 4,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "allamahu||al-bayana",
+                    "line": "7||7",
+                    "end": "٤",
+                    "end_line": 7,
+                    "id": "Dia mengajarkannya||jelas/terang",
+                    "ar": "عَلَّمَهُ||ٱلۡبَيَانَ",
+                    "en": "He taught him||[the] speech"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "'Allamahul bayaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:5": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 5,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "al-shamsu||wal-qamaru||bihus'banin",
+                    "line": "8||8||8",
+                    "end": "٥",
+                    "end_line": 8,
+                    "id": "matahari||dan bulan||dengan/menurut perhitungan",
+                    "ar": "ٱلشَّمۡسُ||وَٱلۡقَمَرُ||بِحُسۡبَانٖ",
+                    "en": "The sun||and the moon||by (precise) calculation"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ashshamsu walqamaru bihusbaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:6": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 6,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wal-najmu||wal-shajaru||yasjudani",
+                    "line": "8||8||8",
+                    "end": "٦",
+                    "end_line": 8,
+                    "id": "dan bintang/tumbuh-tumbuhan||dan pohon-pohonan||keduanya tunduk/sujud",
+                    "ar": "وَٱلنَّجۡمُ||وَٱلشَّجَرُ||يَسۡجُدَانِ",
+                    "en": "And the stars||and the trees||both prostrate"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wannajmu washshajaru yasjudan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:7": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 7,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wal-samaa||rafa'aha||wawada'a||al-mizana",
+                    "line": "9||9||9||9",
+                    "end": "٧",
+                    "end_line": 9,
+                    "id": "dan langit||Dia tinggikannya||dan Dia letakkan||timbangan",
+                    "ar": "وَٱلسَّمَآءَ||رَفَعَهَا||وَوَضَعَ||ٱلۡمِيزَانَ",
+                    "en": "And the heaven||He raised it||and He has set up||the balance"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wassamaaa'a rafa'ahaa Wa-wada'al Meezan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:8": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 8,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "alla||tatghaw||fi||al-mizani",
+                    "line": "9||9||9||9",
+                    "end": "٨",
+                    "end_line": 9,
+                    "id": "supaya jangan||kamu melampui batas||dalam||neraca/timbangan",
+                    "ar": "أَلَّا||تَطۡغَوۡاْ||فِي||ٱلۡمِيزَانِ",
+                    "en": "That not||you may transgress||in||the balance"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Allaa tatghaw fil meezaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:9": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 9,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "wa-aqimu||al-wazna||bil-qis'ti||wala||tukh'siru||al-mizana",
+                    "line": "10||10||10||10||10||10",
+                    "end": "٩",
+                    "end_line": 10,
+                    "id": "dan dirikanlah||neraca/timbangan||dengan adil||dan janganlah||kamu mengurangi||neraca/timbangan",
+                    "ar": "وَأَقِيمُواْ||ٱلۡوَزۡنَ||بِٱلۡقِسۡطِ||وَلَا||تُخۡسِرُواْ||ٱلۡمِيزَانَ",
+                    "en": "And establish||the weight||in justice||and (do) not||make deficient||the balance"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-aqeemul wazna bilqisti Wa-laa tukhsirul meezaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:10": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 10,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wal-arda||wada'aha||lil'anami",
+                    "line": "10||11||11",
+                    "end": "١٠",
+                    "end_line": 11,
+                    "id": "dan bumi||Dia letakkan/hamparkannya||untuk makhluk",
+                    "ar": "وَٱلۡأَرۡضَ||وَضَعَهَا||لِلۡأَنَامِ",
+                    "en": "And the earth||He laid it||for the creatures"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wal-arda wada'ahaa lilanaam"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:11": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 11,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "fiha||fakihatun||wal-nakhlu||dhatu||al-akmami",
+                    "line": "11||11||11||11||11",
+                    "end": "١١",
+                    "end_line": 11,
+                    "id": "didalamnya/padanya||buah-buahan||dan pohon kurma||yang mempunyai||kelopak mayang",
+                    "ar": "فِيهَا||فَٰكِهَةٞ||وَٱلنَّخۡلُ||ذَاتُ||ٱلۡأَكۡمَامِ",
+                    "en": "Therein||(is) fruit||and date-palms||having||sheaths"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Feehaa faakihatunw wan-nakhlu zaatul akmaam"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:12": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 12,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "wal-habu||dhu||al-'asfi||wal-rayhanu",
+                    "line": "12||12||12||12",
+                    "end": "١٢",
+                    "end_line": 12,
+                    "id": "dan biji-bijian||mempunyai||kulit||dan harum baunya",
+                    "ar": "وَٱلۡحَبُّ||ذُو||ٱلۡعَصۡفِ||وَٱلرَّيۡحَانُ",
+                    "en": "And the grain||having||husk||and scented plants"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Walhabbu zul asfi war-Raihaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:13": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 13,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "12||12||12||12",
+                    "end": "١٣",
+                    "end_line": 12,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:14": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 14,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "khalaqa||al-insana||min||salsalin||kal-fakhari",
+                    "line": "13||13||13||13||13",
+                    "end": "١٤",
+                    "end_line": 13,
+                    "id": "Dia menciptakan||manusia||dari||tanah liat||seperti tembikar",
+                    "ar": "خَلَقَ||ٱلۡإِنسَٰنَ||مِن||صَلۡصَٰلٖ||كَٱلۡفَخَّارِ",
+                    "en": "He created||the man||from||clay||like the pottery"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Khalaqal insaana min salsaalin kalfakhkhaar"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:15": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 15,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "wakhalaqa||al-jana||min||marijin||min||narin",
+                    "line": "13||13||13||14||14||14",
+                    "end": "١٥",
+                    "end_line": 14,
+                    "id": "dan Dia menciptakan||jin||dari||nyala api||dari||api",
+                    "ar": "وَخَلَقَ||ٱلۡجَآنَّ||مِن||مَّارِجٖ||مِّن||نَّارٖ",
+                    "en": "And He created||the jinn||from||a smokeless flame||of||fire"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-khalaqal jaaan mim maarijim min naar"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:16": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 16,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "14||14||14||14",
+                    "end": "١٦",
+                    "end_line": 14,
+                    "id": "maka yang mana||ni'mat||Tuhan kamu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:17": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 17,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "rabbu||al-mashriqayni||warabbu||al-maghribayni",
+                    "line": "14||15||15||15",
+                    "end": "١٧",
+                    "end_line": 15,
+                    "id": "Tuhan/Pemelihara||dua timur/dua tempat terbit matahari||dan Tuhan/Pemelihara||dua barat/dua tempat terbenamnya matahari",
+                    "ar": "رَبُّ||ٱلۡمَشۡرِقَيۡنِ||وَرَبُّ||ٱلۡمَغۡرِبَيۡنِ",
+                    "en": "Lord||(of) the two Easts||and Lord||(of) the two Wests"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Rabbul mashriqayni Wa-Rabbul maghribayn"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:18": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 18,
+                    "page": 531,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "15||15||15||15",
+                    "end": "١٨",
+                    "end_line": 15,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:19": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 19,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "maraja||al-bahrayni||yaltaqiyani",
+                    "line": "1||1||1",
+                    "end": "١٩",
+                    "end_line": 1,
+                    "id": "Dia alirkan||dua lautan||keduanya bertemu",
+                    "ar": "مَرَجَ||ٱلۡبَحۡرَيۡنِ||يَلۡتَقِيَانِ",
+                    "en": "He released||the two seas||meeting"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Marajal bahrayni yalta-qiyaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:20": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 20,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "baynahuma||barzakhun||la||yabghiyani",
+                    "line": "1||1||1||1",
+                    "end": "٢٠",
+                    "end_line": 1,
+                    "id": "diantara keduanya||batas||tidak||keduanya melampui",
+                    "ar": "بَيۡنَهُمَا||بَرۡزَخٞ||لَّا||يَبۡغِيَانِ",
+                    "en": "Between both of them||(is) a barrier||not||they transgress"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Bainahumaa barzakhul laa yabghiyaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:21": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 21,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "1||1||2||2",
+                    "end": "٢١",
+                    "end_line": 2,
+                    "id": "maka yang mana||nikmat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:22": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 22,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "yakhruju||min'huma||al-u'lu-u||wal-marjanu",
+                    "line": "2||2||2||2",
+                    "end": "٢٢",
+                    "end_line": 2,
+                    "id": "keluar||dari keduanya||mutiara||dan marjan",
+                    "ar": "يَخۡرُجُ||مِنۡهُمَا||ٱللُّؤۡلُؤُ||وَٱلۡمَرۡجَانُ",
+                    "en": "Come forth||from both of them||the pearl||and the coral"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yakhruju minhumal lu-'lu-u wal-marjaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:23": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 23,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "2||2||3||3",
+                    "end": "٢٣",
+                    "end_line": 3,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua mendustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:24": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 24,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "walahu||al-jawari||al-munshaatu||fi||al-bahri||kal-a'lami",
+                    "line": "3||3||3||3||3||3",
+                    "end": "٢٤",
+                    "end_line": 3,
+                    "id": "dan bagi-Nya||kapal-kapal||yang timbul/tinggi||pada||lautan||laksana gunung-gunung",
+                    "ar": "وَلَهُ||ٱلۡجَوَارِ||ٱلۡمُنشَـَٔاتُ||فِي||ٱلۡبَحۡرِ||كَٱلۡأَعۡلَٰمِ",
+                    "en": "And for Him||(are) the ships||elevated||in||the sea||like mountains"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-lahul jawaaril mun-sha'aatu fil bahri kal-a'laam"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:25": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 25,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "4||4||4||4",
+                    "end": "٢٥",
+                    "end_line": 4,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:26": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 26,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "kullu||man||alayha||fanin",
+                    "line": "4||4||4||4",
+                    "end": "٢٦",
+                    "end_line": 4,
+                    "id": "tiap-tiap/segala||siapa/apa||atasnya||binasa",
+                    "ar": "كُلُّ||مَنۡ||عَلَيۡهَا||فَانٖ",
+                    "en": "Everyone||who||(is) on it||(will) perish"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Kullu man alaihaa faan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:27": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 27,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "wayabqa||wajhu||rabbika||dhu||al-jalali||wal-ik'rami",
+                    "line": "4||4||5||5||5||5",
+                    "end": "٢٧",
+                    "end_line": 5,
+                    "id": "dan tetap/kekal||wajah/zat||Tuhanmu||mempunyai||kebesaran||dan kemuliaan",
+                    "ar": "وَيَبۡقَىٰ||وَجۡهُ||رَبِّكَ||ذُو||ٱلۡجَلَٰلِ||وَٱلۡإِكۡرَامِ",
+                    "en": "But will remain||(the) Face||(of) your Lord||(the) Owner||(of) Majesty||and Honor"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-yabqaa wajhu rabbika zul jalaali wal-ikraam"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:28": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 28,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "5||5||5||5",
+                    "end": "٢٨",
+                    "end_line": 5,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:29": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 29,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 10
+                },
+                "words": {
+                    "transliteration": "yasaluhu||man||fi||al-samawati||wal-ardi||kulla||yawmin||huwa||fi||shanin",
+                    "line": "6||6||6||6||6||6||6||6||6||6",
+                    "end": "٢٩",
+                    "end_line": 6,
+                    "id": "akan meminta kepada-Nya||orang/makhluk||pada||langit(jamak)||dan bumi||setiap||hari||Dia||pada||kesibukan/urusan",
+                    "ar": "يَسۡـَٔلُهُۥ||مَن||فِي||ٱلسَّمَٰوَٰتِ||وَٱلۡأَرۡضِۚ||كُلَّ||يَوۡمٍ||هُوَ||فِي||شَأۡنٖ",
+                    "en": "Asks Him||whoever||(is) in||the heavens||and the earth||Every||day||He||(is) in||a matter"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yas'aluhoo man fis samaawaati walard; kulla yawmin huwa fee shaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:30": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 30,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "6||7||7||7",
+                    "end": "٣٠",
+                    "end_line": 7,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:31": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 31,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "sanafrughu||lakum||ayyuha||al-thaqalani",
+                    "line": "7||7||7||7",
+                    "end": "٣١",
+                    "end_line": 7,
+                    "id": "Kami akan berurusan/bertindak||bagi kalian||wahai||manusia dan jin",
+                    "ar": "سَنَفۡرُغُ||لَكُمۡ||أَيُّهَ||ٱلثَّقَلَانِ",
+                    "en": "Soon We will attend||to you||O you||two classes!"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Sanafrughu lakum ayyuhas saqalaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:32": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 32,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "7||8||8||8",
+                    "end": "٣٢",
+                    "end_line": 8,
+                    "id": "maka yang mana||nikmat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:33": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 33,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 16
+                },
+                "words": {
+                    "transliteration": "yama'shara||al-jini||wal-insi||ini||is'tata'tum||an||tanfudhu||min||aqtari||al-samawati||wal-ardi||fa-unfudhu||la||tanfudhuna||illa||bisul'tanin",
+                    "line": "8||8||8||8||8||9||9||9||9||9||9||9||9||9||10||10",
+                    "end": "٣٣",
+                    "end_line": 10,
+                    "id": "hai jama'ah||jin||dan manusia||jika||kamu mampu/sanggup||bahwa||kamu menembus/melintasi||dari||penjuru||langit(jamak)||dan bumi||maka tembuslah/lintasilah||tidak||kamu menembusnya||kecuali||dengan kekuasaan/kekuatan",
+                    "ar": "يَٰمَعۡشَرَ||ٱلۡجِنِّ||وَٱلۡإِنسِ||إِنِ||ٱسۡتَطَعۡتُمۡ||أَن||تَنفُذُواْ||مِنۡ||أَقۡطَارِ||ٱلسَّمَٰوَٰتِ||وَٱلۡأَرۡضِ||فَٱنفُذُواْۚ||لَا||تَنفُذُونَ||إِلَّا||بِسُلۡطَٰنٖ",
+                    "en": "O assembly||(of) the jinn||and the men!||If||you are able||to||pass beyond||[of]||(the) regions||(of) the heavens||and the earth||then pass||Not||you (can) pass||except||by authority"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yaa-ma'sharal jinni wal-insi inis tata'tum an tanfuzoo min aqtaaris samaawaati wal-ardi fanfuzoo; laa tanfuzoona illaa bisultaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:34": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 34,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "10||10||10||10",
+                    "end": "٣٤",
+                    "end_line": 10,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:35": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 35,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 8
+                },
+                "words": {
+                    "transliteration": "yur'salu||alaykuma||shuwazun||min||narin||wanuhasun||fala||tantasirani",
+                    "line": "10||10||11||11||11||11||11||11",
+                    "end": "٣٥",
+                    "end_line": 11,
+                    "id": "akan dikirimkan||atas kamu berdua||nyala||dari||api||dan cairan tembaga||maka tidak||kamu berdua menolong/menyelamatkan diri",
+                    "ar": "يُرۡسَلُ||عَلَيۡكُمَا||شُوَاظٞ||مِّن||نَّارٖ||وَنُحَاسٞ||فَلَا||تَنتَصِرَانِ",
+                    "en": "Will be sent||against both of you||a flame||of||fire||and smoke||and not||you will (be able to) defend yourselves"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yursalu alaikumaa shuwaazum min naarinw-wa nuhaasun falaa tantasiraan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:36": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 36,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "11||11||11||12",
+                    "end": "٣٦",
+                    "end_line": 12,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:37": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 37,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "fa-idha||inshaqqati||al-samau||fakanat||wardatan||kal-dihani",
+                    "line": "12||12||12||12||12||12",
+                    "end": "٣٧",
+                    "end_line": 12,
+                    "id": "maka apabila||terbelah||langit||lalu adalah/menjadi ia||mawar merah||seperti minyak",
+                    "ar": "فَإِذَا||ٱنشَقَّتِ||ٱلسَّمَآءُ||فَكَانَتۡ||وَرۡدَةٗ||كَٱلدِّهَانِ",
+                    "en": "Then when||is split||the heaven||and it becomes||rose-colored||like murky oil"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fa-izan shaqqatis samaaa'u fakaanat wardatan kaddihaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:38": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 38,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "13||13||13||13",
+                    "end": "٣٨",
+                    "end_line": 13,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:39": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 39,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 8
+                },
+                "words": {
+                    "transliteration": "fayawma-idhin||la||yus'alu||an||dhanbihi||insun||wala||jannun",
+                    "line": "13||13||13||13||14||14||14||14",
+                    "end": "٣٩",
+                    "end_line": 14,
+                    "id": "maka pada hari itu||tidak||ditanya||atas||dosanya||manusia||dan tidak||jin",
+                    "ar": "فَيَوۡمَئِذٖ||لَّا||يُسۡـَٔلُ||عَن||ذَنۢبِهِۦٓ||إِنسٞ||وَلَا||جَآنّٞ",
+                    "en": "Then on that Day||not||will be asked||about||his sin||any man||and not||any jinn"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fa-yawma'izil laa yus'alu 'an zambiheee insunw Wa-laa jaann"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:40": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 40,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "14||14||14||14",
+                    "end": "٤٠",
+                    "end_line": 14,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:41": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 41,
+                    "page": 532,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "yu'rafu||al-muj'rimuna||bisimahum||fayu'khadhu||bil-nawasi||wal-aqdami",
+                    "line": "15||15||15||15||15||15",
+                    "end": "٤١",
+                    "end_line": 15,
+                    "id": "diketahui/dikenal||orang-orang yang berdosa||dengan tanda-tanda mereka||lalu dipegang/diambil||dengan umbun-umbun||dan kaki-kaki",
+                    "ar": "يُعۡرَفُ||ٱلۡمُجۡرِمُونَ||بِسِيمَٰهُمۡ||فَيُؤۡخَذُ||بِٱلنَّوَٰصِي||وَٱلۡأَقۡدَامِ",
+                    "en": "Will be known||the criminals||by their marks||and will be seized||by the forelocks||and the feet"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yu'raful mujrimoona biseemaahum fa'yu'khazu binna-waasi wal-aqdaam"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:42": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 42,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "1||1||1||1",
+                    "end": "٤٢",
+                    "end_line": 1,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:43": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 43,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "hadhihi||jahannamu||allati||yukadhibu||biha||al-muj'rimuna",
+                    "line": "1||1||1||1||1||2",
+                    "end": "٤٣",
+                    "end_line": 2,
+                    "id": "inilah||neraka jahanam||yang||mendustakan||dengannya/padanya||orang-orang yang berdosa",
+                    "ar": "هَٰذِهِۦ||جَهَنَّمُ||ٱلَّتِي||يُكَذِّبُ||بِهَا||ٱلۡمُجۡرِمُونَ",
+                    "en": "This||(is) Hell||which||deny||[of it]||the criminals"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Haazihee jahannamul latee yukazzibu bihal mujrimoon"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:44": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 44,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "yatufuna||baynaha||wabayna||hamimin||anin",
+                    "line": "2||2||2||2||2",
+                    "end": "٤٤",
+                    "end_line": 2,
+                    "id": "mereka berkeliling||diantaranya||dan antara||air mendidih||sangat panas",
+                    "ar": "يَطُوفُونَ||بَيۡنَهَا||وَبَيۡنَ||حَمِيمٍ||ءَانٖ",
+                    "en": "They will go around||between it||and between||scalding water||heated"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Yatoofoona bainahaa Wa-baina hameemim aan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:45": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 45,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "2||2||3||3",
+                    "end": "٤٥",
+                    "end_line": 3,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:46": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 46,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "waliman||khafa||maqama||rabbihi||jannatani",
+                    "line": "3||3||3||3||3",
+                    "end": "٤٦",
+                    "end_line": 3,
+                    "id": "dan bagi orang||ia takut||tempat berdiri/menghadap||Tuhannya||dan surga",
+                    "ar": "وَلِمَنۡ||خَافَ||مَقَامَ||رَبِّهِۦ||جَنَّتَانِ",
+                    "en": "But for (him) who||fears||(the) standing||(before) his Lord||(are) two gardens"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-liman khaafa maqaama rabbihee jannataan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:47": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 47,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "3||3||4||4",
+                    "end": "٤٧",
+                    "end_line": 4,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:48": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 48,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "dhawata||afnanin",
+                    "line": "4||4",
+                    "end": "٤٨",
+                    "end_line": 4,
+                    "id": "keduanya mempunyai||bermacam-macam ragam",
+                    "ar": "ذَوَاتَآ||أَفۡنَانٖ",
+                    "en": "Having||branches"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Zawaataaa afnaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:49": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 49,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "4||4||4||4",
+                    "end": "٤٩",
+                    "end_line": 4,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:50": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 50,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "fihima||aynani||tajriyani",
+                    "line": "5||5||5",
+                    "end": "٥٠",
+                    "end_line": 5,
+                    "id": "didalam keduanya||dua mata air||mengalir keduanya",
+                    "ar": "فِيهِمَا||عَيۡنَانِ||تَجۡرِيَانِ",
+                    "en": "In both of them||(are) two springs||flowing"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Feehimaa aynaani tajriyaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:51": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 51,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "5||5||5||5",
+                    "end": "٥١",
+                    "end_line": 5,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:52": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 52,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "fihima||min||kulli||fakihatin||zawjani",
+                    "line": "5||6||6||6||6",
+                    "end": "٥٢",
+                    "end_line": 6,
+                    "id": "di dalam keduanya||dari||setiap/segala||buah-buahan||berpasangan",
+                    "ar": "فِيهِمَا||مِن||كُلِّ||فَٰكِهَةٖ||زَوۡجَانِ",
+                    "en": "In both of them||[of]||(are) every||fruits||(in) pairs"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Feehimaa min kulli faakihatin zawjaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:53": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 53,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "6||6||6||6",
+                    "end": "٥٣",
+                    "end_line": 6,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:54": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 54,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "muttakiina||ala||furushin||batainuha||min||is'tabraqin||wajana||al-janatayni||danin",
+                    "line": "6||7||7||7||7||7||7||7||7",
+                    "end": "٥٤",
+                    "end_line": 7,
+                    "id": "mereka bersandar||atas||permadani||sebelah dalamnya||dari||sutera||dan memetik||dua surga||dekat",
+                    "ar": "مُتَّكِـِٔينَ||عَلَىٰ||فُرُشِۭ||بَطَآئِنُهَا||مِنۡ||إِسۡتَبۡرَقٖۚ||وَجَنَى||ٱلۡجَنَّتَيۡنِ||دَانٖ",
+                    "en": "Reclining||on||couches||(whose) inner linings||(are) of||brocade||and (the) fruit||(of) both the gardens||(is) near"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Muttaki'eena 'alaa furushim bataaa'inuhaa min istabraq; wajanal jannataini daan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:55": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 55,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "7||8||8||8",
+                    "end": "٥٥",
+                    "end_line": 8,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:56": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 56,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "fihinna||qasiratu||al-tarfi||lam||yatmith'hunna||insun||qablahum||wala||jannun",
+                    "line": "8||8||8||8||8||9||9||9||9",
+                    "end": "٥٦",
+                    "end_line": 9,
+                    "id": "didalammya mereka (bidadari)||pendek/menundukkan||pandangan||tidak||menyetentuh mereka||manusia||sebelum mereka||dan tidak||jin",
+                    "ar": "فِيهِنَّ||قَٰصِرَٰتُ||ٱلطَّرۡفِ||لَمۡ||يَطۡمِثۡهُنَّ||إِنسٞ||قَبۡلَهُمۡ||وَلَا||جَآنّٞ",
+                    "en": "In them||(will be) companions of modest gaze||(will be) companions of modest gaze||not||has touched them||any man||before them||and not||any jinn"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Feehinna qaasiratut tarfi lam yatmishunna insun qablahum Wa-laa jaaann"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:57": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 57,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "9||9||9||9",
+                    "end": "٥٧",
+                    "end_line": 9,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:58": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 58,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "ka-annahunna||al-yaqutu||wal-marjanu",
+                    "line": "9||10||10",
+                    "end": "٥٨",
+                    "end_line": 10,
+                    "id": "seakan-akan mereka||yakut||dan marjan",
+                    "ar": "كَأَنَّهُنَّ||ٱلۡيَاقُوتُ||وَٱلۡمَرۡجَانُ",
+                    "en": "As if they were||rubies||and coral"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ka-annahunnal yaaqootu wal-marjaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:59": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 59,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "10||10||10||10",
+                    "end": "٥٩",
+                    "end_line": 10,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:60": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 60,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "hal||jazau||al-ih'sani||illa||al-ih'sanu",
+                    "line": "11||11||11||11||11",
+                    "end": "٦٠",
+                    "end_line": 11,
+                    "id": "bukankah||balasan||kebaikan||kecuali||kebaikan",
+                    "ar": "هَلۡ||جَزَآءُ||ٱلۡإِحۡسَٰنِ||إِلَّا||ٱلۡإِحۡسَٰنُ",
+                    "en": "Is||(the) reward||for the good||but||good"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Hal jazaaa'ul ihsaani illal ihsaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:61": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 61,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "11||11||11||12",
+                    "end": "٦١",
+                    "end_line": 12,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:62": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 62,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "wamin||dunihima||jannatani",
+                    "line": "12||12||12",
+                    "end": "٦٢",
+                    "end_line": 12,
+                    "id": "dan dari||selain keduanya||dua surga",
+                    "ar": "وَمِن||دُونِهِمَا||جَنَّتَانِ",
+                    "en": "Besides these two||Besides these two||(are) two gardens"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wa-min doonihimaa jannataan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:63": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 63,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "12||12||12||13",
+                    "end": "٦٣",
+                    "end_line": 13,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:64": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 64,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 1
+                },
+                "words": {
+                    "transliteration": "mud'hammatani",
+                    "line": "13",
+                    "end": "٦٤",
+                    "end_line": 13,
+                    "id": "keduanya hijau tua",
+                    "ar": "مُدۡهَآمَّتَانِ",
+                    "en": "Dark green"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Mudhaaammataan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:65": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 65,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "13||13||13||13",
+                    "end": "٦٥",
+                    "end_line": 13,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:66": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 66,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "fihima||aynani||naddakhatani",
+                    "line": "14||14||14",
+                    "end": "٦٦",
+                    "end_line": 14,
+                    "id": "di dalam keduanya||dua mata air||memancarkan keduanya",
+                    "ar": "فِيهِمَا||عَيۡنَانِ||نَضَّاخَتَانِ",
+                    "en": "In both of them||(are) two springs||gushing forth"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Feehimaa aynaani nad-daakhataan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:67": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 67,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "14||14||14||14",
+                    "end": "٦٧",
+                    "end_line": 14,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:68": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 68,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fihima||fakihatun||wanakhlun||warummanun",
+                    "line": "15||15||15||15",
+                    "end": "٦٨",
+                    "end_line": 15,
+                    "id": "di dalam keduanya||buah-buahan||dan kurma||dan delima",
+                    "ar": "فِيهِمَا||فَٰكِهَةٞ||وَنَخۡلٞ||وَرُمَّانٞ",
+                    "en": "In both of them||(are) fruits||and date-palms||and pomegranates"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Feehimaa faakihatunw Wa-nakhlunw Wa-rummaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:69": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 69,
+                    "page": 533,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "15||15||15||15",
+                    "end": "٦٩",
+                    "end_line": 15,
+                    "id": "maka yang mana||nikmat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:70": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 70,
+                    "page": 534,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "fihinna||khayratun||hisanun",
+                    "line": "1||1||1",
+                    "end": "٧٠",
+                    "end_line": 1,
+                    "id": "di dalamnya mereka||baik-baik||bagus-bagus/cantik-cantik",
+                    "ar": "فِيهِنَّ||خَيۡرَٰتٌ||حِسَانٞ",
+                    "en": "In them||(are) good||and beautiful ones"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Feehinna khairaatun hisaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:71": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 71,
+                    "page": 534,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "1||1||1||1",
+                    "end": "٧١",
+                    "end_line": 1,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:72": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 72,
+                    "page": 534,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "hurun||maqsuratun||fi||al-khiyami",
+                    "line": "2||2||2||2",
+                    "end": "٧٢",
+                    "end_line": 2,
+                    "id": "yang putih/jelita||tersimpan/terpingit||dalam||mahligai/rumah",
+                    "ar": "حُورٞ||مَّقۡصُورَٰتٞ||فِي||ٱلۡخِيَامِ",
+                    "en": "Fair ones||restrained||in||the pavilions"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Hoorum maqsooraatun fil khiyaam"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:73": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 73,
+                    "page": 534,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "2||2||2||3",
+                    "end": "٧٣",
+                    "end_line": 3,
+                    "id": "maka yang mana||nikmat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:74": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 74,
+                    "page": 534,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "lam||yatmith'hunna||insun||qablahum||wala||jannun",
+                    "line": "3||3||3||3||3||3",
+                    "end": "٧٤",
+                    "end_line": 3,
+                    "id": "tidak/belum||menyentuh mereka||manusia||sebelum mereka||dan tidak||jin",
+                    "ar": "لَمۡ||يَطۡمِثۡهُنَّ||إِنسٞ||قَبۡلَهُمۡ||وَلَا||جَآنّٞ",
+                    "en": "Not||has touched them||any man||before them||and not||any jinn"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Lam yatmis-hunna insun qablahum Wa-laa jaaann"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:75": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 75,
+                    "page": 534,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "3||4||4||4",
+                    "end": "٧٥",
+                    "end_line": 4,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu berdua dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:76": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 76,
+                    "page": 534,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "muttakiina||ala||rafrafin||khud'rin||wa'abqariyyin||hisanin",
+                    "line": "4||4||4||4||5||5",
+                    "end": "٧٦",
+                    "end_line": 5,
+                    "id": "mereka bersandar||diatas||bantal-bantal||hijau||dan permandani||bagus indah",
+                    "ar": "مُتَّكِـِٔينَ||عَلَىٰ||رَفۡرَفٍ||خُضۡرٖ||وَعَبۡقَرِيٍّ||حِسَانٖ",
+                    "en": "Reclining||on||cushions||green||and carpets||beautiful"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Muttaki'eena 'alaa rafrafin khudrinw Wa-'abqariyyin hisaan"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:77": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 77,
+                    "page": 534,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "fabi-ayyi||alai||rabbikuma||tukadhibani",
+                    "line": "5||5||5||5",
+                    "end": "٧٧",
+                    "end_line": 5,
+                    "id": "maka yang mana||ni'mat||Tuhanmu berdua||kamu dustakan",
+                    "ar": "فَبِأَيِّ||ءَالَآءِ||رَبِّكُمَا||تُكَذِّبَانِ",
+                    "en": "So which||(of the) favors||(of) your Lord||will you both deny"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "55:78": {
+                "meta": {
+                    "chapter": 55,
+                    "verse": 78,
+                    "page": 534,
+                    "juz": 27,
+                    "hizb": 213,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "tabaraka||us'mu||rabbika||dhi||al-jalali||wal-ik'rami",
+                    "line": "6||6||6||6||6||6",
+                    "end": "٧٨",
+                    "end_line": 6,
+                    "id": "Maha Tinggi/Agung||nama||Tuhanmu||memiliki/mempunyai||Kebesaran||dan Kemuliaan",
+                    "ar": "تَبَٰرَكَ||ٱسۡمُ||رَبِّكَ||ذِي||ٱلۡجَلَٰلِ||وَٱلۡإِكۡرَامِ",
+                    "en": "Blessed is||(the) name||(of) your Lord||Owner||(of) Majesty||and Honor"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Tabaarak asmu Rabbika Zil Jalaali wal-ikraam"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "103:1": {
+                "meta": {
+                    "chapter": 103,
+                    "verse": 1,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 545,
+                    "words": 1
+                },
+                "words": {
+                    "transliteration": "wal-'asri",
+                    "line": "3",
+                    "end": "١",
+                    "end_line": 3,
+                    "id": "demi waktu",
+                    "ar": "وَٱلۡعَصۡرِ",
+                    "en": "By the time"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Wal-'asr"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "103:2": {
+                "meta": {
+                    "chapter": 103,
+                    "verse": 2,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 545,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "inna||al-insana||lafi||khus'rin",
+                    "line": "3||3||3||3",
+                    "end": "٢",
+                    "end_line": 3,
+                    "id": "sesungguhnya||manusia||benar-benar dalam||kerugian",
+                    "ar": "إِنَّ||ٱلۡإِنسَٰنَ||لَفِي||خُسۡرٍ",
+                    "en": "Indeed||mankind||(is) surely in||loss"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innal insaana lafee khusr"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "103:3": {
+                "meta": {
+                    "chapter": 103,
+                    "verse": 3,
+                    "page": 601,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 545,
+                    "words": 9
+                },
+                "words": {
+                    "transliteration": "illa||alladhina||amanu||wa'amilu||al-salihati||watawasaw||bil-haqi||watawasaw||bil-sabri",
+                    "line": "3||3||3||4||4||4||4||4||4",
+                    "end": "٣",
+                    "end_line": 4,
+                    "id": "kecuali||orang-orang yang||beriman||dan mereka berbuat/beramal||kebajikan/sholeh||dan mereka saling berwasiat/menasehati||dengan kebenaran||dan mereka saling berwasiat/menasehati||dengan kesabaran",
+                    "ar": "إِلَّا||ٱلَّذِينَ||ءَامَنُواْ||وَعَمِلُواْ||ٱلصَّٰلِحَٰتِ||وَتَوَاصَوۡاْ||بِٱلۡحَقِّ||وَتَوَاصَوۡاْ||بِٱلصَّبۡرِ",
+                    "en": "Except||those who||believe||and do||righteous deeds||and enjoin each other||to the truth||and enjoin each other||to [the] patience"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "illal lazeena aamanoo Wa-'amilus saalihaati Wa-tawaasaw bilhaqqi; Wa-tawaasaw bissabr"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

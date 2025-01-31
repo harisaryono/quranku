@@ -1,0 +1,616 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "96:1": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 1,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "iq'ra||bi-is'mi||rabbika||alladhi||khalaqa",
+                    "line": "11||11||11||11||11",
+                    "end": "١",
+                    "end_line": 11,
+                    "id": "bacalah||dengan nama||Tuhanmu||yang||menciptakan",
+                    "ar": "ٱقۡرَأۡ||بِٱسۡمِ||رَبِّكَ||ٱلَّذِي||خَلَقَ",
+                    "en": "Read||in (the) name||(of) your Lord||the One Who||created"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "iqra bismi rab-bikal lazee khalaq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:2": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 2,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "khalaqa||al-insana||min||alaqin",
+                    "line": "11||11||11||11",
+                    "end": "٢",
+                    "end_line": 11,
+                    "id": "menciptakan||manusia||dari||segumpal darah",
+                    "ar": "خَلَقَ||ٱلۡإِنسَٰنَ||مِنۡ||عَلَقٍ",
+                    "en": "He created||man||from||a clinging substance"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Khalaqal insaana min 'alaq"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:3": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 3,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "iq'ra||warabbuka||al-akramu",
+                    "line": "11||12||12",
+                    "end": "٣",
+                    "end_line": 12,
+                    "id": "bacalah||dan Tuhanmu||amat mulia",
+                    "ar": "ٱقۡرَأۡ||وَرَبُّكَ||ٱلۡأَكۡرَمُ",
+                    "en": "Read||and your Lord||(is) the Most Generous"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "iqra Wa-rab-bukal akram"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:4": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 4,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "alladhi||allama||bil-qalami",
+                    "line": "12||12||12",
+                    "end": "٤",
+                    "end_line": 12,
+                    "id": "yang||Dia mengajar||dengan kalam",
+                    "ar": "ٱلَّذِي||عَلَّمَ||بِٱلۡقَلَمِ",
+                    "en": "The One Who||taught||by the pen"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Al-lazee 'allama bil-qalam"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:5": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 5,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "allama||al-insana||ma||lam||ya'lam",
+                    "line": "12||12||13||13||13",
+                    "end": "٥",
+                    "end_line": 13,
+                    "id": "Dia mengajarkan||manusia||apa||tidak||dia ketahui",
+                    "ar": "عَلَّمَ||ٱلۡإِنسَٰنَ||مَا||لَمۡ||يَعۡلَمۡ",
+                    "en": "Taught||man||what||not||he knew"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "'Al-lamal insaana ma lam y'alam"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:6": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 6,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "kalla||inna||al-insana||layatgha",
+                    "line": "13||13||13||13",
+                    "end": "٦",
+                    "end_line": 13,
+                    "id": "sekali-kali tidak||sesungguhnya||manusia||benar-benar melampui batas",
+                    "ar": "كـَلَّآ||إِنَّ||ٱلۡإِنسَٰنَ||لَيَطۡغَىٰٓ",
+                    "en": "Nay!||Indeed||man||surely transgresses"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Kallaa innal insaana layatghaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:7": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 7,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "an||raahu||is'taghna",
+                    "line": "13||13||13",
+                    "end": "٧",
+                    "end_line": 13,
+                    "id": "bahwa||ia melihatnya||dia serba cukup",
+                    "ar": "أَن||رَّءَاهُ||ٱسۡتَغۡنَىٰٓ",
+                    "en": "Because||he sees himself||self-sufficient"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ar-ra aahus taghnaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:8": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 8,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "inna||ila||rabbika||al-ruj'a",
+                    "line": "14||14||14||14",
+                    "end": "٨",
+                    "end_line": 14,
+                    "id": "sesungguhnya||kepada||Tuhanmu||tempat kembali",
+                    "ar": "إِنَّ||إِلَىٰ||رَبِّكَ||ٱلرُّجۡعَىٰٓ",
+                    "en": "Indeed||to||your Lord||(is) the return"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innna ilaa rabbikar ruj'aa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:9": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 9,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "ara-ayta||alladhi||yanha",
+                    "line": "14||14||14",
+                    "end": "٩",
+                    "end_line": 14,
+                    "id": "apakah kamu lihat/pendapatmu||yang/orang-orang||ia melarang",
+                    "ar": "أَرَءَيۡتَ||ٱلَّذِي||يَنۡهَىٰ",
+                    "en": "Have you seen||the one who||forbids"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ara-aital lazee yanhaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:10": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 10,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "abdan||idha||salla",
+                    "line": "14||15||15",
+                    "end": "١٠",
+                    "end_line": 15,
+                    "id": "hamba||apabila||sholat",
+                    "ar": "عَبۡدًا||إِذَا||صَلَّىٰٓ",
+                    "en": "A slave||when||he prays"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "'Abdan iza sallaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:11": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 11,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "ara-ayta||in||kana||ala||al-huda",
+                    "line": "15||15||15||15||15",
+                    "end": "١١",
+                    "end_line": 15,
+                    "id": "apakah kamu lihat/pendapatmu||jika||adalah||atas||petunjuk",
+                    "ar": "أَرَءَيۡتَ||إِن||كَانَ||عَلَى||ٱلۡهُدَىٰٓ",
+                    "en": "Have you seen||if||he is||upon||[the] guidance"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ara-aita in kana 'alal hudaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:12": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 12,
+                    "page": 597,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "aw||amara||bil-taqwa",
+                    "line": "15||15||15",
+                    "end": "١٢",
+                    "end_line": 15,
+                    "id": "atau||dia menyuruh||dengan taqwa",
+                    "ar": "أَوۡ||أَمَرَ||بِٱلتَّقۡوَىٰٓ",
+                    "en": "Or||he enjoins||[of the] righteousness"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Au amara bit-taqwaa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:13": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 13,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "ara-ayta||in||kadhaba||watawalla",
+                    "line": "1||1||1||1",
+                    "end": "١٣",
+                    "end_line": 1,
+                    "id": "apakah kamu lihat/pendapatmu||jika||mendustakan||dan dia berpaling",
+                    "ar": "أَرَءَيۡتَ||إِن||كَذَّبَ||وَتَوَلَّىٰٓ",
+                    "en": "Have you seen||if||he denies||and turns away"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Ara-aita in kaz-zaba Wa-ta-walla"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:14": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 14,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "alam||ya'lam||bi-anna||al-laha||yara",
+                    "line": "1||1||1||1||1",
+                    "end": "١٤",
+                    "end_line": 1,
+                    "id": "apakah tidak/tidaklah||dia mengetahui||bahwa sesungguhnya||Allah||Dia melihat",
+                    "ar": "أَلَمۡ||يَعۡلَم||بِأَنَّ||ٱللَّهَ||يَرَىٰ",
+                    "en": "Does not||he know||that||Allah||sees"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Alam y'alam bi-an-nal lahaa yaraa"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:15": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 15,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 6
+                },
+                "words": {
+                    "transliteration": "kalla||la-in||lam||yantahi||lanasfa'an||bil-nasiyati",
+                    "line": "1||1||1||1||2||2",
+                    "end": "١٥",
+                    "end_line": 2,
+                    "id": "sekali-kali tidak||sungguh jika||tidak||dia berhenti||niscaya kami pegang/tarik||dengan umbun-umbun",
+                    "ar": "كـَلَّا||لَئِن||لَّمۡ||يَنتَهِ||لَنَسۡفَعَۢا||بِٱلنَّاصِيَةِ",
+                    "en": "Nay!||If||not||he desists||surely We will drag him||by the forelock"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Kalla la-il lam yantahi la-nasfa'am bin-nasiyah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:16": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 16,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "nasiyatin||kadhibatin||khati-atin",
+                    "line": "2||2||2",
+                    "end": "١٦",
+                    "end_line": 2,
+                    "id": "umbun-umbun||pendusta||salah/durhaka",
+                    "ar": "نَاصِيَةٖ||كَٰذِبَةٍ||خَاطِئَةٖ",
+                    "en": "A forelock||lying||sinful"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Nasiyatin kazi-batin khaatiah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:17": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 17,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "falyad'u||nadiyahu",
+                    "line": "2||2",
+                    "end": "١٧",
+                    "end_line": 2,
+                    "id": "maka hendaklah dia memanggil||kaum/golongannya",
+                    "ar": "فَلۡيَدۡعُ||نَادِيَهُۥ",
+                    "en": "Then let him call||his associates"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fal-yad'u naadiyah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:18": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 18,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 2
+                },
+                "words": {
+                    "transliteration": "sanad'u||al-zabaniyata",
+                    "line": "3||3",
+                    "end": "١٨",
+                    "end_line": 3,
+                    "id": "kelak Kami memanggil||Zabaniyah",
+                    "ar": "سَنَدۡعُ||ٱلزَّبَانِيَةَ",
+                    "en": "We will call||the Angels of Hell"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Sanad-'uz zabaaniyah"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "96:19": {
+                "meta": {
+                    "chapter": 96,
+                    "verse": 19,
+                    "page": 598,
+                    "juz": 30,
+                    "hizb": 239,
+                    "manzil": 7,
+                    "ruku": 538,
+                    "words": 5
+                },
+                "words": {
+                    "transliteration": "kalla||la||tuti'hu||wa-us'jud||wa-iq'tarib",
+                    "line": "3||3||3||3||3",
+                    "end": "١٩",
+                    "end_line": 3,
+                    "id": "sekali-kali||jangan||kamu patuh kepadanya||dan sujudlah||dan dekatkanlah",
+                    "ar": "كـَلَّا||لَا||تُطِعۡهُ||وَٱسۡجُدۡۤ||وَٱقۡتَرِب۩",
+                    "en": "Nay!||(Do) not||obey him||But prostrate||and draw near (to Allah)"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Kalla; la tuti'hu wasjud waqtarib"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}

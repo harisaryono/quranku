@@ -1,0 +1,104 @@
+{
+    "code": 200,
+    "source": "db",
+    "data": {
+        "verses": {
+            "108:1": {
+                "meta": {
+                    "chapter": 108,
+                    "verse": 1,
+                    "page": 602,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 550,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "inna||a'taynaka||al-kawthara",
+                    "line": "14||14||14",
+                    "end": "١",
+                    "end_line": 14,
+                    "id": "sesungguhnya||Aku telah memberikan||nikmat yang banyak",
+                    "ar": "إِنَّآ||أَعۡطَيۡنَٰكَ||ٱلۡكَوۡثَرَ",
+                    "en": "Indeed, We||have given you||Al-Kauthar"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "innaaa a'tainaa-kal kauthar"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "108:2": {
+                "meta": {
+                    "chapter": 108,
+                    "verse": 2,
+                    "page": 602,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 550,
+                    "words": 3
+                },
+                "words": {
+                    "transliteration": "fasalli||lirabbika||wa-in'har",
+                    "line": "14||14||14",
+                    "end": "٢",
+                    "end_line": 14,
+                    "id": "maka dirikanlah sholat||karena Tuhanmu||dan berkurbanlah",
+                    "ar": "فَصَلِّ||لِرَبِّكَ||وَٱنۡحَرۡ",
+                    "en": "So pray||to your Lord||and sacrifice"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "Fasalli li-rabbika wanhar"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            },
+            "108:3": {
+                "meta": {
+                    "chapter": 108,
+                    "verse": 3,
+                    "page": 602,
+                    "juz": 30,
+                    "hizb": 240,
+                    "manzil": 7,
+                    "ruku": 550,
+                    "words": 4
+                },
+                "words": {
+                    "transliteration": "inna||shani-aka||huwa||al-abtaru",
+                    "line": "15||15||15||15",
+                    "end": "٣",
+                    "end_line": 15,
+                    "id": "sesungguhnya||orang yang membencimu||dia||terputus",
+                    "ar": "إِنَّ||شَانِئَكَ||هُوَ||ٱلۡأَبۡتَرُ",
+                    "en": "Indeed||your enemy||he (is)||the one cut off"
+                },
+                "translations": [
+                    {
+                        "id": 1,
+                        "resource_id": 1,
+                        "text": "inna shaani'aka huwal abtar"
+                    },
+                    {
+                        "id": 3,
+                        "resource_id": 3
+                    }
+                ]
+            }
+        }
+    }
+}
